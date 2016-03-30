@@ -14,7 +14,7 @@ lastfm_service = lastfm.LastFm(os.getenv('LASTFM_API_KEY'))
 gender_providers = [
     musicgraph.MusicGraph(os.getenv('MUSICGRAPH_API_KEY')),
     musicbrainz,
-    genderizeio,
+    genderizeio.GenderizeIO(os.getenv('GENDERIZEIO_API_KEY')),
 ]
 
 try:
@@ -50,6 +50,7 @@ def get_gender(artist):
 
 def get_gender_cached(artist):
     if artist['name'] in cache:
+        print "CACHE HIT", artist['name']
         return cache[artist['name']]
     return get_gender(artist)
 
