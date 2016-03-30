@@ -16,10 +16,13 @@ class MusicGraph(object):
         'both' for mixed-gender bands, 'other' or None if unknown).
         """
         artistname = artist.encode('utf-8')
-        r = requests.get('%(base_url)s/artist/search?api_key=%(api_key)s&limit=1&%(query)s' \
-            % {'base_url': BASE_URL, 'api_key': self._api_key,
-                'query': urllib.urlencode({'name': artistname})})
-        j = r.json()
+        params = {
+            'api_key': self._api_key,
+            'limit': '1',
+            'name': artistname
+        }
+        j = requests.get('%(base_url)s/artist/search' \
+            % {'base_url': BASE_URL}, params=params).json()
         if 'data' in j and len(j['data']) > 0 and 'gender' in j['data'][0]:
             return j['data'][0]['gender'].lower()
         else:

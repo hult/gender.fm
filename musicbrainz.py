@@ -2,14 +2,11 @@ import requests
 import urllib
 import xmltodict
 
-BASE_URL = 'http://musicbrainz.org/ws/2/artist'
-
 def gender(artist):
     artistname = artist.encode('utf-8')
-    r = requests.get('%(base_url)s/?%(query)s' % \
-      {'base_url': BASE_URL,
-       'query': urllib.urlencode(
-        {'query': 'artist:%s' % artistname})})
+    params = { 'query': 'artist:%s' % artistname }
+    r = requests.get('http://musicbrainz.org/ws/2/artist',
+       params=params)
     if r.status_code == 200:
         data = xmltodict.parse(r.text)
         if 'metadata' in data and 'artist-list' in data['metadata'] \
