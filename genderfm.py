@@ -23,15 +23,23 @@ def top_artists_with_gender(username):
     res = []
     for i, artist in enumerate(lastfm_service.top_artists(username)):
         print i
-        for provider in gender_providers:
-            gender = provider.gender(artist['name'])
-            if gender is not None:
-                break
+        gender, gender_provider = get_gender(artist)
         artist['gender'] = gender
-        artist['gender_provider'] = gender is not None and provider.__name__ or None
+        artist['gender_provider'] = gender_provider
         res.append(artist)
         time.sleep(1.5)
     return res
+
+def get_gender(artist):
+    """Given an artist (a dictionary with a name property), return
+    a tuple with its gender and the name of the provider of that
+    gender. If no gender is found, return None, None.
+    """
+    for provider in gender_providers:
+        gender = provider.gender(artist['name'])
+        if gender is not None:
+            break
+    return gender, gender is not None and provider.__name__ or None
 
 def gender_score(gender):
     return {
