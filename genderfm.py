@@ -43,14 +43,14 @@ def gender_score(gender):
 def main():
     artists = top_artists_with_gender(sys.argv[1])
     total_score = 0.0
-    total_playcount = 0
+    total_affinity = 0
     for i, artist in enumerate(artists):
         score = gender_score(artist['gender'])
         if score is not None:
-            total_score += score * int(artist['playcount'])
-            total_playcount += int(artist['playcount'])
-        print artist['name'], artist['playcount'], artist['gender_provider'], artist['gender']
-    print total_score / total_playcount
+            total_score += score * int(artist['affinity'])
+            total_affinity += int(artist['affinity'])
+        print artist['name'], artist['affinity'], artist['gender_provider'], artist['gender']
+    print total_score / total_affinity
 
 if __name__ == '__main__':
     main()

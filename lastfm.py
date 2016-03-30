@@ -12,5 +12,8 @@ class LastFm(object):
             'user': username,
             'period': period
         }
-        return requests.get('http://ws.audioscrobbler.com/2.0',
+        artists = requests.get('http://ws.audioscrobbler.com/2.0',
             params=params).json()['topartists']['artist']
+        for a in artists:
+            a['affinity'] = a['playcount']
+        return artists
