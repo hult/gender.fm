@@ -1,5557 +1,15892 @@
 (dp0
-VCapital Cities
+VMini Mansions
 p1
 (Vmale
 p2
 S'musicgraph'
 p3
 tp4
-sVThe Avener
+sVSoak
 p5
-(Vmale
-p6
-g3
-tp7
-sVDave Gahan
-p8
-(Vmale
-p9
-S'musicgraph'
-p10
-tp11
-sVLaidback Luke
-p12
-(Vmale
-p13
-g10
-tp14
-sVMåns Zelmerlöw
-p15
-(Vmale
-p16
-g3
-tp17
-sVAbraham Mateo
-p18
-(Vmale
-p19
-g3
-tp20
+(NNtp6
 sVKensington
+p7
+(NNtp8
+sVLes Sins
+p9
+(Vmale
+p10
+S'musicbrainz'
+p11
+tp12
+sVSpeedy Ortiz
+p13
+(Vmale
+p14
+g3
+tp15
+sVDierks Bentley
+p16
+(Vmale
+p17
+S'musicgraph'
+p18
+tp19
+sVCrosby, Stills & Nash
+p20
+(Vmale
 p21
-(NNtp22
-sVAvicii
+g3
+tp22
+sVMad Season
 p23
 (Vmale
 p24
-S'musicgraph'
-p25
-tp26
-sVRasmus Seebach
-p27
-(Vmale
-p28
 g3
-tp29
-sVThe Weeknd
-p30
+tp25
+sVJamie Woon
+p26
 (Vmale
+p27
+g3
+tp28
+sVPia Mia
+p29
+(Vfemale
+p30
+S'musicgraph'
 p31
-g25
 tp32
-sVJohn Grant
+sVDan Croll
 p33
 (Vmale
 p34
-g10
-tp35
-sVPeking Duk
-p36
-(NNtp37
-sVDillon Francis
-p38
-(Vmale
-p39
 g3
-tp40
-sVGavin James
-p41
+tp35
+sVArchitects
+p36
 (Vmale
+p37
+g3
+tp38
+sVAC/DC
+p39
+(Vmale
+p40
+g18
+tp41
+sVNirvana
 p42
-g10
-tp43
-sVBrigitte
-p44
-(Vfemale
+(Vmale
+p43
+g31
+tp44
+sVJourney
 p45
-S'genderizeio'
+(Vmale
 p46
+g18
 tp47
-sVPia Mia
+sViamamiwhoami
 p48
-(Vfemale
+(Vboth
 p49
-g10
+g3
 tp50
-sVThe Vamps
+sVRed Foo
 p51
 (NNtp52
-sVG-Eazy
+sVTimmy Trumpet
 p53
 (Vmale
 p54
-g3
+g18
 tp55
-sVRoberto Carlos
+sVProcol Harum
 p56
 (Vmale
 p57
-g10
+g3
 tp58
-sVOscar and the Wolf
+sVAsha Bhosle
 p59
-(Vmale
+(Vfemale
 p60
-g46
+g31
 tp61
-sVJames Blunt
+sVDaughtry
 p62
 (Vmale
 p63
-g10
+g3
 tp64
-sVEminem
+sVRicardo Arjona
 p65
 (Vmale
 p66
-g25
+g31
 tp67
-sVNirvana
+sVAxwell /\u005c Ingrosso
 p68
 (Vmale
 p69
-g10
+g3
 tp70
-sVFababy
+sVSHINee
 p71
 (Vmale
 p72
-g10
+g18
 tp73
-sVDiplo
+sVHawkwind
 p74
 (Vmale
 p75
-g25
+g3
 tp76
-sVRed Foo
+sVJulien Doré
 p77
-(NNtp78
-sVDarius Rucker
-p79
 (Vmale
+p78
+g31
+tp79
+sVMansionair
 p80
-g10
-tp81
-sVMs Mr
+(NNtp81
+sVBen Folds Five
 p82
-(Vboth
+(Vmale
 p83
-g10
+g3
 tp84
-sVTimmy Trumpet
+sVGustavo Santaolalla
 p85
 (Vmale
 p86
 g3
 tp87
-sVRascal Flatts
+sVSan Cisco
 p88
-(Vmale
+(Vboth
 p89
-g10
+g3
 tp90
-sVWanda
+sVMinor Threat
 p91
-(Vfemale
+(Vmale
 p92
-g10
+g3
 tp93
-sVTan Bionica
+sVa-ha
 p94
 (NNtp95
-sVZhu
+sVAnnenMayKantereit
 p96
+(NNtp97
+sVTez Cadey
+p98
 (Vmale
-p97
-g3
-tp98
-sVAsha Bhosle
 p99
-(Vfemale
-p100
-g10
-tp101
-sVThe Prodigy
-p102
-(Vmale
+g31
+tp100
+sVHa-Ash
+p101
+(NNtp102
+sVEmmy the Great
 p103
-g10
-tp104
-sVFunda Arar
-p105
 (Vfemale
+p104
+g3
+tp105
+sVArvo Pärt
 p106
-g10
-tp107
-sVMax Gazzè
-p108
 (Vmale
+p107
+g3
+tp108
+sVThe Crystal Method
 p109
-g3
-tp110
-sVSHINee
-p111
 (Vmale
+p110
+g3
+tp111
+sVKongos
 p112
-g3
-tp113
-sVThree Days Grace
-p114
 (Vmale
+p113
+g3
+tp114
+sVLucas Lucco
 p115
-g3
-tp116
-sVThe Beatles
-p117
 (Vmale
+p116
+g31
+tp117
+sVSander Van Doorn
 p118
-g3
-tp119
-sVErykah Badu
-p120
-(Vfemale
-p121
-g3
-tp122
-sVBerkay
-p123
 (Vmale
+p119
+g3
+tp120
+sVTwisted Sister
+p121
+(Vmale
+p122
+g3
+tp123
+sVMISIA
 p124
-g46
-tp125
-sVMarama
-p126
-(NNtp127
-sVAriana Grande
-p128
 (Vfemale
+p125
+g31
+tp126
+sVBanda do Mar
+p127
+(NNtp128
+sVThe Chainsmokers
 p129
-g25
-tp130
-sVLaura Pausini
+(NNtp130
+sVJohn Mellencamp
 p131
-(Vfemale
+(Vmale
 p132
 g3
 tp133
-sVPepe Aguilar
+sVNew Radicals
 p134
-(Vmale
-p135
-g10
-tp136
-sVChoc Quib Town
-p137
-(Vboth
-p138
-g10
-tp139
-sVTeflon Brothers
-p140
-(NNtp141
-sVJoJo
-p142
 (Vfemale
-p143
-g10
-tp144
-sVMarc Anthony
-p145
-(Vmale
-p146
+p135
+S'genderizeio'
+p136
+tp137
+sVTOPS
+p138
+(NNtp139
+sVSuzanne Vega
+p140
+(Vfemale
+p141
 g3
-tp147
-sVa-ha
-p148
-(NNtp149
-sVJauz
-p150
+tp142
+sVMatt Simons
+p143
 (Vmale
+p144
+g18
+tp145
+sVSash!
+p146
+(NNtp147
+sVKatrina and the Waves
+p148
+(Vfemale
+p149
+g136
+tp150
+sVThe Wailers
 p151
-S'musicbrainz'
+(Vmale
 p152
+g3
 tp153
-sVFamily of the Year
+sVThe Mowgli's
 p154
 (Vboth
 p155
-g10
+g3
 tp156
-sVVigiland
+sVDeath in Vegas
 p157
-(NNtp158
-sVTez Cadey
-p159
 (Vmale
+p158
+g3
+tp159
+sVThe Joy Formidable
 p160
-g10
-tp161
-sVYelaWolf
-p162
-(Vmale
-p163
-g10
-tp164
-sVHa-Ash
-p165
-(NNtp166
-sVGogol Bordello
-p167
 (Vboth
+p161
+g3
+tp162
+sVTrampled by Turtles
+p163
+(NNtp164
+sVStarset
+p165
+(Vmale
+p166
+g3
+tp167
+sVFinger Eleven
 p168
-g10
-tp169
-sV\u6771\u65b9\u795e\u8d77
-p170
-(NNtp171
-sVAvril Lavigne
+(Vmale
+p169
+g3
+tp170
+sVAirbourne
+p171
+(Vmale
 p172
-(Vfemale
-p173
-g10
-tp174
-sVEXILE
+g3
+tp173
+sVStarsailor
+p174
+(Vmale
 p175
-(Vmale
-p176
 g3
-tp177
-sVNicky Jam
+tp176
+sVAmber Run
+p177
+(Vfemale
 p178
+g136
+tp179
+sVDavid Bisbal
+p180
 (Vmale
-p179
-g25
-tp180
-sVLucas Lucco
 p181
-(Vmale
-p182
-g10
-tp183
-sVBeyoncé
+g31
+tp182
+sV\uc544\uc774\uc720 (IU)
+p183
+(Vfemale
 p184
-(Vfemale
+S'musicbrainz'
 p185
-g3
 tp186
-sVLana Del Rey
+sVWilson Pickett
 p187
-(Vfemale
+(Vmale
 p188
-g25
+g3
 tp189
-sVKATO
+sVDisturbed
 p190
-(Vfemale
+(Vmale
 p191
-g10
+g18
 tp192
-sVNightmares on Wax
+sVBadly Drawn Boy
 p193
 (Vmale
 p194
-g10
+g3
 tp195
-sVHooverphonic
+sVFaces
 p196
 (NNtp197
-sVBloc Party
+sVFifth Harmony
 p198
-(Vmale
-p199
-g10
-tp200
-sVThe Chainsmokers
-p201
-(NNtp202
-sVMC Hammer
-p203
-(Vmale
-p204
-g10
-tp205
-sVMatt Simons
-p206
-(Vmale
-p207
-g3
-tp208
-sVDiary of Dreams
-p209
-(NNtp210
-sV\u8521\u5065\u96c5
-p211
-(NNtp212
-sVDJ Polique
-p213
-(Vmale
-p214
-g10
-tp215
-sVTinashe
-p216
-(Vmale
-p217
-g10
-tp218
-sVDiego Torres
-p219
-(Vmale
-p220
-g10
-tp221
-sVHilltop Hoods
-p222
-(NNtp223
-sVJulieta Venegas
-p224
 (Vfemale
-p225
-g10
-tp226
-sVSimple Plan
-p227
+p199
+S'musicgraph'
+p200
+tp201
+sVKings of Leon
+p202
 (Vmale
-p228
+p203
+g31
+tp204
+sVRichard Ashcroft
+p205
+(Vmale
+p206
 g3
-tp229
-sVThe Dead Weather
-p230
-(Vboth
-p231
-g10
-tp232
-sV5 Seconds Of Summer
-p233
+tp207
+sVAnna Vissi
+p208
+(Vfemale
+p209
+g31
+tp210
+sVLindsey Stirling
+p211
+(Vfemale
+p212
+g3
+tp213
+sVMilo Greene
+p214
 (Vmale
-p234
-g25
-tp235
-sVSPYAIR
+p215
+g136
+tp216
+sVNat King Cole
+p217
+(Vmale
+p218
+g31
+tp219
+sVQueen
+p220
+(Vmale
+p221
+g18
+tp222
+sVB.B. King
+p223
+(Vmale
+p224
+g3
+tp225
+sVSavant
+p226
+(Vmale
+p227
+g3
+tp228
+sVHaim
+p229
+(Vfemale
+p230
+g18
+tp231
+sVThe Band Perry
+p232
+(Vboth
+p233
+g200
+tp234
+sVSurfer Blood
+p235
+(Vmale
 p236
-(NNtp237
-sVPlain White T's
+g3
+tp237
+sVWheatus
 p238
 (Vmale
 p239
-g10
+g3
 tp240
-sVWesley Safadão
+sVCiara
 p241
-(Vmale
+(Vfemale
 p242
-g152
+g31
 tp243
-sVAsaf Avidan & the Mojos
+sVYelle
 p244
-(NNtp245
-sVThe Cure
-p246
-(Vmale
+(Vfemale
+p245
+g3
+tp246
+sVAnd So I Watch You From Afar
 p247
-g10
-tp248
-sVSnow Patrol
-p249
 (Vmale
+p248
+g3
+tp249
+sVGoGo Penguin
 p250
-g10
-tp251
-sVYo Gotti
+(NNtp251
+sVGerry Rafferty
 p252
 (Vmale
 p253
-g10
+g3
 tp254
-sVMadilyn Bailey
+sVQuiet Riot
 p255
-(Vfemale
+(Vmale
 p256
 g3
 tp257
-sVHermitude
+sVAvenged Sevenfold
 p258
-(NNtp259
-sVLimp Bizkit
-p260
 (Vmale
+p259
+g18
+tp260
+sVHealth
 p261
-g10
-tp262
-sVLamb of God
-p263
 (Vmale
+p262
+g3
+tp263
+sVSay Anything
 p264
-g10
-tp265
-sVMetallica
-p266
 (Vmale
+p265
+g3
+tp266
+sVGrabbitz
 p267
-g3
-tp268
-sVAlejandro Sanz
-p269
 (Vmale
+p268
+g3
+tp269
+sVJim Croce
 p270
-g3
-tp271
-sVBruno & Marrone
-p272
 (Vmale
+p271
+g3
+tp272
+sVSam Hunt
 p273
-g10
-tp274
-sVLIGABUE
-p275
 (Vmale
+p274
+g200
+tp275
+sVAlesso
 p276
-g10
-tp277
-sVRush
-p278
 (Vmale
+p277
+g18
+tp278
+sVRicky Martin
 p279
-g3
-tp280
-sVDuran Duran
-p281
 (Vmale
+p280
+g200
+tp281
+sV\u6e0b\u8c37\u3059\u3070\u308b
 p282
-g10
-tp283
-sVEmma
-p284
-(Vfemale
-p285
-g10
-tp286
-sVJesse & Joy
-p287
 (Vmale
+p283
+g185
+tp284
+sVBobby McFerrin
+p285
+(Vmale
+p286
+g3
+tp287
+sVBlind Guardian
 p288
-S'genderizeio'
+(Vmale
 p289
+g3
 tp290
-sVBushido
+sVKyuss
 p291
 (Vmale
 p292
-g10
+g3
 tp293
-sVDire Straits
+sVArmand Van Helden
 p294
 (Vmale
 p295
-g10
+g18
 tp296
-sVMo
+sVJuan Gabriel
 p297
-(NNtp298
-sV\uc544\uc774\uc720 (IU)
-p299
-(Vfemale
-p300
-g152
-tp301
-sVMeghan Trainor
-p302
-(Vfemale
-p303
-g25
-tp304
-sVDisturbed
-p305
 (Vmale
-p306
+p298
+g31
+tp299
+sVAdventure Club
+p300
+(Vmale
+p301
 g3
-tp307
-sVElle King
+tp302
+sVLouis Futon
+p303
+(Vmale
+p304
+g136
+tp305
+sVOf Monsters and Men
+p306
+(NNtp307
+sVEra Istrefi
 p308
 (Vfemale
 p309
-g3
+g11
 tp310
-sVPitbull
+sVMinistry
 p311
 (Vmale
 p312
-g25
+g3
 tp313
-sVFifth Harmony
+sVONE OK ROCK
 p314
-(Vfemale
-p315
-g25
-tp316
-sVKings of Leon
-p317
-(Vmale
-p318
-g10
-tp319
-sVR3hab
-p320
-(Vmale
-p321
-g3
-tp322
-sVDon Henley
-p323
-(Vmale
-p324
-g10
-tp325
-sVAnna Vissi
-p326
-(Vfemale
-p327
-g10
-tp328
-sVMichael Jackson
-p329
-(Vmale
-p330
-g3
-tp331
-sVDimitri Vegas
-p332
-(Vmale
-p333
-g25
-tp334
-sVBomba Estéreo
-p335
-(NNtp336
-sVNat King Cole
-p337
-(Vmale
-p338
-g10
-tp339
-sVLethal Bizzle
-p340
-(Vmale
-p341
-g10
-tp342
-sVQueen
-p343
-(Vmale
-p344
-g3
-tp345
-sVJames Taylor
-p346
-(Vmale
-p347
-g10
-tp348
-sVPablo López
-p349
-(Vmale
-p350
-g3
-tp351
-sVHaim
-p352
-(Vfemale
-p353
-g3
-tp354
-sVTravis
-p355
-(Vmale
-p356
-g10
-tp357
-sVThe Band Perry
-p358
+(NNtp315
+sVHeartless Bastards
+p316
 (Vboth
-p359
-g25
-tp360
-sVBlack M
-p361
-(Vmale
-p362
+p317
 g3
-tp363
-sVJames Arthur
-p364
+tp318
+sVBooka Shade
+p319
+(NNtp320
+sVMarmozets
+p321
+(NNtp322
+sVThe Birthday Massacre
+p323
+(NNtp324
+sVCarbon Based Lifeforms
+p325
+(NNtp326
+sVThe Beta Band
+p327
 (Vmale
+p328
+g3
+tp329
+sVLuis Fonsi
+p330
+(Vmale
+p331
+g31
+tp332
+sVHands Like Houses
+p333
+(Vmale
+p334
+g3
+tp335
+sVPaloma Faith
+p336
+(Vfemale
+p337
+g31
+tp338
+sVAimee Mann
+p339
+(Vfemale
+p340
+g3
+tp341
+sVDanzig
+p342
+(Vmale
+p343
+g3
+tp344
+sVKenny Chesney
+p345
+(Vmale
+p346
+g18
+tp347
+sVTemple of the Dog
+p348
+(Vmale
+p349
+g3
+tp350
+sVHouse of Pain
+p351
+(Vmale
+p352
+g3
+tp353
+sVAndrew McMahon in the Wilderness
+p354
+(Vmale
+p355
+g136
+tp356
+sVThomas Bergersen
+p357
+(Vmale
+p358
+g3
+tp359
+sVRiverside
+p360
+(NNtp361
+sVQuincy Jones
+p362
+(Vmale
+p363
+g3
+tp364
+sVThe Qemists
 p365
-g10
-tp366
-sVNate Ruess
+(NNtp366
+sVFive for Fighting
 p367
 (Vmale
 p368
-g10
-tp369
-sVMarina Kaye
-p370
-(Vfemale
-p371
-S'musicbrainz'
-p372
-tp373
-sVBunbury
-p374
-(Vmale
-p375
-g10
-tp376
-sVLondon Grammar
-p377
-(Vboth
-p378
-g10
-tp379
-sVSebastiAn
-p380
-(Vmale
-p381
-g152
-tp382
-sVtobyMac
-p383
-(Vmale
-p384
-g10
-tp385
-sVGlasperlenspiel
-p386
-(Vboth
-p387
 g3
-tp388
-sVDvicio
+tp369
+sVSlash
+p370
+(Vmale
+p371
+g3
+tp372
+sVMax Jury
+p373
+(Vmale
+p374
+g3
+tp375
+sVOscar Peterson Trio
+p376
+(Vmale
+p377
+g3
+tp378
+sVLit
+p379
+(Vmale
+p380
+g3
+tp381
+sVWax Tailor
+p382
+(Vmale
+p383
+g3
+tp384
+sVPatsy Cline
+p385
+(Vfemale
+p386
+g3
+tp387
+sVCannibal Corpse
+p388
+(Vmale
 p389
-(NNtp390
-sVTwenty One Pilots
+g3
+tp390
+sVLuke Bryan
 p391
 (Vmale
 p392
-g3
+g200
 tp393
-sVLos Tigres del Norte
+sVAngelo Badalamenti
 p394
 (Vmale
 p395
-g10
+g3
 tp396
-sVAnnie Lennox
+sVEmicida
 p397
-(Vfemale
+(Vmale
 p398
-g10
+g3
 tp399
-sVCazzette
+sVIl Divo
 p400
-(NNtp401
-sVJ.Ax
-p402
-(NNtp403
-sVPaul van Dyk
+(Vmale
+p401
+g31
+tp402
+sVAmy Winehouse
+p403
+(Vfemale
 p404
-(Vmale
-p405
-g10
-tp406
-sVAvenged Sevenfold
+g18
+tp405
+sVLittle Mix
+p406
+(Vfemale
 p407
+g200
+tp408
+sVPhoenix
+p409
 (Vmale
-p408
-g3
-tp409
-sVPaty Cantú
 p410
-(Vfemale
-p411
-g10
-tp412
-sVCarlos Vives
+g31
+tp411
+sVPerturbator
+p412
+(Vmale
 p413
-(Vmale
-p414
 g3
-tp415
-sVJustin Timberlake
+tp414
+sVChase & Status
+p415
+(Vmale
 p416
+g136
+tp417
+sVFreddie Gibbs
+p418
 (Vmale
-p417
-g3
-tp418
-sVSak Noel
 p419
+g31
+tp420
+sVXzibit
+p421
 (Vmale
-p420
-g10
-tp421
-sVSam Hunt
 p422
+g3
+tp423
+sVThe Front Bottoms
+p424
 (Vmale
-p423
-g25
-tp424
-sVCarlos Baute
 p425
-(Vmale
-p426
-g10
-tp427
-sVAlesso
-p428
-(Vmale
+g3
+tp426
+sVAnimals as Leaders
+p427
+(NNtp428
+sVOliver Heldens
 p429
-g3
-tp430
-sVJuju
-p431
-(NNtp432
-sVLena
+(Vmale
+p430
+g18
+tp431
+sVLittle Green Cars
+p432
+(Vboth
 p433
-(Vfemale
-p434
-g372
-tp435
-sVRY X
+g3
+tp434
+sVArchitecture in Helsinki
+p435
+(Vboth
 p436
-(Vmale
-p437
-g10
-tp438
-sVMelendi
-p439
-(Vmale
+g3
+tp437
+sVSix60
+p438
+(NNtp439
+sVMemphis May Fire
 p440
-g10
-tp441
-sVRicky Martin
-p442
 (Vmale
+p441
+g3
+tp442
+sVBeach House
 p443
-g25
-tp444
-sV\u6e0b\u8c37\u3059\u3070\u308b
-p445
-(Vmale
+(Vboth
+p444
+g31
+tp445
+sVJoyce Manor
 p446
-g152
-tp447
-sV\ubc15\uc7ac\ubc94
-p448
-(NNtp449
-sVAkon
+(Vmale
+p447
+g3
+tp448
+sVBen E. King
+p449
+(Vmale
 p450
-(Vmale
-p451
 g3
-tp452
-sVMilky Chance
+tp451
+sVL7
+p452
+(Vfemale
 p453
-(Vmale
-p454
 g3
-tp455
-sVArmand Van Helden
+tp454
+sVGym Class Heroes
+p455
+(Vmale
 p456
-(Vmale
-p457
 g3
-tp458
-sVJuan Gabriel
-p459
+tp457
+sVLess Than Jake
+p458
 (Vmale
-p460
-g10
-tp461
-sVSilbermond
+p459
+g3
+tp460
+sVCarole King
+p461
+(Vfemale
 p462
-(NNtp463
-sVOf Monsters and Men
+g3
+tp463
+sVBanners
 p464
 (NNtp465
-sVKid Ink
+sVA Flock of Seagulls
 p466
 (Vmale
 p467
-g10
+g3
 tp468
-sVTove Lo
+sVC\u0153ur De Pirate
 p469
 (Vfemale
 p470
-g3
-tp471
-sVHalf Moon Run
-p472
-(Vmale
+S'musicbrainz'
+p471
+tp472
+sVKamelot
 p473
-g10
-tp474
-sVONE OK ROCK
+(NNtp474
+sVDvbbs
 p475
-(NNtp476
-sVShania Twain
-p477
-(Vfemale
+(Vmale
+p476
+g18
+tp477
+sVFrankie Valli & the Four Seasons
 p478
-g10
-tp479
-sVFoo Fighters
-p480
-(NNtp481
-sVSorriso Maroto
+(Vmale
+p479
+g3
+tp480
+sVGrace Jones
+p481
+(Vfemale
 p482
-(Vmale
-p483
-g10
-tp484
-sVSebastian Ingrosso
-p485
-(Vmale
+g3
+tp483
+sV\u041a\u0438\u043d\u043e
+p484
+(NNtp485
+sVThe Lumineers
 p486
-g10
-tp487
-sVFlorence + The Machine
-p488
-(Vfemale
+(Vboth
+p487
+g31
+tp488
+sVMaxwell
 p489
-g25
-tp490
-sVLuis Fonsi
-p491
 (Vmale
+p490
+g3
+tp491
+sVAndra Day
 p492
-g10
-tp493
-sVInterpol
-p494
-(Vmale
+(Vfemale
+p493
+g3
+tp494
+sVNeu!
 p495
-g10
-tp496
-sVPaloma Faith
-p497
-(Vfemale
+(Vmale
+p496
+g3
+tp497
+sVAstrud Gilberto
 p498
-g10
-tp499
-sVSEKAI NO OWARI
-p500
-(NNtp501
-sVMarvin Gaye
-p502
-(Vmale
+(Vfemale
+p499
+g3
+tp500
+sVShpongle
+p501
+(NNtp502
+sVAntonín Dvo\u0159ák
 p503
-g3
-tp504
-sVDisclosure
-p505
 (Vmale
+p504
+g3
+tp505
+sVThe Orwells
 p506
-g25
-tp507
-sVKenny Chesney
-p508
 (Vmale
+p507
+g3
+tp508
+sVDustin Tebbutt
 p509
-g3
-tp510
-sVLes Cowboys Fringants
-p511
 (Vmale
+p510
+g3
+tp511
+sVBeyond
 p512
-g46
-tp513
-sVShaan
-p514
 (Vmale
+p513
+g31
+tp514
+sVMichelle Branch
 p515
-g10
-tp516
-sVMaria Mena
-p517
 (Vfemale
+p516
+g3
+tp517
+sVKyla La Grange
 p518
-g10
-tp519
-sVBring Me the Horizon
-p520
-(Vmale
+(Vfemale
+p519
+g3
+tp520
+sVDionne Warwick
 p521
+(Vfemale
+p522
 g3
-tp522
-sVMarlon Roudette
-p523
-(Vmale
+tp523
+sVMayer Hawthorne
 p524
-g10
-tp525
-sVMute Math
-p526
-(NNtp527
-sVSevyn Streeter
-p528
-(Vfemale
-p529
-g10
-tp530
-sVG.E.M.
-p531
-(NNtp532
-sVItaloBrothers
-p533
 (Vmale
-p534
-g10
-tp535
-sVThe Notorious B.I.G.
-p536
-(Vmale
-p537
+p525
 g3
-tp538
-sVSweet California
+tp526
+sVAdam Levine
+p527
+(Vmale
+p528
+g18
+tp529
+sV\u738b\u83f2
+p530
+(NNtp531
+sVNazareth
+p532
+(Vmale
+p533
+g3
+tp534
+sVStacey Kent
+p535
+(Vfemale
+p536
+g3
+tp537
+sVFrancesca Michielin
+p538
+(Vfemale
 p539
-(NNtp540
-sVAnastácia
+g31
+tp540
+sVJunior Boys
 p541
-(Vfemale
+(Vmale
 p542
-g10
+g3
 tp543
-sVKiesza
+sVAmon Tobin
 p544
-(Vfemale
+(Vmale
 p545
-g10
+g3
 tp546
-sVMadeon
+sVEduardo Costa
 p547
 (Vmale
 p548
-g10
+g31
 tp549
-sVCourtney Barnett
+sVXXYYXX
 p550
-(Vfemale
+(Vboth
 p551
-g10
+g3
 tp552
-sV\u5f35\u656c\u8ed2
+sVTed Nugent
 p553
 (Vmale
 p554
-g152
+g3
 tp555
-sVRachel Platten
+sVCrosby, Stills, Nash & Young
 p556
-(Vfemale
+(Vmale
 p557
-g25
+g3
 tp558
-sVMustafa Ceceli
+sVYoung Fathers
 p559
 (Vmale
 p560
-g10
-tp561
-sVParmalee
-p562
-(NNtp563
-sVThe Police
-p564
-(Vmale
-p565
-g10
-tp566
-sVWolfgang Amadeus Mozart
-p567
-(Vmale
-p568
-g10
-tp569
-sVMarco Borsato
-p570
-(Vmale
-p571
 g3
-tp572
-sVColdplay
-p573
+tp561
+sVCaro Emerald
+p562
+(Vfemale
+p563
+g3
+tp564
+sVseth sentry
+p565
 (Vmale
+p566
+g31
+tp567
+sVBeck
+p568
+(Vmale
+p569
+g18
+tp570
+sVASTR
+p571
+(Vboth
+p572
+g3
+tp573
+sVLabanoon
 p574
-g25
-tp575
-sVDallas Smith
+(NNtp575
+sVTitus Andronicus
 p576
 (Vmale
 p577
-g10
+g3
 tp578
-sVLuke Bryan
+sVBarbra Streisand
 p579
-(Vmale
-p580
-g25
-tp581
-sVTaylor Swift
-p582
 (Vfemale
-p583
-g25
-tp584
-sVAfrojack
-p585
+p580
+g3
+tp581
+sVLos Huracanes del Norte
+p582
 (Vmale
+p583
+g31
+tp584
+sVLittle Boots
+p585
+(Vfemale
 p586
 g3
 tp587
-sVIl Divo
+sVChris Brown
 p588
 (Vmale
 p589
-g10
+g200
 tp590
-sVAmy Winehouse
+sVElla Eyre
 p591
 (Vfemale
 p592
-g3
+g31
 tp593
-sVLittle Mix
+sVDuck Sauce
 p594
-(Vfemale
-p595
-g25
-tp596
-sVCali & El Dandee
-p597
-(NNtp598
-sVPhoenix
-p599
 (Vmale
+p595
+g31
+tp596
+sVAugust Burns Red
+p597
+(Vmale
+p598
+g3
+tp599
+sVSólstafir
 p600
-g10
-tp601
-sV2Cellos
+(NNtp601
+sVCurtis Mayfield
 p602
 (Vmale
 p603
-g10
+g3
 tp604
-sVIl Volo
+sVPublic Enemy
 p605
 (Vmale
 p606
-g10
-tp607
-sVDanny Saucedo
-p608
-(Vmale
-p609
 g3
+tp607
+sVAvril Lavigne
+p608
+(Vfemale
+p609
+g31
 tp610
-sVAsaf Avidan
+sVThe La's
 p611
 (Vmale
 p612
-g10
+g3
 tp613
-sVMadcon
+sVThe Pains of Being Pure at Heart
 p614
-(Vmale
+(Vboth
 p615
-g25
+g3
 tp616
-sVDarude
+sVStory of the Year
 p617
 (Vmale
 p618
-g10
+g3
 tp619
-sVKeith Urban
+sVEric Church
 p620
 (Vmale
 p621
-g3
+g18
 tp622
-sVOasis
+sVBurzum
 p623
 (Vmale
 p624
-g10
+g3
 tp625
-sVDorian
+sVSting
 p626
 (Vmale
 p627
-g10
+g31
 tp628
-sVThe Ramones
+sVThe Field
 p629
 (Vmale
 p630
 g3
 tp631
-sVTen Walls
+sVPuscifer
 p632
-(Vmale
-p633
-g10
-tp634
-sVOliver Heldens
+(NNtp633
+sVSeven Lions
+p634
+(Vboth
 p635
-(Vmale
-p636
 g3
-tp637
-sVVIXX
+tp636
+sVDawid Podsiadlo
+p637
+(Vmale
 p638
-(NNtp639
-sVLisa Nilsson
+g31
+tp639
+sVEmeli Sandé
 p640
 (Vfemale
 p641
-g10
+g3
 tp642
-sVSix60
+sVShakira
 p643
-(NNtp644
-sVGhost
-p645
-(NNtp646
-sVIndila
+(Vfemale
+p644
+g18
+tp645
+sVThe Neighbourhood
+p646
+(Vmale
 p647
-(Vfemale
-p648
-g10
-tp649
-sVBeach House
+g31
+tp648
+sVGeorge Ezra
+p649
+(Vmale
 p650
-(Vboth
-p651
-g10
-tp652
-sVKurt Vile
+g18
+tp651
+sVJ Balvin
+p652
+(Vmale
 p653
+g200
+tp654
+sVLouis The Child
+p655
 (Vmale
-p654
-g10
-tp655
-sV\u6c6a\u5cf0
 p656
-(NNtp657
-sVSynapson
+g136
+tp657
+sVOmarion
 p658
-(NNtp659
-sVLawson
-p660
 (Vmale
+p659
+g3
+tp660
+sVWinner
 p661
-g10
-tp662
-sVNikke Ankara
+(NNtp662
+sVEmmit Fenn
 p663
+(NNtp664
+sVPearl Jam
+p665
 (Vmale
-p664
-g152
-tp665
-sVJulien Doré
 p666
+g18
+tp667
+sVBear Hands
+p668
 (Vmale
-p667
-g10
-tp668
-sVRise Against
 p669
-(Vmale
-p670
 g3
-tp671
-sVChase Rice
+tp670
+sVSub Focus
+p671
+(Vmale
 p672
+g3
+tp673
+sVThe 1975
+p674
 (Vmale
-p673
-g10
-tp674
-sVC\u0153ur De Pirate
 p675
-(Vfemale
-p676
-g372
-tp677
-sVSander van Doorn
+g18
+tp676
+sVAndrew McMahon In The Wilderness
+p677
+(Vmale
 p678
-(Vmale
-p679
-g10
-tp680
-sVTom Odell
+g185
+tp679
+sVDresses
+p680
+(Vboth
 p681
-(Vmale
-p682
-g10
-tp683
-sVDvbbs
+g3
+tp682
+sVWhite Zombie
+p683
+(Vboth
 p684
-(Vmale
-p685
 g3
-tp686
-sVFarruko
+tp685
+sVAngel Olsen
+p686
+(Vfemale
 p687
+g3
+tp688
+sVHKT48
+p689
+(NNtp690
+sVCoheed and Cambria
+p691
 (Vmale
-p688
-g10
-tp689
-sVX Ambassadors
-p690
-(NNtp691
-sVThe Lumineers
 p692
-(Vboth
-p693
-g10
-tp694
-sVFar * East Movement
+g3
+tp693
+sVMuse
+p694
+(Vmale
 p695
+g18
+tp696
+sVDon Diablo
+p697
 (Vmale
-p696
-g3
-tp697
-sVOne Direction
 p698
-(Vmale
-p699
-g25
-tp700
-sVEazy-E
+g31
+tp699
+sVBABYMETAL
+p700
+(Vfemale
 p701
-(NNtp702
-sVShawn Mendes
+g3
+tp702
+sVArca
 p703
+(NNtp704
+sVMax Gazzè
+p705
 (Vmale
-p704
-g25
-tp705
-sVSelena Gomez
 p706
-(Vfemale
-p707
-g25
-tp708
-sVBeyond
+g18
+tp707
+sVSyd Matters
+p708
+(Vmale
 p709
+g3
+tp710
+sVOld Crow Medicine Show
+p711
 (Vmale
-p710
-g10
-tp711
-sVSonu Nigam
 p712
+g3
+tp713
+sVBronze Radio Return
+p714
 (Vmale
-p713
-g10
-tp714
-sVThe Black Eyed Peas
 p715
-(Vboth
-p716
-g10
-tp717
-sVRoger Waters
+g3
+tp716
+sVGreg Laswell
+p717
+(Vmale
 p718
-(Vmale
-p719
-g10
-tp720
-sVChris Tomlin
-p721
-(Vmale
+g3
+tp719
+sVSafia
+p720
+(NNtp721
+sVSwedish House Mafia
 p722
-g10
-tp723
-sVTim McGraw
-p724
 (Vmale
+p723
+g18
+tp724
+sVAlligatoah
 p725
-g25
-tp726
-sVAdam Levine
-p727
 (Vmale
+p726
+g18
+tp727
+sVPete Rock
 p728
-g3
-tp729
-sVPentatonix
-p730
-(NNtp731
-sVRod Stewart
-p732
 (Vmale
+p729
+g3
+tp730
+sVThe Shirelles
+p731
+(NNtp732
+sVIrene Cara
 p733
-g3
-tp734
-sVFreddie Gibbs
-p735
-(Vmale
-p736
-g10
-tp737
-sVRihanna
-p738
 (Vfemale
+p734
+g3
+tp735
+sVNovo Amor
+p736
+(Vmale
+p737
+g3
+tp738
+sVGeorge Strait
 p739
-g25
-tp740
-sVRick Ross
-p741
 (Vmale
+p740
+g18
+tp741
+sVGrandaddy
 p742
-g10
-tp743
-sVDasoul
-p744
 (Vmale
+p743
+g3
+tp744
+sVDrake & Future
 p745
-g10
-tp746
-sV257ers
+(NNtp746
+sVFrankie Cosmos
 p747
-(Vmale
+(Vfemale
 p748
-g10
+g3
 tp749
-sVElvis Presley
+sVPitty
 p750
-(Vmale
+(Vfemale
 p751
 g3
 tp752
-sVTina Arena
+sVFrench Montana
 p753
-(Vfemale
+(Vmale
 p754
-g10
+g3
 tp755
-sVBrett Eldredge
+sVBananarama
 p756
-(Vmale
+(Vfemale
 p757
-g10
+g3
 tp758
-sVJason Mraz
+sVGwen Stefani
 p759
-(Vmale
+(Vfemale
 p760
-g3
+g18
 tp761
-sVDamien Rice
+sVEmeli Sande
 p762
-(Vmale
+(Vfemale
 p763
-g3
+g31
 tp764
-sVEduardo Costa
+sVChico Buarque
 p765
 (Vmale
 p766
-g10
+g3
 tp767
-sVSarah Connor
+sVPeter Broderick
 p768
-(Vfemale
+(Vmale
 p769
 g3
 tp770
-sVChris Stapleton
+sVD.R.A.M.
 p771
+(NNtp772
+sVMadlib
+p773
 (Vmale
-p772
-g10
-tp773
-sVClaptone
 p774
-(Vother
-p775
-g10
-tp776
-sVEnya
+g3
+tp775
+sVManchester Orchestra
+p776
+(Vmale
 p777
+g3
+tp778
+sVSarah McLachlan
+p779
 (Vfemale
-p778
-g3
-tp779
-sVArijit Singh
 p780
+g31
+tp781
+sVDonnie Trumpet & The Social Experiment
+p782
 (Vmale
-p781
-g10
-tp782
-sVseth sentry
 p783
+g136
+tp784
+sVElvis Costello & The Attractions
+p785
 (Vmale
-p784
-g10
-tp785
-sVGiorgio Moroder
 p786
-(Vmale
-p787
-g10
-tp788
-sVBeck
-p789
-(Vmale
-p790
 g3
-tp791
-sVJosh Groban
+tp787
+sVNight Moves
+p788
+(NNtp789
+sVGestört aber Geil
+p790
+(NNtp791
+sVBetween the Buried and Me
 p792
 (Vmale
 p793
-g10
+g3
 tp794
-sVSoprano
+sVFunkadelic
 p795
 (Vmale
 p796
 g3
 tp797
-sVBette Midler
+sVWatermät
 p798
-(Vfemale
+(Vmale
 p799
-g10
+g31
 tp800
-sVElectric Light Orchestra
+sVThe Killers
 p801
 (Vmale
 p802
-g10
+g31
 tp803
-sVLabanoon
+sVBreakbot
 p804
-(NNtp805
-sVGrace
-p806
-(Vfemale
+(Vmale
+p805
+g3
+tp806
+sVCraig David
 p807
-g10
-tp808
-sVTwo Door Cinema Club
-p809
 (Vmale
+p808
+g31
+tp809
+sVBecky G
 p810
-g10
-tp811
-sVFréro Delavega
-p812
-(NNtp813
-sVDJ Shadow
+(Vfemale
+p811
+g31
+tp812
+sVHanson
+p813
+(Vmale
 p814
+g3
+tp815
+sVSonata Arctica
+p816
 (Vmale
-p815
-g10
-tp816
-sVMalú
 p817
-(Vfemale
-p818
 g3
-tp819
-sVBob Dylan
+tp818
+sVMoloko
+p819
+(Vboth
 p820
-(Vmale
-p821
 g3
-tp822
-sVDeorro
+tp821
+sVPINK
+p822
+(Vfemale
 p823
+g31
+tp824
+sVDavid Bowie
+p825
 (Vmale
-p824
-g3
-tp825
-sVJanet Jackson
 p826
-(Vfemale
-p827
-g3
-tp828
-sV\u0414\u0438\u043c\u0430 \u0411\u0438\u043b\u0430\u043d
+g200
+tp827
+sVBlitzen Trapper
+p828
+(Vmale
 p829
+g3
+tp830
+sVHiatus
+p831
 (Vmale
-p830
-g152
-tp831
-sVMike Posner
 p832
-(Vmale
-p833
 g3
-tp834
-sVJames Bay
+tp833
+sVElla Henderson
+p834
+(Vfemale
 p835
-(Vmale
-p836
-g25
-tp837
-sVElla Eyre
-p838
-(Vfemale
+g3
+tp836
+sVThe Asteroids Galaxy Tour
+p837
+(NNtp838
+sVGang of Four
 p839
-g10
-tp840
-sVMylène Farmer
-p841
-(Vfemale
+(Vboth
+p840
+g3
+tp841
+sVEchosmith
 p842
-g3
-tp843
-sVDuck Sauce
-p844
-(Vmale
+(Vboth
+p843
+g18
+tp844
+sVTheory of a Deadman
 p845
-g10
-tp846
-sVPhilipp Dittberner
-p847
 (Vmale
+p846
+g3
+tp847
+sVDJ Krush
 p848
-g152
-tp849
-sVCam
-p850
 (Vmale
+p849
+g3
+tp850
+sVZac Brown Band
 p851
-g46
-tp852
-sVCalibre 50
-p853
 (Vmale
+p852
+g18
+tp853
+sVAll That Remains
 p854
+(Vmale
+p855
 g3
-tp855
-sV\u897f\u91ce\u30ab\u30ca
-p856
-(Vfemale
+tp856
+sVPaula Abdul
 p857
-g372
-tp858
-sVDelta Goodrem
-p859
 (Vfemale
-p860
-g10
-tp861
-sVRobin
-p862
-(NNtp863
-sVCharlie Puth
-p864
-(Vmale
-p865
-g25
-tp866
-sVMaddie & Tae
-p867
-(Vfemale
-p868
-g46
-tp869
-sVNico & Vinz
-p870
-(Vmale
-p871
-g289
-tp872
-sVSophie
-p873
-(Vfemale
-p874
-g10
-tp875
-sVSergio Dalma
-p876
-(Vmale
-p877
-g10
-tp878
-sVChristine and the Queens
-p879
-(Vfemale
-p880
-g25
-tp881
-sVEric Church
-p882
-(Vmale
-p883
+p858
 g3
+tp859
+sVThe Weepies
+p860
+(Vboth
+p861
+g3
+tp862
+sVGalaxie 500
+p863
+(Vboth
+p864
+g3
+tp865
+sVBanda Los Recoditos
+p866
+(NNtp867
+sVKygo
+p868
+(Vmale
+p869
+g200
+tp870
+sVS. Carey
+p871
+(Vmale
+p872
+g3
+tp873
+sVMF DOOM
+p874
+(Vmale
+p875
+g3
+tp876
+sVVicentico
+p877
+(Vmale
+p878
+g31
+tp879
+sVH2O
+p880
+(NNtp881
+sVAdele
+p882
+(Vfemale
+p883
+g200
 tp884
-sVChayanne
+sVSeb
 p885
 (Vmale
 p886
-g10
+g3
 tp887
-sVSting
+sVMadonna
 p888
-(Vmale
+(Vfemale
 p889
-g10
+g18
 tp890
-sVAuryn
+sVThe Pharcyde
 p891
-(Vfemale
+(Vmale
 p892
-g152
+g3
 tp893
-sVBaby K
+sVBee Gees
 p894
-(Vfemale
+(Vmale
 p895
-g10
+g31
 tp896
-sVMild
+sVParkway Drive
 p897
-(NNtp898
-sVAndy Grammer
-p899
 (Vmale
+p898
+g31
+tp899
+sVLE YOUTH
 p900
-g3
-tp901
-sVArctic Monkeys
-p902
 (Vmale
+p901
+g31
+tp902
+sVTeenage Mutants
 p903
-g3
-tp904
-sVDawid Podsiadlo
+(NNtp904
+sVKid Rock
 p905
 (Vmale
 p906
-g10
+g3
 tp907
-sVTravie McCoy
+sV\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439
 p908
+(NNtp909
+sVRixton
+p910
 (Vmale
-p909
-g10
-tp910
-sVAnselmo Ralph
 p911
+g3
+tp912
+sVAlex Turner
+p913
 (Vmale
-p912
-g152
-tp913
-sVShakira
 p914
-(Vfemale
-p915
 g3
-tp916
-sVThe Neighbourhood
+tp915
+sVThe Magician
+p916
+(Vmale
 p917
-(Vmale
-p918
-g10
-tp919
-sVSara Bareilles
-p920
-(Vfemale
+g3
+tp918
+sVSnap!
+p919
+(NNtp920
+sVCirca Survive
 p921
-g10
-tp922
-sVHillsong Worship
-p923
-(NNtp924
-sVJamie Lawson
-p925
 (Vmale
-p926
-g10
-tp927
-sVGeorge Ezra
-p928
-(Vmale
-p929
+p922
 g3
-tp930
-sVFeder
-p931
-(NNtp932
-sVLouane
-p933
+tp923
+sVSophie Hutchings
+p924
 (Vfemale
-p934
+p925
+g136
+tp926
+sVThousand Foot Krutch
+p927
+(Vmale
+p928
+g31
+tp929
+sVGinuwine
+p930
+(Vmale
+p931
 g3
-tp935
-sVWinner
+tp932
+sVAdept
+p933
+(NNtp934
+sVThe Dubliners
+p935
+(Vmale
 p936
-(NNtp937
-sVFedez
+g3
+tp937
+sVPARTYNEXTDOOR
 p938
 (Vmale
 p939
 g3
 tp940
-sVRohff
+sVDes'ree
 p941
-(Vmale
+(Vfemale
 p942
-g10
+g3
 tp943
-sVGLAY
+sVMalika Ayane
 p944
-(NNtp945
-sVPearl Jam
-p946
-(Vmale
+(Vfemale
+p945
+g31
+tp946
+sVFriendly Fires
 p947
-g3
-tp948
-sVThe 1975
-p949
 (Vmale
-p950
+p948
 g3
-tp951
-sVAndrew McMahon In The Wilderness
+tp949
+sVW&W
+p950
+(NNtp951
+sVJones
 p952
 (Vmale
 p953
-g152
+g11
 tp954
-sVFlight Facilities
+sVSelena Gomez & the Scene
 p955
-(NNtp956
-sVAtif Aslam
-p957
-(Vmale
-p958
-g3
-tp959
-sVLapsley
-p960
 (Vfemale
+p956
+g136
+tp957
+sVGreat Good Fine OK
+p958
+(NNtp959
+sVSystem of a Down
+p960
+(Vmale
 p961
-g10
+g31
 tp962
-sVHKT48
+sVThe Strypes
 p963
-(NNtp964
-sVJohn Williams
-p965
 (Vmale
+p964
+g31
+tp965
+sVFrankie Goes to Hollywood
 p966
-g10
-tp967
-sVRudimental
-p968
 (Vmale
+p967
+g3
+tp968
+sVSido
 p969
-g25
-tp970
-sVOmi
-p971
 (Vmale
+p970
+g18
+tp971
+sVRonnie Dunn
 p972
-S'musicbrainz'
+(Vmale
 p973
+g31
 tp974
-sVKirk Franklin
+sVLudovico Einaudi
 p975
 (Vmale
 p976
-g10
+g31
 tp977
-sVMuse
+sVJohn Lennon
 p978
 (Vmale
 p979
-g3
+g200
 tp980
-sVDon Diablo
+sVFlatbush ZOMBiES
 p981
+(NNtp982
+sVAlex Adair
+p983
 (Vmale
-p982
-g10
-tp983
-sVNelly
 p984
-(Vmale
-p985
 g3
-tp986
-sVJourney
+tp985
+sVTristan Prettyman
+p986
+(Vfemale
 p987
-(Vmale
-p988
 g3
-tp989
-sVVampire Weekend
+tp988
+sVA$AP Rocky
+p989
+(Vmale
 p990
-(Vmale
-p991
-g10
-tp992
-sVHenrique & Juliano
-p993
-(Vmale
+g18
+tp991
+sVNeck Deep
+p992
+(NNtp993
+sVPop Evil
 p994
-g289
-tp995
-sVBORGEOUS
-p996
 (Vmale
+p995
+g31
+tp996
+sVDungen
 p997
-g10
-tp998
-sVBastille
-p999
-(NNtp1000
-sVVance Joy
-p1001
 (Vmale
-p1002
-g25
-tp1003
-sVJohnny Cash
-p1004
-(Vmale
-p1005
-g10
-tp1006
-sVBanks
-p1007
-(Vfemale
-p1008
-g10
-tp1009
-sVEllie Goulding
-p1010
-(Vfemale
-p1011
-g25
-tp1012
-sVSwedish House Mafia
-p1013
-(Vmale
-p1014
+p998
 g3
-tp1015
-sVMiguel
+tp999
+sVJr Jr
+p1000
+(Vmale
+p1001
+g136
+tp1002
+sVA Fine Frenzy
+p1003
+(Vfemale
+p1004
+g3
+tp1005
+sVMaribou State
+p1006
+(NNtp1007
+sVFlo Rida
+p1008
+(Vmale
+p1009
+g200
+tp1010
+sVDada Life
+p1011
+(Vfemale
+p1012
+g136
+tp1013
+sVAudien
+p1014
+(NNtp1015
+sVMC Hammer
 p1016
 (Vmale
 p1017
-g10
+g31
 tp1018
-sVAlligatoah
+sVCKY
 p1019
 (Vmale
 p1020
 g3
 tp1021
-sVJames Newton Howard
+sVDario Marianelli
 p1022
 (Vmale
 p1023
-g10
+g3
 tp1024
-sVThe Smashing Pumpkins
+sVNathan Sykes
 p1025
-(NNtp1026
-sVSigma
-p1027
 (Vmale
+p1026
+g3
+tp1027
+sVNaughty Boy
 p1028
-g25
-tp1029
-sVJessie J
-p1030
-(Vfemale
+(Vmale
+p1029
+g200
+tp1030
+sVBoy & Bear
 p1031
-g25
-tp1032
-sVGestört aber Geil
-p1033
-(NNtp1034
-sVKarmin
+(Vmale
+p1032
+g3
+tp1033
+sVFree
+p1034
+(Vmale
 p1035
-(Vboth
-p1036
-g10
-tp1037
-sVGeorge Strait
+g3
+tp1036
+sVLola Marsh
+p1037
+(Vfemale
 p1038
+g136
+tp1039
+sVReel Big Fish
+p1040
 (Vmale
-p1039
-g3
-tp1040
-sVEnrique Iglesias
 p1041
+g3
+tp1042
+sVGuy Sebastian
+p1043
 (Vmale
-p1042
-g25
-tp1043
-sVChristina Perri
 p1044
-(Vfemale
-p1045
-g3
-tp1046
-sVAndreas Bourani
+g18
+tp1045
+sVBroken Back
+p1046
+(Vmale
 p1047
-(Vmale
-p1048
 g3
-tp1049
-sVThe Script
+tp1048
+sVGary Jules
+p1049
+(Vmale
 p1050
-(Vmale
-p1051
-g10
-tp1052
-sVLMFAO
+g3
+tp1051
+sVLittle Big Town
+p1052
+(Vboth
 p1053
-(Vmale
-p1054
-g10
-tp1055
-sVCesare Cremonini
+g18
+tp1054
+sVIdina Menzel
+p1055
+(Vfemale
 p1056
+g31
+tp1057
+sVLil Dicky
+p1058
 (Vmale
-p1057
-g3
-tp1058
-sVM. Pokora
 p1059
-(Vmale
-p1060
-g10
-tp1061
-sVGwen Stefani
+g11
+tp1060
+sVAnna of the North
+p1061
+(Vfemale
 p1062
-(Vfemale
-p1063
-g3
-tp1064
-sVInna
-p1065
-(Vfemale
-p1066
-g3
-tp1067
-sVThe Gift
-p1068
-(NNtp1069
-sVEros Ramazzotti
-p1070
+g11
+tp1063
+sVJack Savoretti
+p1064
 (Vmale
+p1065
+g3
+tp1066
+sVChromeo
+p1067
+(Vmale
+p1068
+g3
+tp1069
+sVXiu Xiu
+p1070
+(Vboth
 p1071
-g10
+g3
 tp1072
-sVK.I.Z.
+sVOdesza
 p1073
 (NNtp1074
-sVRío Roma
+sV\ud604\uc544
 p1075
-(NNtp1076
-sVFelix Jaehn
-p1077
-(Vmale
-p1078
-g25
-tp1079
-sVGilli
-p1080
-(Vmale
-p1081
-g10
-tp1082
-sVStromae
-p1083
-(Vmale
-p1084
-g3
-tp1085
-sVGotye
-p1086
-(Vmale
-p1087
-g3
-tp1088
-sVMr. Probz
-p1089
-(Vmale
-p1090
-g3
-tp1091
-sVMalika Ayane
-p1092
 (Vfemale
-p1093
-g10
-tp1094
-sVNothing but Thieves
-p1095
-(NNtp1096
-sVK3
-p1097
-(Vboth
-p1098
-g10
-tp1099
-sVSam Feldt
-p1100
+p1076
+g11
+tp1077
+sVMarillion
+p1078
 (Vmale
-p1101
-g372
-tp1102
-sVYears & Years
+p1079
+g3
+tp1080
+sVBasshunter
+p1081
+(Vmale
+p1082
+g31
+tp1083
+sVKenny Rogers
+p1084
+(Vmale
+p1085
+g3
+tp1086
+sVCiaran Lavery
+p1087
+(Vmale
+p1088
+g3
+tp1089
+sVNight Beds
+p1090
+(Vmale
+p1091
+g3
+tp1092
+sVPaul Kalkbrenner
+p1093
+(Vmale
+p1094
+g3
+tp1095
+sVThe Black Angels
+p1096
+(Vmale
+p1097
+g3
+tp1098
+sVJóhann Jóhannsson
+p1099
+(Vmale
+p1100
+g11
+tp1101
+sVI See Stars
+p1102
+(Vmale
 p1103
-(NNtp1104
-sVJ Balvin
+g3
+tp1104
+sVFettes Brot
 p1105
 (Vmale
 p1106
-g25
+g31
 tp1107
-sVGente De Zona
+sVPeg Parnevik
 p1108
-(NNtp1109
-sVSarah McLachlan
-p1110
-(Vfemale
+(Vmale
+p1109
+g11
+tp1110
+sVNapalm Death
 p1111
-g10
-tp1112
-sV\u90a3\u82f1
-p1113
-(Vfemale
+(Vmale
+p1112
+g3
+tp1113
+sVLarry Hernandez
 p1114
-g152
-tp1115
-sVJohn Denver
-p1116
 (Vmale
+p1115
+g31
+tp1116
+sVAesop Rock
 p1117
-g10
-tp1118
-sVHozier
-p1119
 (Vmale
+p1118
+g3
+tp1119
+sVKid Ink
 p1120
-g25
-tp1121
-sVDavid Bisbal
-p1122
 (Vmale
+p1121
+g31
+tp1122
+sVJill Scott
 p1123
-g10
-tp1124
-sVRobin Schulz
-p1125
-(Vmale
+(Vfemale
+p1124
+g3
+tp1125
+sVHorse Feathers
 p1126
-g25
-tp1127
-sVElina Born
-p1128
-(Vfemale
-p1129
-g152
-tp1130
-sVChuckie
-p1131
-(Vmale
-p1132
-g10
-tp1133
-sVStone Temple Pilots
-p1134
-(Vmale
-p1135
-g3
-tp1136
-sVWatermät
-p1137
-(Vmale
-p1138
-g10
-tp1139
-sVThe Killers
-p1140
-(Vmale
-p1141
-g10
-tp1142
-sVElton John
-p1143
-(Vmale
-p1144
-g10
-tp1145
-sVBednarek
-p1146
-(NNtp1147
-sVAlabama Shakes
-p1148
 (Vboth
-p1149
+p1127
 g3
-tp1150
-sVPanic! At the Disco
-p1151
+tp1128
+sVDelta Spirit
+p1129
 (Vmale
-p1152
+p1130
 g3
-tp1153
-sVBecky G
-p1154
+tp1131
+sVGrouper
+p1132
 (Vfemale
+p1133
+g3
+tp1134
+sVPortishead
+p1135
+(Vboth
+p1136
+g31
+tp1137
+sVStealers Wheel
+p1138
+(Vmale
+p1139
+g3
+tp1140
+sVThirty Seconds to Mars
+p1141
+(Vmale
+p1142
+g31
+tp1143
+sVIbeyi
+p1144
+(NNtp1145
+sVJoe Jackson
+p1146
+(Vmale
+p1147
+g3
+tp1148
+sVThe Durutti Column
+p1149
+(Vmale
+p1150
+g3
+tp1151
+sVCamo & Krooked
+p1152
+(NNtp1153
+sVW.A.S.P.
+p1154
+(Vmale
 p1155
-g10
+g3
 tp1156
-sVAlan Jackson
+sVRoute 94
 p1157
 (Vmale
 p1158
-g3
+g31
 tp1159
-sVReik
+sVTool
 p1160
 (Vmale
 p1161
-g10
+g31
 tp1162
-sVBig & Rich
+sVDolly Parton
 p1163
-(Vmale
+(Vfemale
 p1164
-g10
+g31
 tp1165
-sVTravi$ Scott
+sVThe Meters
 p1166
 (Vmale
 p1167
-g10
-tp1168
-sVCraig David
-p1169
-(Vmale
-p1170
-g10
-tp1171
-sVCHVRCHES
-p1172
-(Vboth
-p1173
 g3
-tp1174
-sVPINK
+tp1168
+sVLonely The Brave
+p1169
+(NNtp1170
+sVZezé Di Camargo & Luciano
+p1171
+(NNtp1172
+sVEl Ten Eleven
+p1173
+(NNtp1174
+sVZebrahead
 p1175
-(Vfemale
+(Vmale
 p1176
-g10
+g3
 tp1177
-sVDavid Bowie
+sVJohn Newman
 p1178
 (Vmale
 p1179
-g25
+g18
 tp1180
-sVParov Stelar
+sVExo
 p1181
 (Vmale
 p1182
-g10
-tp1183
-sVFetty Wap
-p1184
-(Vmale
+S'musicbrainz'
+p1183
+tp1184
+sVMarco Mengoni
 p1185
-g3
-tp1186
-sVMarco Antonio Solís
-p1187
 (Vmale
+p1186
+g18
+tp1187
+sV3OH!3
 p1188
-g152
-tp1189
-sVShankar Mahadevan
-p1190
 (Vmale
+p1189
+g3
+tp1190
+sVTame Impala
 p1191
-g10
-tp1192
-sVHaloo Helsinki!
-p1193
-(NNtp1194
-sVModà
+(Vmale
+p1192
+g18
+tp1193
+sVIcona Pop
+p1194
+(Vfemale
 p1195
-(Vmale
-p1196
-g3
-tp1197
-sVEchosmith
-p1198
+g18
+tp1196
+sVShe & Him
+p1197
 (Vboth
-p1199
-g3
-tp1200
-sVFlorida Georgia Line
+p1198
+g31
+tp1199
+sVThe Lonely Island
+p1200
+(Vmale
 p1201
-(Vmale
-p1202
 g3
-tp1203
-sVSandra Lyng
+tp1202
+sVFlogging Molly
+p1203
+(Vboth
 p1204
+g3
+tp1205
+sVJhené Aiko
+p1206
 (Vfemale
-p1205
-g46
-tp1206
-sVPharrell Williams
 p1207
-(Vmale
-p1208
-g25
-tp1209
-sVYlvis
-p1210
-(Vmale
+g3
+tp1208
+sVA R I Z O N A
+p1209
+(NNtp1210
+sVThe Fall
 p1211
-g10
-tp1212
-sVTritonal
-p1213
-(NNtp1214
-sVDJ Antoine
+(Vboth
+p1212
+g3
+tp1213
+sVBorn of Osiris
+p1214
+(Vmale
 p1215
-(Vmale
-p1216
 g3
-tp1217
-sVMohit Chauhan
-p1218
-(Vmale
+tp1216
+sVEnsiferum
+p1217
+(NNtp1218
+sVOlly Murs
 p1219
-g10
-tp1220
-sVKanye West
-p1221
 (Vmale
+p1220
+g18
+tp1221
+sVBillie Holiday
 p1222
-g3
-tp1223
-sVBanda Los Recoditos
-p1224
-(NNtp1225
-sVKygo
+(Vfemale
+p1223
+g31
+tp1224
+sVChris Isaak
+p1225
+(Vmale
 p1226
+g31
+tp1227
+sVWalk the Moon
+p1228
 (Vmale
-p1227
-g25
-tp1228
-sVJ. Cole
 p1229
+g200
+tp1230
+sVKEEN' V
+p1231
+(NNtp1232
+sVVaccines
+p1233
 (Vmale
-p1230
-g3
-tp1231
-sVOld Dominion
-p1232
-(NNtp1233
-sVThe Borns
 p1234
-(NNtp1235
-sVVicentico
+g31
+tp1235
+sVSick Puppies
 p1236
-(Vmale
+(Vboth
 p1237
-g10
-tp1238
-sVDiana Krall
-p1239
-(Vfemale
-p1240
-g10
-tp1241
-sVAdele
-p1242
-(Vfemale
-p1243
-g25
-tp1244
-sVClean Bandit
-p1245
-(NNtp1246
-sVMadonna
-p1247
-(Vfemale
-p1248
 g3
-tp1249
-sVFat Freddy's Drop
-p1250
-(NNtp1251
-sVBee Gees
-p1252
+tp1238
+sVZion T
+p1239
 (Vmale
+p1240
+g31
+tp1241
+sVJean Michel Jarre
+p1242
+(Vmale
+p1243
+g3
+tp1244
+sVKeith Jarrett
+p1245
+(Vmale
+p1246
+g3
+tp1247
+sVKendrick Lamar
+p1248
+(Vmale
+p1249
+g200
+tp1250
+sVMovement
+p1251
+(NNtp1252
+sV\u674e\u69ae\u6d69
 p1253
-g10
-tp1254
-sVParkway Drive
-p1255
 (Vmale
+p1254
+g185
+tp1255
+sVThe The
 p1256
-g10
-tp1257
-sVCalogero
+(NNtp1257
+sVJoris
 p1258
 (Vmale
 p1259
-g10
-tp1260
-sVHardwell
-p1261
-(Vmale
+S'genderizeio'
+p1260
+tp1261
+sVPost Malone
 p1262
-g3
-tp1263
-sVAAA
+(NNtp1263
+sVMothers
 p1264
 (NNtp1265
-sVTeenage Mutants
+sVBrandy
 p1266
-(NNtp1267
-sVJason Derülo
-p1268
-(Vmale
-p1269
-g973
-tp1270
-sVJovanotti
-p1271
-(Vmale
-p1272
+(Vfemale
+p1267
 g3
-tp1273
-sVMiguel Bosé
-p1274
+tp1268
+sVSkrillex
+p1269
 (Vmale
+p1270
+g200
+tp1271
+sVDMA's
+p1272
+(NNtp1273
+sVBasia Bulat
+p1274
+(Vfemale
 p1275
-g10
+g3
 tp1276
-sVLily Allen
+sVKehlani
 p1277
 (Vfemale
 p1278
-g10
+g3
 tp1279
-sVBritney Spears
+sVCalle 13
 p1280
-(Vfemale
+(Vmale
 p1281
 g3
 tp1282
-sVCali
+sVAlphaville
 p1283
 (Vmale
 p1284
-g10
+g3
 tp1285
-sVCyndi Lauper
+sVVanilla Ice
 p1286
-(Vfemale
+(Vmale
 p1287
-g25
+g3
 tp1288
-sVMotrip
+sVCL
 p1289
 (Vmale
 p1290
-g3
+g185
 tp1291
-sVNekfeu
+sVJeroen van der Boom
 p1292
 (Vmale
 p1293
-g3
+g31
 tp1294
-sVFritz Kalkbrenner
+sVPhantom Planet
 p1295
 (Vmale
 p1296
-g10
-tp1297
-sVRyan Adams
-p1298
-(Vmale
-p1299
-g10
-tp1300
-sVRita Ora
-p1301
-(Vfemale
-p1302
 g3
-tp1303
-sVLilly Wood & The Prick
-p1304
-(Vboth
+tp1297
+sVKSHMR
+p1298
+(NNtp1299
+sVCro
+p1300
+(Vmale
+p1301
+g18
+tp1302
+sVRufus
+p1303
+(NNtp1304
+sVAlpa Gun
 p1305
-g10
-tp1306
-sVMiles Davis
-p1307
 (Vmale
+p1306
+g31
+tp1307
+sVPhilipp Poisel
 p1308
-g10
-tp1309
-sVKongsted
-p1310
-(NNtp1311
-sVRichard Clayderman
+(Vmale
+p1309
+g31
+tp1310
+sVRonan Keating
+p1311
+(Vmale
 p1312
+g3
+tp1313
+sVPunch Brothers
+p1314
 (Vmale
-p1313
-g10
-tp1314
-sVThousand Foot Krutch
 p1315
+g3
+tp1316
+sVSuicide Silence
+p1317
 (Vmale
-p1316
-g10
-tp1317
-sVApashe
 p1318
+g3
+tp1319
+sVAriel Pink
+p1320
 (Vmale
-p1319
-g10
-tp1320
-sVJessie Ware
 p1321
-(Vfemale
-p1322
-g10
-tp1323
-sVPrince Royce
+g3
+tp1322
+sVType O Negative
+p1323
+(Vmale
 p1324
+g3
+tp1325
+sVGary Numan
+p1326
 (Vmale
-p1325
-g25
-tp1326
-sVEwert and The Two Dragons
 p1327
-(NNtp1328
-sVJoe Bonamassa
+g3
+tp1328
+sVHande Yener
 p1329
-(Vmale
+(Vfemale
 p1330
-g10
+g31
 tp1331
-sVJohn Legend
+sVDuke Dumont
 p1332
 (Vmale
 p1333
-g25
+g200
 tp1334
-sVA.R. Rahman
+sVJunior Senior
 p1335
 (Vmale
 p1336
 g3
 tp1337
-sVCasseurs Flowters
+sVWe the Kings
 p1338
-(NNtp1339
-sVAlfredo Olivas
-p1340
 (Vmale
+p1339
+g3
+tp1340
+sVChildish Gambino
 p1341
-g10
-tp1342
-sVEmma Louise
-p1343
-(Vfemale
+(Vmale
+p1342
+g18
+tp1343
+sVCarpenters
 p1344
-g10
-tp1345
-sVNero
-p1346
 (Vboth
+p1345
+g200
+tp1346
+sVRaury
 p1347
-g10
-tp1348
-sVMac Tyer
-p1349
 (Vmale
+p1348
+g3
+tp1349
+sVAll Saints
 p1350
-g10
-tp1351
-sVSeal
-p1352
-(Vmale
+(Vfemale
+p1351
+g3
+tp1352
+sVRandom Forest
 p1353
-g10
-tp1354
-sVthe GazettE
+(NNtp1354
+sVGoldLink
 p1355
 (Vmale
 p1356
-g10
+g3
 tp1357
-sVEric Prydz
+sVBebe Rexha
 p1358
-(Vmale
+(Vfemale
 p1359
 g3
 tp1360
-sVThe Strypes
+sVThe Devil Wears Prada
 p1361
 (Vmale
 p1362
-g10
+g3
 tp1363
-sVMacklemore & Ryan Lewis
+sVRoger Waters
 p1364
 (Vmale
 p1365
-g25
+g31
 tp1366
-sVLogic
+sVSonny Rollins
 p1367
-(NNtp1368
-sVTracy Chapman
-p1369
-(Vfemale
+(Vmale
+p1368
+g3
+tp1369
+sVJessy Lanza
 p1370
-g10
-tp1371
-sVVoz De Mando
-p1372
-(NNtp1373
-sVMabel Matiz
+(Vfemale
+p1371
+g3
+tp1372
+sVZbigniew Preisner
+p1373
+(Vmale
 p1374
+g31
+tp1375
+sVAntonio Orozco
+p1376
 (Vmale
-p1375
-g152
-tp1376
-sVRonnie Dunn
 p1377
+g31
+tp1378
+sVHank Williams
+p1379
 (Vmale
-p1378
-g10
-tp1379
-sVLudovico Einaudi
 p1380
-(Vmale
-p1381
-g10
-tp1382
-sVJohn Lennon
-p1383
-(Vmale
+g3
+tp1381
+sVAmaral
+p1382
+(NNtp1383
+sVBing Crosby
 p1384
-g25
-tp1385
-sVBroods
-p1386
-(Vboth
+(Vmale
+p1385
+g31
+tp1386
+sVBroncho
 p1387
-g10
-tp1388
-sVOlivia Newton-John
-p1389
-(Vfemale
+(Vmale
+p1388
+g3
+tp1389
+sVElla Fitzgerald
 p1390
-g372
-tp1391
-sVA$AP Rocky
-p1392
-(Vmale
+(Vfemale
+p1391
+g31
+tp1392
+sVSummer Heart
 p1393
-g3
-tp1394
-sVGigi D'Agostino
-p1395
 (Vmale
+p1394
+g3
+tp1395
+sVNatalia Kills
 p1396
-g152
-tp1397
-sVGirls' Generation-TTS
-p1398
-(NNtp1399
-sVPop Evil
+(Vfemale
+p1397
+g3
+tp1398
+sVYoussoupha
+p1399
+(Vmale
 p1400
+g31
+tp1401
+sVNightmares on Wax
+p1402
 (Vmale
-p1401
-g10
-tp1402
-sVBig Sean
 p1403
+g31
+tp1404
+sVMartin Garrix
+p1405
 (Vmale
-p1404
-g3
-tp1405
-sVBon Jovi
 p1406
+g200
+tp1407
+sVLeftfield
+p1408
 (Vmale
-p1407
-g3
-tp1408
-sVSerebro
 p1409
-(Vfemale
-p1410
-g3
-tp1411
-sVAdam Lambert
+g31
+tp1410
+sVIbrahim Maalouf
+p1411
+(Vmale
 p1412
+g3
+tp1413
+sVJerry Lee Lewis
+p1414
 (Vmale
-p1413
-g25
-tp1414
-sVX JAPAN
 p1415
+g3
+tp1416
+sVIlly
+p1417
 (Vmale
-p1416
-g10
-tp1417
-sVCrystal Kay
 p1418
+g31
+tp1419
+sVShirley Bassey
+p1420
 (Vfemale
-p1419
-g10
-tp1420
-sVSwanky Tunes
 p1421
-(NNtp1422
-sVDeafheaven
+g3
+tp1422
+sVLadyhawke
 p1423
-(Vmale
-p1424
-g10
-tp1425
-sVNicki Minaj
-p1426
 (Vfemale
+p1424
+g3
+tp1425
+sVLegião Urbana
+p1426
+(Vmale
 p1427
 g3
 tp1428
-sVMatoma
+sVHowie Day
 p1429
 (Vmale
 p1430
-g152
+g3
 tp1431
-sVCarly Rae Jepsen
+sVSoKo
 p1432
 (Vfemale
 p1433
-g25
+g3
 tp1434
-sVKollegah
+sVRay Parker Jr.
 p1435
 (Vmale
 p1436
 g3
 tp1437
-sVZeca Pagodinho
+sVJohn Maus
 p1438
 (Vmale
 p1439
-g10
+g3
 tp1440
-sVKelly Clarkson
+sVKylie Minogue
 p1441
 (Vfemale
 p1442
-g3
+g18
 tp1443
-sVFlo Rida
+sVGZA/Genius
 p1444
+(NNtp1445
+sVDeep Blue Something
+p1446
 (Vmale
-p1445
-g25
-tp1446
-sVmiwa
 p1447
-(Vfemale
-p1448
-g10
-tp1449
-sVHammerFall
+g3
+tp1448
+sVWynton Marsalis
+p1449
+(Vmale
 p1450
-(NNtp1451
-sVAudien
+g3
+tp1451
+sVCult of Luna
 p1452
-(NNtp1453
-sVPhil Collins
-p1454
 (Vmale
+p1453
+g3
+tp1454
+sVEditors
 p1455
-g3
-tp1456
-sVCro
-p1457
 (Vmale
+p1456
+g31
+tp1457
+sVHaddaway
 p1458
-g3
-tp1459
-sVZac Brown Band
-p1460
 (Vmale
-p1461
+p1459
 g3
-tp1462
-sVLuca Carboni
+tp1460
+sV\u0411\u0438-2
+p1461
+(NNtp1462
+sVBlack Coffee
 p1463
 (Vmale
 p1464
-g10
+g31
 tp1465
-sVManuel Medrano
+sVNouvelle Vague
 p1466
 (Vmale
 p1467
-g46
+g3
 tp1468
-sVReykon
+sVGavin DeGraw
 p1469
-(NNtp1470
-sVWalk Off The Earth
-p1471
-(Vboth
+(Vmale
+p1470
+g3
+tp1471
+sVChance the Rapper
 p1472
-g3
-tp1473
-sVAkcent
-p1474
 (Vmale
+p1473
+g3
+tp1474
+sVSKE48
 p1475
-g10
-tp1476
-sVNaughty Boy
-p1477
-(Vmale
+(Vfemale
+p1476
+g31
+tp1477
+sVSwans
 p1478
-g25
-tp1479
-sVRomeo Santos
-p1480
-(Vmale
-p1481
+(Vboth
+p1479
 g3
-tp1482
-sVImran Khan
-p1483
+tp1480
+sVBobby Womack
+p1481
 (Vmale
+p1482
+g3
+tp1483
+sVTorres
 p1484
-g10
-tp1485
-sVCole Swindell
+(NNtp1485
+sVMarisa Monte
 p1486
-(Vmale
+(Vfemale
 p1487
-g10
+g31
 tp1488
-sVMartin Tungevaag
+sVFrançoise Hardy
 p1489
-(Vmale
+(Vfemale
 p1490
-g10
+g3
 tp1491
-sVKaaris
+sVVitalic
 p1492
 (Vmale
 p1493
-g10
+g3
 tp1494
-sVGuy Sebastian
+sVCunninLynguists
 p1495
+(NNtp1496
+sVGoldroom
+p1497
 (Vmale
-p1496
-g3
-tp1497
-sVPsy
 p1498
-(Vmale
-p1499
 g3
-tp1500
-sVTraffic
+tp1499
+sVLapalux
+p1500
+(Vmale
 p1501
-(Vmale
-p1502
-g10
-tp1503
-sVLittle Big Town
-p1504
-(Vboth
+g3
+tp1502
+sVRodríguez
+p1503
+(NNtp1504
+sVAlter Bridge
 p1505
-g3
-tp1506
-sVSufjan Stevens
-p1507
 (Vmale
+p1506
+g3
+tp1507
+sVMindless Self Indulgence
 p1508
-g10
-tp1509
-sVIdina Menzel
-p1510
-(Vfemale
+(Vboth
+p1509
+g3
+tp1510
+sVBarry White
 p1511
-g10
-tp1512
-sVWham!
-p1513
 (Vmale
+p1512
+g3
+tp1513
+sVGustavo Cerati
 p1514
-g3
-tp1515
-sVJosef Salvat
-p1516
 (Vmale
+p1515
+g3
+tp1516
+sVLady Antebellum
 p1517
-g3
-tp1518
-sVLacrim
-p1519
-(Vmale
+(Vboth
+p1518
+g31
+tp1519
+sVMercury Rev
 p1520
-g10
-tp1521
-sVAlexandra Stan
-p1522
-(Vfemale
-p1523
+(Vmale
+p1521
 g3
-tp1524
-sVOdesza
-p1525
-(NNtp1526
-sVFall Out Boy
-p1527
+tp1522
+sVThey Might Be Giants
+p1523
 (Vmale
+p1524
+g3
+tp1525
+sVKaraoke
+p1526
+(NNtp1527
+sVShearwater
 p1528
-g25
-tp1529
-sVAnouk
-p1530
-(Vfemale
-p1531
-g10
-tp1532
-sVJay Hardway
-p1533
 (Vmale
+p1529
+g3
+tp1530
+sVMark Forster
+p1531
+(Vmale
+p1532
+g18
+tp1533
+sVFort Minor
 p1534
-g10
-tp1535
-sVDan + Shay
+(NNtp1535
+sVSuuns
 p1536
 (Vmale
 p1537
-g10
+g3
 tp1538
-sVCats on Trees
+sVJames
 p1539
-(Vboth
+(Vmale
 p1540
-g10
+g31
 tp1541
-sV\u738b\u529b\u5b8f
+sVBrandon Flowers
 p1542
 (Vmale
 p1543
-g152
+g31
 tp1544
-sVFergie
+sVDeath in June
 p1545
-(Vfemale
-p1546
-g10
-tp1547
-sVEditors
+(NNtp1546
+sVCombichrist
+p1547
+(Vmale
 p1548
-(Vmale
-p1549
-g10
-tp1550
-sVBasshunter
-p1551
-(Vmale
+g3
+tp1549
+sVDzeko & Torres
+p1550
+(NNtp1551
+sVThe Ronettes
 p1552
-g10
-tp1553
-sVAKB48
-p1554
-(NNtp1555
-sVJustin Moore
+(Vfemale
+p1553
+g3
+tp1554
+sVKT Tunstall
+p1555
+(Vfemale
 p1556
+g3
+tp1557
+sVThe Rolling Stones
+p1558
 (Vmale
-p1557
-g10
-tp1558
-sVLukas Graham
 p1559
-(Vmale
-p1560
-g25
-tp1561
-sVA Great Big World
+g18
+tp1560
+sVArch Enemy
+p1561
+(Vboth
 p1562
-(Vmale
-p1563
 g3
-tp1564
-sVPassenger
-p1565
-(Vmale
+tp1563
+sV\ubc29\ud0c4\uc18c\ub144\ub2e8
+p1564
+(NNtp1565
+sVKosheen
 p1566
-g3
-tp1567
-sVFilous
+(NNtp1567
+sVBabyshambles
 p1568
 (Vmale
 p1569
-g152
+g3
 tp1570
-sVBastian Baker
+sVTopic
 p1571
 (Vmale
 p1572
-g10
+g3
 tp1573
-sVSBTRKT
+sVNorthlane
 p1574
-(Vmale
-p1575
-g10
-tp1576
-sV\u738b\u83f2
-p1577
-(NNtp1578
-sVSinéad O'Connor
-p1579
+(NNtp1575
+sVBrodka
+p1576
 (Vfemale
-p1580
-g152
-tp1581
-sVDJ Snake
+p1577
+g3
+tp1578
+sVMr. Oizo
+p1579
+(NNtp1580
+sVLorde
+p1581
+(Vfemale
 p1582
+g18
+tp1583
+sVSmallpools
+p1584
 (Vmale
-p1583
-g25
-tp1584
-sVYellow Claw
 p1585
-(NNtp1586
-sVDaddy Yankee
+g3
+tp1586
+sVThe Herbaliser
 p1587
 (Vmale
 p1588
-g25
+g3
 tp1589
-sVZara Larsson
+sVPrince
 p1590
-(Vfemale
-p1591
-g973
-tp1592
-sVKK
-p1593
-(NNtp1594
-sVFettes Brot
-p1595
 (Vmale
+p1591
+g3
+tp1592
+sVBaio
+p1593
+(Vmale
+p1594
+g3
+tp1595
+sVFly Project
 p1596
-g10
-tp1597
-sVHalsey
+(NNtp1597
+sVTrey Songz
 p1598
-(Vfemale
+(Vmale
 p1599
-g25
+g31
 tp1600
-sV\u6797\u4fca\u5091
+sVMark Lanegan
 p1601
 (Vmale
 p1602
-g152
+g3
 tp1603
-sVFrancesco De Gregori
+sVFoghat
 p1604
 (Vmale
 p1605
-g10
+g3
 tp1606
-sVJulion Alvarez y Su Norteno Banda
+sVWill Sparks
 p1607
-(NNtp1608
-sVTake That
-p1609
 (Vmale
+p1608
+g31
+tp1609
+sVThe Sounds
 p1610
-g10
-tp1611
-sVJoan Sebastian
-p1612
-(Vmale
-p1613
-g10
-tp1614
-sVZoe
-p1615
-(Vfemale
-p1616
-g10
-tp1617
-sV\u0401\u043b\u043a\u0430
-p1618
-(NNtp1619
-sVKaty Perry
-p1620
-(Vfemale
-p1621
-g25
-tp1622
-sVYolanda Be Cool
-p1623
-(Vmale
-p1624
-g10
-tp1625
-sVPortishead
-p1626
 (Vboth
-p1627
-g10
-tp1628
-sVSunidhi Chauhan
-p1629
-(Vfemale
-p1630
-g10
-tp1631
-sV\u9ea5\u6d5a\u9f8d
-p1632
+p1611
+g3
+tp1612
+sVKwabs
+p1613
 (Vmale
+p1614
+g18
+tp1615
+sVKleerup
+p1616
+(Vmale
+p1617
+g31
+tp1618
+sVThe Waterboys
+p1619
+(Vmale
+p1620
+g3
+tp1621
+sVLacrimosa
+p1622
+(NNtp1623
+sVDustin O'Halloran
+p1624
+(Vmale
+p1625
+g3
+tp1626
+sVKarpe Diem
+p1627
+(NNtp1628
+sVKidz Bop Kids
+p1629
+(Vboth
+p1630
+g31
+tp1631
+sVHalestorm
+p1632
+(Vboth
 p1633
-g152
+g31
 tp1634
-sVThirty Seconds to Mars
+sVThe Orb
 p1635
 (Vmale
 p1636
-g10
+g3
 tp1637
-sVIbeyi
+sVThe Range
 p1638
-(NNtp1639
-sVSheryl Crow
-p1640
-(Vfemale
+(Vmale
+p1639
+g3
+tp1640
+sVRussian Circles
 p1641
-g10
-tp1642
-sVT.I.
+(NNtp1642
+sVSlint
 p1643
 (Vmale
 p1644
-g10
+g3
 tp1645
-sVMissy Elliott
+sVFaul & Wad Ad
 p1646
-(Vfemale
+(Vmale
 p1647
 g3
 tp1648
-sVTiësto
+sVRobin Thicke
 p1649
 (Vmale
 p1650
-g25
+g18
 tp1651
-sVRoute 94
+sVBooba
 p1652
 (Vmale
 p1653
-g10
+g18
 tp1654
-sVNeil Diamond
+sVRayland Baxter
 p1655
 (Vmale
 p1656
-g10
-tp1657
-sVAurora
-p1658
-(Vfemale
-p1659
-g289
-tp1660
-sVGuns N' Roses
-p1661
-(Vmale
-p1662
 g3
-tp1663
-sVDolly Parton
+tp1657
+sVParadise Lost
+p1658
+(Vmale
+p1659
+g3
+tp1660
+sVBanda Sinaloense MS de Sergio Lizárraga
+p1661
+(NNtp1662
+sVKlingande
+p1663
+(Vmale
 p1664
-(Vfemale
-p1665
-g10
-tp1666
-sVH2O
+g18
+tp1665
+sVSilvestre Dangond
+p1666
+(Vmale
 p1667
-(NNtp1668
-sVFrancesca Michielin
+g31
+tp1668
+sVYacht
 p1669
-(Vfemale
+(Vboth
 p1670
-g10
+g3
 tp1671
-sVChris Rea
+sVAir Supply
 p1672
 (Vmale
 p1673
-g10
+g3
 tp1674
-sVZezé Di Camargo & Luciano
+sVOomph!
 p1675
-(NNtp1676
-sVFugees
-p1677
-(Vboth
+(Vmale
+p1676
+g3
+tp1677
+sVTom Jones
 p1678
-g10
-tp1679
-sVPritam
-p1680
 (Vmale
+p1679
+g3
+tp1680
+sVMonster Magnet
 p1681
-g10
-tp1682
-sVUsher
-p1683
 (Vmale
+p1682
+g3
+tp1683
+sVEmperor
 p1684
-g10
-tp1685
-sVAnirudh Ravichander
-p1686
 (Vmale
+p1685
+g3
+tp1686
+sVCalvin Harris & Disciples
 p1687
-g3
-tp1688
-sVNathaniel Rateliff
-p1689
 (Vmale
+p1688
+g136
+tp1689
+sVElis Regina
 p1690
+(Vfemale
+p1691
 g3
-tp1691
-sVJúníus Meyvant
-p1692
-(Vmale
+tp1692
+sVNervo
 p1693
-g10
-tp1694
-sVKlangkarussell
-p1695
-(Vmale
+(Vfemale
+p1694
+g31
+tp1695
+sVPeaches
 p1696
-g10
-tp1697
-sVSilento
-p1698
-(Vmale
-p1699
-g10
-tp1700
-sVJohn Newman
-p1701
-(Vmale
-p1702
+(Vfemale
+p1697
 g3
+tp1698
+sVViet Cong
+p1699
+(NNtp1700
+sVBirdy
+p1701
+(Vfemale
+p1702
+g18
 tp1703
-sVExo
+sVThe Story So Far
 p1704
 (Vmale
 p1705
-g973
+g3
 tp1706
-sVMarco Mengoni
+sVLittle People
 p1707
+(NNtp1708
+sVThe Replacements
+p1709
 (Vmale
-p1708
-g3
-tp1709
-sVTame Impala
 p1710
-(Vmale
-p1711
 g3
-tp1712
-sVDerek Minor
+tp1711
+sVManuel Carrasco
+p1712
+(Vmale
 p1713
+g18
+tp1714
+sVJuicy J
+p1715
 (Vmale
-p1714
-g3
-tp1715
-sVChristina Aguilera
 p1716
-(Vfemale
-p1717
-g10
-tp1718
-sVBurl Ives
+g3
+tp1717
+sVThomas Jack
+p1718
+(Vmale
 p1719
-(Vmale
-p1720
-g10
-tp1721
-sVIcona Pop
-p1722
-(Vfemale
+g31
+tp1720
+sVDengaz
+p1721
+(NNtp1722
+sVDJ Shadow
 p1723
-g3
-tp1724
-sVhurts
-p1725
 (Vmale
+p1724
+g31
+tp1725
+sVMark Ronson
 p1726
-g3
-tp1727
-sVJulia Holter
-p1728
-(Vfemale
+(Vmale
+p1727
+g200
+tp1728
+sVAdnan Sami
 p1729
-g10
-tp1730
-sVPlan B
-p1731
 (Vmale
+p1730
+g31
+tp1731
+sVf(x)
 p1732
-g3
-tp1733
-sVLost Frequencies
+(NNtp1733
+sVBliss n Eso
 p1734
-(Vmale
-p1735
-g973
-tp1736
-sVNe-Yo
+(NNtp1735
+sVEsperanza Spalding
+p1736
+(Vfemale
 p1737
+g3
+tp1738
+sVDon McLean
+p1739
 (Vmale
-p1738
-g152
-tp1739
-sV\u8d64\u897f\u4ec1
 p1740
-(NNtp1741
-sVA-Trak
+g3
+tp1741
+sVSlaves
 p1742
 (Vmale
 p1743
 g3
 tp1744
-sVMartin Solveig
+sVDead Man's Bones
 p1745
+(NNtp1746
+sVSoul Asylum
+p1747
 (Vmale
-p1746
-g25
-tp1747
-sVJess Glynne
 p1748
-(Vfemale
-p1749
-g25
-tp1750
-sVTaeyeon
+g3
+tp1749
+sVJurassic 5
+p1750
+(Vmale
 p1751
-(NNtp1752
-sVWiz Khalifa
+g3
+tp1752
+sVThe Flashbulb
 p1753
 (Vmale
 p1754
-g25
+g3
 tp1755
-sVJohn Mayer
+sVStatus Quo
 p1756
 (Vmale
 p1757
-g10
+g3
 tp1758
-sVZaz
+sVFour Year Strong
 p1759
-(Vfemale
+(Vmale
 p1760
 g3
 tp1761
-sVJames Blake
+sVAutograf
 p1762
-(Vmale
-p1763
-g10
-tp1764
-sVGranger Smith
-p1765
-(Vmale
+(NNtp1763
+sVNothing but Thieves
+p1764
+(NNtp1765
+sVTiGERTOWN
 p1766
-g10
-tp1767
-sVA Tribe Called Quest
+(NNtp1767
+sVMating Ritual
 p1768
 (Vmale
 p1769
-g10
+g3
 tp1770
-sVLouis Armstrong
+sVTV Girl
 p1771
 (Vmale
 p1772
-g10
+g3
 tp1773
-sVTFBOYS
+sVCalexico
 p1774
-(NNtp1775
-sVNeil Young
-p1776
 (Vmale
+p1775
+g3
+tp1776
+sVHanni El Khatib
 p1777
+(Vmale
+p1778
 g3
-tp1778
-sVPriyanka Chopra
-p1779
-(Vfemale
+tp1779
+sVHarry Nilsson
 p1780
-g46
-tp1781
-sVChris Isaak
-p1782
 (Vmale
+p1781
+g3
+tp1782
+sVtUnE-yArDs
 p1783
-g10
-tp1784
-sVWalk the Moon
-p1785
-(Vmale
+(Vfemale
+p1784
+g3
+tp1785
+sVFalling in Reverse
 p1786
-g25
-tp1787
-sVIyeoka
-p1788
-(NNtp1789
-sVGarth Brooks
+(Vmale
+p1787
+g3
+tp1788
+sVFlight of the Conchords
+p1789
+(Vmale
 p1790
+g3
+tp1791
+sVModestep
+p1792
 (Vmale
-p1791
-g10
-tp1792
-sVShe & Him
 p1793
-(Vboth
-p1794
-g10
-tp1795
-sVVaccines
+g3
+tp1794
+sVKid Cudi
+p1795
+(Vmale
 p1796
-(Vmale
-p1797
-g10
-tp1798
-sV\u7530\u99a5\u7504
+g31
+tp1797
+sVMarika Hackman
+p1798
+(Vfemale
 p1799
-(Vfemale
-p1800
-g152
-tp1801
-sVBruce Springsteen
+g3
+tp1800
+sVWarren Zevon
+p1801
+(Vmale
 p1802
-(Vmale
-p1803
 g3
-tp1804
-sVLE YOUTH
-p1805
-(Vmale
+tp1803
+sVGalantis
+p1804
+(NNtp1805
+sVDashboard Confessional
 p1806
-g10
-tp1807
-sVGorgon City
-p1808
 (Vmale
+p1807
+g3
+tp1808
+sVCaspian
 p1809
-g3
-tp1810
-sVfun.
-p1811
 (Vmale
+p1810
+g3
+tp1811
+sVMartha Reeves & The Vandellas
 p1812
+(Vfemale
+p1813
 g3
-tp1813
-sVKendrick Lamar
-p1814
-(Vmale
+tp1814
+sVGül\u015fen
 p1815
-g25
-tp1816
-sVMr.Children
-p1817
-(NNtp1818
-sVIkon
+(Vfemale
+p1816
+g31
+tp1817
+sVSteven Wilson
+p1818
+(Vmale
 p1819
-(Vmale
-p1820
-g10
-tp1821
-sV\u674e\u69ae\u6d69
+g3
+tp1820
+sVNick Cave & Warren Ellis
+p1821
+(Vboth
 p1822
+g3
+tp1823
+sVTangerine Dream
+p1824
 (Vmale
-p1823
-g152
-tp1824
-sVMAN WITH A MISSION
 p1825
+g3
+tp1826
+sVMychael Danna
+p1827
 (Vmale
-p1826
-g10
-tp1827
-sVJoris
 p1828
+g31
+tp1829
+sVKodaline
+p1830
 (Vmale
-p1829
-g46
-tp1830
-sVArcade Fire
 p1831
-(Vboth
-p1832
-g10
-tp1833
-sVSkrillex
+g18
+tp1832
+sVIce Cube
+p1833
+(Vmale
 p1834
+g31
+tp1835
+sVMutemath
+p1836
 (Vmale
-p1835
-g25
-tp1836
-sVR. Kelly
 p1837
-(Vmale
-p1838
-g10
-tp1839
-sVIsac Elliot
-p1840
-(NNtp1841
-sVHedley
+g3
+tp1838
+sV\u8d64\u897f\u4ec1
+p1839
+(NNtp1840
+sVSeinabo Sey
+p1841
+(Vfemale
 p1842
+g18
+tp1843
+sVPinback
+p1844
 (Vmale
-p1843
-g10
-tp1844
-sVFats Domino
 p1845
+g3
+tp1846
+sVThe Soft Moon
+p1847
 (Vmale
-p1846
-g10
-tp1847
-sVTrain
 p1848
+g3
+tp1849
+sVCrowded House
+p1850
 (Vmale
-p1849
-g10
-tp1850
-sVEdward Maya
 p1851
-(Vmale
-p1852
-g10
-tp1853
-sVPaulina Rubio
+g3
+tp1852
+sVNatasha Bedingfield
+p1853
+(Vfemale
 p1854
+g3
+tp1855
+sVAmy Macdonald
+p1856
 (Vfemale
-p1855
-g10
-tp1856
-sVPhilip George
 p1857
+g31
+tp1858
+sVWillie Nelson
+p1859
 (Vmale
-p1858
-g10
-tp1859
-sVShreya Ghoshal
 p1860
-(Vfemale
-p1861
 g3
-tp1862
-sVGTA
-p1863
-(Vmale
+tp1861
+sVSeas of Years
+p1862
+(NNtp1863
+sVRone
 p1864
-g10
-tp1865
-sVMajor Lazer
-p1866
 (Vmale
-p1867
-g25
-tp1868
-sVDaughter
-p1869
-(Vboth
-p1870
-g10
-tp1871
-sVMaître Gims
-p1872
-(Vmale
-p1873
-g25
-tp1874
-sVCL
-p1875
-(Vmale
-p1876
-g152
-tp1877
-sVMariza
-p1878
-(Vfemale
-p1879
-g10
-tp1880
-sVKatie Melua
-p1881
-(Vfemale
-p1882
-g10
-tp1883
-sVJack U
-p1884
-(Vmale
-p1885
-g46
-tp1886
-sVGianna Nannini
-p1887
-(Vfemale
-p1888
-g10
-tp1889
-sVJeroen van der Boom
-p1890
-(Vmale
-p1891
-g10
-tp1892
-sVCold War Kids
-p1893
-(Vmale
-p1894
-g10
-tp1895
-sVAndrea Bocelli
-p1896
-(Vmale
-p1897
+p1865
 g3
-tp1898
-sVKSHMR
+tp1866
+sVLo-Fang
+p1867
+(Vmale
+p1868
+g3
+tp1869
+sVSia
+p1870
+(Vfemale
+p1871
+g200
+tp1872
+sVChelsea Wolfe
+p1873
+(Vfemale
+p1874
+g3
+tp1875
+sVAmerican Football
+p1876
+(Vmale
+p1877
+g3
+tp1878
+sVLa Arrolladora Banda El Limón
+p1879
+(Vfemale
+p1880
+S'genderizeio'
+p1881
+tp1882
+sVLou Bega
+p1883
+(Vmale
+p1884
+g3
+tp1885
+sVJohn Martyn
+p1886
+(Vmale
+p1887
+g3
+tp1888
+sVAtlas Sound
+p1889
+(Vmale
+p1890
+g3
+tp1891
+sVLos Tigres del Norte
+p1892
+(Vmale
+p1893
+g31
+tp1894
+sVCalvin Harris
+p1895
+(Vmale
+p1896
+g200
+tp1897
+sVAngels & Airwaves
+p1898
+(Vmale
 p1899
-(NNtp1900
-sVAndreas Gabalier
+g3
+tp1900
+sVJustin Bieber
 p1901
 (Vmale
 p1902
-g10
+g200
 tp1903
-sVFrank Ocean
+sVTep No
 p1904
+(NNtp1905
+sVMaxence Cyrin
+p1906
 (Vmale
-p1905
-g10
-tp1906
-sVDierks Bentley
 p1907
-(Vmale
-p1908
 g3
-tp1909
-sVRoberto Tapia
+tp1908
+sVJohn Travolta
+p1909
+(Vmale
 p1910
-(Vmale
-p1911
-g10
-tp1912
-sVAC/DC
+g3
+tp1911
+sVNena
+p1912
+(Vfemale
 p1913
-(Vmale
-p1914
 g3
-tp1915
-sVRufus
+tp1914
+sVOrchestral Manoeuvres in the Dark
+p1915
+(Vmale
 p1916
-(NNtp1917
-sVALTJ
-p1918
-(NNtp1919
-sVMichael Bublé
-p1920
-(Vmale
-p1921
 g3
-tp1922
-sVRicardo Arjona
-p1923
+tp1917
+sVI Monster
+p1918
 (Vmale
+p1919
+g3
+tp1920
+sVRed Fang
+p1921
+(Vmale
+p1922
+g3
+tp1923
+sVSchool of Seven Bells
 p1924
-g10
-tp1925
-sVMariah Carey
-p1926
-(Vfemale
+(Vboth
+p1925
+g3
+tp1926
+sVChaka Khan
 p1927
-g25
-tp1928
-sVHelene Fischer
-p1929
 (Vfemale
+p1928
+g3
+tp1929
+sVAustra
 p1930
-g10
-tp1931
-sVAlpa Gun
-p1932
-(Vmale
+(Vboth
+p1931
+g3
+tp1932
+sVSerj Tankian
 p1933
-g10
-tp1934
-sVRae Sremmurd
-p1935
-(Vfemale
+(Vmale
+p1934
+g3
+tp1935
+sVKing Krule
 p1936
-g46
-tp1937
-sVPhilipp Poisel
-p1938
 (Vmale
+p1937
+g3
+tp1938
+sVRoyal Republic
 p1939
-g10
-tp1940
-sV\ubc29\ud0c4\uc18c\ub144\ub2e8
+(NNtp1940
+sVLykke Li
 p1941
-(NNtp1942
-sVThelonious Monk
-p1943
-(Vmale
-p1944
-g10
-tp1945
-sVKaraoke
-p1946
-(NNtp1947
-sVJohnny Hallyday
-p1948
-(Vmale
-p1949
-g10
-tp1950
-sVGerardo Ortiz
-p1951
-(Vmale
-p1952
-g10
-tp1953
-sVThomas Rhett
-p1954
-(Vmale
-p1955
-g372
-tp1956
-sV\u0411\u0430\u0441\u0442\u0430
-p1957
-(Vmale
-p1958
-g152
-tp1959
-sVFoals
-p1960
-(Vmale
-p1961
-g10
-tp1962
-sVHande Yener
-p1963
 (Vfemale
-p1964
-g10
-tp1965
-sVDuke Dumont
-p1966
+p1942
+g18
+tp1943
+sVSmokey Robinson and The Miracles
+p1944
+(NNtp1945
+sVEfterklang
+p1946
 (Vmale
-p1967
-g25
-tp1968
-sVD.A.M.A.
+p1947
+g3
+tp1948
+sVFlorrie
+p1949
+(Vfemale
+p1950
+g3
+tp1951
+sVCarrie Underwood
+p1952
+(Vfemale
+p1953
+g18
+tp1954
+sVMadness
+p1955
+(Vmale
+p1956
+g3
+tp1957
+sVEmmylou Harris
+p1958
+(Vfemale
+p1959
+g3
+tp1960
+sVTchami
+p1961
+(NNtp1962
+sV"Weird Al" Yankovic
+p1963
+(Vmale
+p1964
+g3
+tp1965
+sVLower Dens
+p1966
+(NNtp1967
+sVPlain White T's
+p1968
+(Vmale
 p1969
-(NNtp1970
-sVAntti Tuisku
+g31
+tp1970
+sVBenny Benassi
 p1971
 (Vmale
 p1972
 g3
 tp1973
-sVFrank Sinatra
+sVAtreyu
 p1974
 (Vmale
 p1975
 g3
 tp1976
-sVChildish Gambino
+sVR.City
 p1977
-(Vmale
-p1978
-g3
-tp1979
-sVStereophonics
-p1980
-(Vmale
-p1981
-g10
-tp1982
-sVCarpenters
-p1983
-(Vboth
-p1984
-g25
-tp1985
-sVAydilge
-p1986
+(NNtp1978
+sVSOFI TUKKER
+p1979
 (Vfemale
-p1987
-g10
-tp1988
-sVEagles
+p1980
+g136
+tp1981
+sVAce Wilder
+p1982
+(Vfemale
+p1983
+g3
+tp1984
+sVTindersticks
+p1985
+(Vmale
+p1986
+g3
+tp1987
+sVThe Avener
+p1988
+(Vmale
 p1989
+g18
+tp1990
+sVAbraham Mateo
+p1991
 (Vmale
-p1990
-g10
-tp1991
-sVTommy Trash
 p1992
+g18
+tp1993
+sVBen Rector
+p1994
 (Vmale
-p1993
-g10
-tp1994
-sVCee Lo Green
 p1995
+g3
+tp1996
+sVSam & Dave
+p1997
 (Vmale
-p1996
-g25
-tp1997
-sV\uc2f8\uc774
 p1998
-(NNtp1999
-sVCage the Elephant
+g3
+tp1999
+sVPhoria
 p2000
 (Vmale
 p2001
 g3
 tp2002
-sVRemmy Valenzuela
+sVDesiigner
 p2003
+(NNtp2004
+sVJoe Walsh
+p2005
 (Vmale
-p2004
-g10
-tp2005
-sVDr. Dre
 p2006
-(Vmale
-p2007
 g3
-tp2008
-sVLos Huracanes del Norte
+tp2007
+sVSoulfly
+p2008
+(Vmale
 p2009
-(Vmale
-p2010
-g10
-tp2011
-sVSkunk Anansie
-p2012
-(Vboth
-p2013
-g10
-tp2014
-sVThe Mountain Goats
-p2015
-(Vmale
-p2016
-g10
-tp2017
-sVCharli XCX
-p2018
-(Vfemale
-p2019
 g3
-tp2020
-sVPotato
+tp2010
+sVMotion City Soundtrack
+p2011
+(Vmale
+p2012
+g3
+tp2013
+sVBrigitte
+p2014
+(Vfemale
+p2015
+g1260
+tp2016
+sVHarry Belafonte
+p2017
+(Vmale
+p2018
+g3
+tp2019
+sVMaxïmo Park
+p2020
+(Vmale
 p2021
-(NNtp2022
-sVAriel Camacho
+g3
+tp2022
+sVSergei Prokofiev
 p2023
 (Vmale
 p2024
-g152
+g11
 tp2025
-sVLuan Santana
+sVTourist
 p2026
+(NNtp2027
+sVThe Psychedelic Furs
+p2028
 (Vmale
-p2027
-g3
-tp2028
-sVDemi Lovato
 p2029
-(Vfemale
-p2030
-g25
-tp2031
-sVLucenzo
+g3
+tp2030
+sVJames Blunt
+p2031
+(Vmale
 p2032
+g31
+tp2033
+sVAriel Pink's Haunted Graffiti
+p2034
 (Vmale
-p2033
-g10
-tp2034
-sVMiley Cyrus
 p2035
-(Vfemale
-p2036
 g3
-tp2037
-sVFather John Misty
-p2038
-(Vmale
+tp2036
+sVBroadcast
+p2037
+(NNtp2038
+sVMillencolin
 p2039
-g10
-tp2040
-sVJulio Iglesias
-p2041
 (Vmale
+p2040
+g3
+tp2041
+sVNicole Scherzinger
 p2042
-g10
-tp2043
-sVZbigniew Preisner
-p2044
-(Vmale
+(Vfemale
+p2043
+g3
+tp2044
+sVBooker T. & the MG's
 p2045
-g10
-tp2046
-sVOwl City
-p2047
 (Vmale
+p2046
+g3
+tp2047
+sVMs Mr
 p2048
-g10
-tp2049
-sVAntonio Orozco
-p2050
-(Vmale
+(Vboth
+p2049
+g31
+tp2050
+sVWanda
 p2051
-g10
-tp2052
-sVGin Wigmore
-p2053
 (Vfemale
+p2052
+g31
+tp2053
+sVZhu
 p2054
-g10
-tp2055
-sVAronChupa
-p2056
 (Vmale
+p2055
+g18
+tp2056
+sVThe Prodigy
 p2057
-g3
-tp2058
-sVAmaral
-p2059
-(NNtp2060
-sVBing Crosby
+(Vmale
+p2058
+g31
+tp2059
+sVIndila
+p2060
+(Vfemale
 p2061
-(Vmale
-p2062
-g10
-tp2063
-sVElla Fitzgerald
+g31
+tp2062
+sVErykah Badu
+p2063
+(Vfemale
 p2064
-(Vfemale
-p2065
-g10
-tp2066
-sVDotan
+g18
+tp2065
+sVBerkay
+p2066
+(Vmale
 p2067
+g1260
+tp2068
+sVZ\u0435\u043c\u0444\u0438\u0440\u0430
+p2069
 (Vmale
-p2068
-g10
-tp2069
-sVCiara
 p2070
-(Vfemale
-p2071
-g10
-tp2072
-sVJennifer Lopez
+g3
+tp2071
+sVTownes Van Zandt
+p2072
+(Vmale
 p2073
-(Vfemale
-p2074
-g10
-tp2075
-sVLinkin Park
+g3
+tp2074
+sVYlvis
+p2075
+(Vmale
 p2076
+g31
+tp2077
+sVJuanes
+p2078
 (Vmale
-p2077
-g10
-tp2078
-sVTroye Sivan
 p2079
-(Vmale
-p2080
 g3
-tp2081
-sVChris Brown
+tp2080
+sVFlyleaf
+p2081
+(Vboth
 p2082
+g3
+tp2083
+sVMy Dying Bride
+p2084
 (Vmale
-p2083
-g25
-tp2084
-sVYoussoupha
 p2085
+g3
+tp2086
+sVRob Thomas
+p2087
 (Vmale
-p2086
-g10
-tp2087
-sVLara Fabian
 p2088
-(Vfemale
-p2089
-g10
-tp2090
-sVTech N9ne
+g18
+tp2089
+sVShigeto
+p2090
+(Vmale
 p2091
-(Vmale
-p2092
-g10
-tp2093
-sVDean Martin
-p2094
-(Vmale
+g11
+tp2092
+sVThe John Butler Trio
+p2093
+(NNtp2094
+sVFamily of the Year
 p2095
-g10
-tp2096
-sVDream
-p2097
-(NNtp2098
-sVMartin Garrix
-p2099
-(Vmale
+(Vboth
+p2096
+g31
+tp2097
+sVVigiland
+p2098
+(NNtp2099
+sVHiatus Kaiyote
 p2100
-g25
-tp2101
-sVGrimes
-p2102
-(Vfemale
+(Vboth
+p2101
+g3
+tp2102
+sVLudacris
 p2103
-g3
-tp2104
-sVLeona Lewis
-p2105
-(Vfemale
-p2106
-g3
-tp2107
-sVKaskade
-p2108
 (Vmale
+p2104
+g3
+tp2105
+sVFeeder
+p2106
+(Vmale
+p2107
+g3
+tp2108
+sVEzra Vine
 p2109
-g10
-tp2110
-sVMumford and Sons
-p2111
-(NNtp2112
-sVSelena Gomez & The Scene
+(Vmale
+p2110
+g136
+tp2111
+sVThe Darkness
+p2112
+(Vmale
 p2113
+g3
+tp2114
+sVSay Lou Lou
+p2115
 (Vfemale
-p2114
-g46
-tp2115
-sVSDP
 p2116
-(NNtp2117
-sVCity and Colour
+g3
+tp2117
+sVEmerson, Lake & Palmer
 p2118
 (Vmale
 p2119
-g10
+g3
 tp2120
-sVIlly
+sVyall
 p2121
-(Vmale
-p2122
-g10
-tp2123
-sVRyn Weaver
-p2124
-(Vfemale
+(NNtp2122
+sVblack coast
+p2123
+(NNtp2124
+sVLana Del Rey
 p2125
-g10
-tp2126
-sVRadiohead
-p2127
-(Vmale
+(Vfemale
+p2126
+g200
+tp2127
+sVHooverphonic
 p2128
-g10
-tp2129
-sVJason Aldean
+(NNtp2129
+sVBloc Party
 p2130
 (Vmale
 p2131
-g3
+g31
 tp2132
-sVEmeli Sande
+sVBoy
 p2133
-(Vfemale
-p2134
-g10
-tp2135
-sVKylie Minogue
+(NNtp2134
+sVCheap Trick
+p2135
+(Vmale
 p2136
-(Vfemale
-p2137
 g3
-tp2138
-sVSanni
-p2139
-(Vfemale
+tp2137
+sVSongs: Ohia
+p2138
+(NNtp2139
+sVQueensrÿche
 p2140
-g10
-tp2141
-sVAgir
-p2142
 (Vmale
-p2143
-g152
-tp2144
-sVBelle and Sebastian
-p2145
-(Vboth
-p2146
-g10
-tp2147
-sVToby Keith
-p2148
-(Vmale
-p2149
-g10
-tp2150
-sVMiriam Bryant
-p2151
-(Vfemale
-p2152
+p2141
 g3
-tp2153
-sVStefanie Heinzmann
-p2154
+tp2142
+sVHacktivist
+p2143
+(NNtp2144
+sVNoize MC
+p2145
+(NNtp2146
+sVDarwin Deez
+p2147
+(Vmale
+p2148
+g3
+tp2149
+sVCarly Simon
+p2150
 (Vfemale
+p2151
+g3
+tp2152
+sVCutting Crew
+p2153
+(NNtp2154
+sVSimple Plan
 p2155
-g10
-tp2156
-sVNatalia Lafourcade
-p2157
-(Vfemale
+(Vmale
+p2156
+g18
+tp2157
+sVRed
 p2158
-g10
-tp2159
-sVBob Sinclar
+(NNtp2159
+sV5 Seconds Of Summer
 p2160
 (Vmale
 p2161
-g10
+g200
 tp2162
-sVOlly Murs
+sVHappy Mondays
 p2163
 (Vmale
 p2164
 g3
 tp2165
-sVWisin
+sVThe Microphones
 p2166
 (Vmale
 p2167
 g3
 tp2168
-sVJack Johnson
+sVAsaf Avidan & the Mojos
 p2169
+(NNtp2170
+sVSkepta
+p2171
 (Vmale
-p2170
-g10
-tp2171
-sVSabina Ddumba
 p2172
-(Vfemale
-p2173
-g10
-tp2174
-sVBillie Holiday
+g3
+tp2173
+sVAriel Camacho
+p2174
+(Vmale
 p2175
+g185
+tp2176
+sVMadilyn Bailey
+p2177
 (Vfemale
-p2176
-g10
-tp2177
-sVTool
 p2178
+g18
+tp2179
+sVClutch
+p2180
 (Vmale
-p2179
-g10
-tp2180
-sVSKE48
 p2181
-(Vfemale
-p2182
-g10
-tp2183
-sVNew Order
+g3
+tp2182
+sVAlejandro Sanz
+p2183
+(Vmale
 p2184
-(Vboth
-p2185
-g10
-tp2186
-sVFirst Aid Kit
+g18
+tp2185
+sV\u6797\u4fca\u5091
+p2186
+(Vmale
 p2187
-(Vfemale
-p2188
-g3
-tp2189
-sVPaul McCartney
+g185
+tp2188
+sVAttlas
+p2189
+(Vmale
 p2190
-(Vmale
-p2191
 g3
-tp2192
-sVThe White Stripes
-p2193
+tp2191
+sVCults
+p2192
 (Vboth
-p2194
-g10
-tp2195
-sVMarisa Monte
-p2196
+p2193
+g3
+tp2194
+sVEmma
+p2195
 (Vfemale
-p2197
-g10
-tp2198
-sVTony Bennett
+p2196
+g31
+tp2197
+sVBushido
+p2198
+(Vmale
 p2199
-(Vmale
-p2200
-g10
-tp2201
-sVMarianas Trench
+g31
+tp2200
+sVRodrigo y Gabriela
+p2201
+(Vboth
 p2202
-(NNtp2203
-sVSilvestre Dangond
+g3
+tp2203
+sVMo
 p2204
+(NNtp2205
+sVBuddy Holly
+p2206
 (Vmale
-p2205
-g10
-tp2206
-sVJeezy
 p2207
+g3
+tp2208
+sVNew Found Glory
+p2209
 (Vmale
-p2208
-g10
-tp2209
-sV\ud0dc\uc5f0
 p2210
-(NNtp2211
-sVBasto!
+g3
+tp2211
+sVRedbone
 p2212
 (Vmale
 p2213
-g10
+g3
 tp2214
-sVChristopher
+sVBlack Mountain
 p2215
 (Vmale
 p2216
-g10
+g3
 tp2217
-sVKEEN' V
+sVThe B-52's
 p2218
 (NNtp2219
-sVLady Antebellum
+sVMichael Jackson
 p2220
-(Vboth
+(Vmale
 p2221
-g10
+g18
 tp2222
-sVBakermat
+sVDimitri Vegas
 p2223
 (Vmale
 p2224
-g10
+g200
 tp2225
-sVGOT7
+sVBreathe Carolina
 p2226
+(NNtp2227
+sVBad Company
+p2228
 (Vmale
-p2227
-g3
-tp2228
-sVN.W.A
 p2229
+g3
+tp2230
+sVAstronomyy
+p2231
 (Vmale
-p2230
-g10
-tp2231
-sVMark Forster
 p2232
-(Vmale
-p2233
 g3
-tp2234
-sVShaggy
-p2235
-(Vmale
-p2236
-g3
-tp2237
-sVMISIA
-p2238
+tp2233
+sVKaty B
+p2234
 (Vfemale
-p2239
-g10
-tp2240
-sVKodaline
+p2235
+g3
+tp2236
+sVLuca Carboni
+p2237
+(Vmale
+p2238
+g31
+tp2239
+sVRaekwon
+p2240
+(Vmale
 p2241
-(Vmale
-p2242
 g3
-tp2243
-sVJames
+tp2242
+sVTravis
+p2243
+(Vmale
 p2244
+g31
+tp2245
+sVLucenzo
+p2246
 (Vmale
-p2245
-g10
-tp2246
-sVChris Young
 p2247
-(Vmale
-p2248
-g3
-tp2249
-sVBrandon Flowers
-p2250
-(Vmale
+g31
+tp2248
+sVTiamat
+p2249
+(NNtp2250
+sVGeorg Friedrich Händel
 p2251
-g10
-tp2252
-sVDrake
-p2253
 (Vmale
+p2252
+g11
+tp2253
+sVCulture Club
 p2254
-g25
-tp2255
-sVPerfume
-p2256
-(NNtp2257
-sVEstopa
+(Vmale
+p2255
+g3
+tp2256
+sVUB40
+p2257
+(Vmale
 p2258
-(NNtp2259
-sVBigBang
+g3
+tp2259
+sVMick Jenkins
 p2260
 (Vmale
 p2261
-g25
+g3
 tp2262
-sVThe Struts
+sVMishCatt
 p2263
 (NNtp2264
-sVEgoist
+sVThe Church
 p2265
 (Vmale
 p2266
-g10
+g3
 tp2267
-sVMGMT
+sVSparks
 p2268
+(NNtp2269
+sVCazzette
+p2270
+(NNtp2271
+sVPaul van Dyk
+p2272
 (Vmale
-p2269
-g10
-tp2270
-sVDzeko & Torres
-p2271
-(NNtp2272
-sVJVG
 p2273
-(NNtp2274
-sVYandel
+g31
+tp2274
+sVJuan Luis Guerra
 p2275
 (Vmale
 p2276
-g10
+g31
 tp2277
-sVBirds of Tokyo
+sVCarlos Baute
 p2278
-(NNtp2279
-sVFranz Ferdinand
-p2280
 (Vmale
+p2279
+g31
+tp2280
+sVBeach Slang
 p2281
-g10
-tp2282
-sVThe Rolling Stones
+(NNtp2282
+sVMADEINTYO
 p2283
+(NNtp2284
+sVGraveyard
+p2285
 (Vmale
-p2284
-g3
-tp2285
-sVJorge & Mateus
 p2286
-(Vmale
-p2287
-g289
-tp2288
-sVZion T
+g3
+tp2287
+sVKim Wilde
+p2288
+(Vfemale
 p2289
+g3
+tp2290
+sVThe Mars Volta
+p2291
 (Vmale
-p2290
-g10
-tp2291
-sVQuintino
 p2292
-(Vmale
-p2293
-g10
-tp2294
-sVMacklemore
-p2295
-(Vmale
+g3
+tp2293
+sVmachineheart
+p2294
+(NNtp2295
+sV\ubc15\uc7ac\ubc94
 p2296
-g3
-tp2297
-sVThe Game
+(NNtp2297
+sVUlver
 p2298
-(NNtp2299
-sVNegramaro
-p2300
 (Vmale
-p2301
-g10
-tp2302
-sVJames Morrison
-p2303
-(Vmale
-p2304
-g10
-tp2305
-sVImagine Dragons
-p2306
-(Vmale
-p2307
-g25
-tp2308
-sVAngus & Julia Stone
-p2309
-(Vmale
-p2310
-g46
-tp2311
-sVSukhwinder Singh
-p2312
-(Vmale
-p2313
-g10
-tp2314
-sVThe Fratellis
-p2315
-(Vmale
-p2316
-g10
-tp2317
-sVDaft Punk
-p2318
-(Vmale
-p2319
+p2299
 g3
-tp2320
-sVJasmine Thompson
+tp2300
+sVMilky Chance
+p2301
+(Vmale
+p2302
+g18
+tp2303
+sVPsy
+p2304
+(Vmale
+p2305
+g18
+tp2306
+sVThe Big Pink
+p2307
+(Vmale
+p2308
+g3
+tp2309
+sVMelvins
+p2310
+(Vmale
+p2311
+g3
+tp2312
+sVMariza
+p2313
+(Vfemale
+p2314
+g31
+tp2315
+sVHalf Moon Run
+p2316
+(Vmale
+p2317
+g31
+tp2318
+sVRitual
+p2319
+(NNtp2320
+sVEve
 p2321
 (Vfemale
 p2322
 g3
 tp2323
-sVFly Project
+sVFoo Fighters
 p2324
 (NNtp2325
-sVDavid Guetta
+sVJimmy Cliff
 p2326
 (Vmale
 p2327
-g25
+g3
 tp2328
-sVTrey Songz
+sVSoulwax
 p2329
 (Vmale
 p2330
-g10
-tp2331
-sVSteve Angello
-p2332
-(Vmale
-p2333
 g3
+tp2331
+sVIggy Azalea
+p2332
+(Vfemale
+p2333
+g18
 tp2334
-sVJuan Luis Guerra
+sVXTC
 p2335
 (Vmale
 p2336
-g10
+g3
 tp2337
-sVZedd
+sVInterpol
 p2338
 (Vmale
 p2339
-g25
+g31
 tp2340
-sVShinedown
+sVSaosin
 p2341
 (Vmale
 p2342
 g3
 tp2343
-sVWill Sparks
+sVSnarky Puppy
 p2344
+(NNtp2345
+sVRobert Schumann
+p2346
 (Vmale
-p2345
-g10
-tp2346
-sVMichel Teló
 p2347
-(Vmale
-p2348
 g3
-tp2349
-sVKwabs
-p2350
-(Vmale
+tp2348
+sVSubmotion Orchestra
+p2349
+(NNtp2350
+sVSir Edward Elgar
 p2351
-g3
-tp2352
-sVChris Cornell
-p2353
 (Vmale
+p2352
+g3
+tp2353
+sVTotally Enormous Extinct Dinosaurs
 p2354
-g3
-tp2355
-sVCassadee Pope
-p2356
-(Vfemale
-p2357
-g10
-tp2358
-sVLacrimosa
-p2359
-(NNtp2360
-sVBryan Adams
-p2361
 (Vmale
-p2362
+p2355
 g3
-tp2363
-sVJuan Magan
+tp2356
+sVRüFüS Du Sol
+p2357
+(NNtp2358
+sVTalib Kweli
+p2359
+(Vmale
+p2360
+g3
+tp2361
+sVVallis Alps
+p2362
+(NNtp2363
+sVThe Future Sound of London
 p2364
 (Vmale
 p2365
 g3
 tp2366
-sVKarpe Diem
+sVStevie Ray Vaughan
 p2367
-(NNtp2368
-sVKidz Bop Kids
-p2369
-(Vboth
-p2370
-g10
-tp2371
-sVMika
-p2372
 (Vmale
-p2373
+p2368
 g3
-tp2374
-sVMaluma
-p2375
+tp2369
+sVThe Boxer Rebellion
+p2370
 (Vmale
-p2376
-g372
-tp2377
-sVHalestorm
-p2378
-(Vboth
-p2379
-g10
-tp2380
-sVThe Amity Affliction
-p2381
-(NNtp2382
-sVThe BossHoss
-p2383
-(Vmale
-p2384
-g10
-tp2385
-sVO.T. Genasis
-p2386
-(Vmale
-p2387
-g10
-tp2388
-sVAlka Yagnik
-p2389
+p2371
+g3
+tp2372
+sVThe Runaways
+p2373
 (Vfemale
-p2390
-g10
-tp2391
-sVPablo Alboran
-p2392
+p2374
+g3
+tp2375
+sVMachinae Supremacy
+p2376
+(NNtp2377
+sVCarnage
+p2378
+(NNtp2379
+sVMute Math
+p2380
+(NNtp2381
+sVBlack Moth Super Rainbow
+p2382
 (Vmale
+p2383
+g3
+tp2384
+sVEpica
+p2385
+(NNtp2386
+sVSpada
+p2387
+(NNtp2388
+sVItaloBrothers
+p2389
+(Vmale
+p2390
+g31
+tp2391
+sVGladys Knight & The Pips
+p2392
+(Vfemale
 p2393
 g3
 tp2394
-sVOneRepublic
+sVArchive
 p2395
-(Vmale
+(Vboth
 p2396
 g3
 tp2397
-sVRobin Thicke
+sV\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043e\u0440\u043e\u043d\u0430
 p2398
-(Vmale
-p2399
-g3
-tp2400
-sVLianne La Havas
+(NNtp2399
+sVAnastácia
+p2400
+(Vfemale
 p2401
+g31
+tp2402
+sVKiesza
+p2403
 (Vfemale
-p2402
-g10
-tp2403
-sVBooba
 p2404
-(Vmale
-p2405
-g3
-tp2406
-sVJana Kramer
+g31
+tp2405
+sVCourtney Barnett
+p2406
+(Vfemale
 p2407
-(Vfemale
-p2408
-g3
-tp2409
-sVWashed Out
+g31
+tp2408
+sVGypsy & The Cat
+p2409
+(Vmale
 p2410
+g3
+tp2411
+sVMeat Loaf
+p2412
 (Vmale
-p2411
-g10
-tp2412
-sV\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba
 p2413
-(NNtp2414
-sVLes soeurs Boulay
+g3
+tp2414
+sVMelody's Echo Chamber
 p2415
-(Vmale
+(Vfemale
 p2416
-g46
+g3
 tp2417
-sVBanda Sinaloense MS de Sergio Lizárraga
+sVMarco Borsato
 p2418
-(NNtp2419
-sVEva Simons
-p2420
-(Vfemale
+(Vmale
+p2419
+g18
+tp2420
+sVPeriphery
 p2421
-g3
-tp2422
-sVKlingande
-p2423
 (Vmale
+p2422
+g3
+tp2423
+sVJeff Beck
 p2424
-g3
-tp2425
-sVLed Zeppelin
-p2426
 (Vmale
+p2425
+g3
+tp2426
+sVTaylor Swift
 p2427
-g3
-tp2428
-sVImany
-p2429
 (Vfemale
+p2428
+g200
+tp2429
+sVRun-D.M.C.
 p2430
-g3
-tp2431
-sVWalking On Cars
+(NNtp2431
+sVTristam
 p2432
 (NNtp2433
-sVLorde
+sVIl Volo
 p2434
-(Vfemale
+(Vmale
 p2435
-g3
+g31
 tp2436
-sVGabrielle Aplin
+sVOn An On
 p2437
+(NNtp2438
+sVMeg Myers
+p2439
 (Vfemale
-p2438
-g372
-tp2439
-sVSystem of a Down
 p2440
-(Vmale
-p2441
-g10
-tp2442
-sVManá
-p2443
-(Vmale
-p2444
 g3
-tp2445
-sVEd Sheeran
-p2446
+tp2441
+sVOasis
+p2442
 (Vmale
+p2443
+g31
+tp2444
+sVBethel Music
+p2445
+(NNtp2446
+sVBalthazar
 p2447
-g25
-tp2448
-sVBlock B
+(NNtp2448
+sVLibrary Tapes
 p2449
 (NNtp2450
-sVAlanis Morissette
+sVLisa Nilsson
 p2451
 (Vfemale
 p2452
-g3
+g31
 tp2453
-sVPlacebo
+sVTrapt
 p2454
 (Vmale
 p2455
-g10
+g3
 tp2456
-sVPink Floyd
+sVCaetano Veloso
 p2457
 (Vmale
 p2458
-g10
+g3
 tp2459
-sVChet Faker
+sVEmma Bale
 p2460
-(Vmale
+(Vfemale
 p2461
-g10
+g11
 tp2462
-sVDimitri Vegas and Like Mike
+sVSugarcult
 p2463
 (Vmale
 p2464
-g289
+g3
 tp2465
-sVTiziano Ferro
+sVLawson
 p2466
 (Vmale
 p2467
-g3
+g31
 tp2468
-sVNervo
+sVNikke Ankara
 p2469
-(Vfemale
+(Vmale
 p2470
-g10
+g185
 tp2471
-sVAlkilados
+sVCéu
 p2472
 (NNtp2473
-sVTori Kelly
+sVPhillip Phillips
 p2474
-(Vfemale
+(Vmale
 p2475
 g3
 tp2476
-sV\u5468\u6770\u502b
+sV!!!
 p2477
 (NNtp2478
-sVSam Smith
+sVPowers
 p2479
+(NNtp2480
+sVMount Kimbie
+p2481
 (Vmale
-p2480
-g25
-tp2481
-sVMaroon 5
 p2482
+g3
+tp2483
+sVMichael Calfan
+p2484
 (Vmale
-p2483
-g25
-tp2484
-sVBirdy
 p2485
-(Vfemale
-p2486
 g3
-tp2487
-sVCivil Twilight
+tp2486
+sVThe Streets
+p2487
+(Vmale
 p2488
+g3
+tp2489
+sVTom Odell
+p2490
 (Vmale
-p2489
-g10
-tp2490
-sVElvis Costello
 p2491
+g31
+tp2492
+sVFarruko
+p2493
 (Vmale
-p2492
-g10
-tp2493
-sVLenny Kravitz
 p2494
-(Vmale
-p2495
-g10
-tp2496
-sVManuel Carrasco
+g31
+tp2495
+sVThe Veronicas
+p2496
+(Vfemale
 p2497
-(Vmale
-p2498
 g3
-tp2499
-sVRedman
-p2500
-(Vmale
+tp2498
+sVEdguy
+p2499
+(NNtp2500
+sVSolar Fields
 p2501
-g10
-tp2502
-sVThomas Jack
-p2503
 (Vmale
-p2504
-g10
-tp2505
-sVGlee Cast
-p2506
-(NNtp2507
-sVScooter
-p2508
-(Vmale
-p2509
-g10
-tp2510
-sVSido
-p2511
-(Vmale
-p2512
+p2502
 g3
-tp2513
-sVCharly Black
+tp2503
+sVAndrew Belle
+p2504
+(Vmale
+p2505
+g3
+tp2506
+sVFar * East Movement
+p2507
+(Vmale
+p2508
+g18
+tp2509
+sVSelena Gomez
+p2510
+(Vfemale
+p2511
+g200
+tp2512
+sVMORTEN
+p2513
+(Vmale
 p2514
+g136
+tp2515
+sVHuey Lewis & The News
+p2516
 (Vmale
-p2515
-g10
-tp2516
-sVMark Ronson
 p2517
-(Vmale
-p2518
-g25
-tp2519
-sVAdnan Sami
+g3
+tp2518
+sVThe Black Eyed Peas
+p2519
+(Vboth
 p2520
+g31
+tp2521
+sVEric B. & Rakim
+p2522
 (Vmale
-p2521
-g10
-tp2522
-sVf(x)
 p2523
-(NNtp2524
-sVDon Omar
+g3
+tp2524
+sVTim McGraw
 p2525
 (Vmale
 p2526
-g10
+g200
 tp2527
-sVBliss n Eso
+sVCalogero
 p2528
-(NNtp2529
-sVSusanne Sundfør
-p2530
-(Vfemale
+(Vmale
+p2529
+g31
+tp2530
+sVClams Casino
 p2531
-g25
-tp2532
-sVJul
-p2533
 (Vmale
+p2532
+g3
+tp2533
+sVDarude
 p2534
-g10
-tp2535
-sVK. Michelle
-p2536
-(Vfemale
+(Vmale
+p2535
+g31
+tp2536
+sVRihanna
 p2537
-g10
-tp2538
-sVB1A4
-p2539
-(NNtp2540
-sVMagic!
+(Vfemale
+p2538
+g200
+tp2539
+sVRick Ross
+p2540
+(Vmale
 p2541
-(Vmale
-p2542
-g3
-tp2543
-sVMika Singh
+g31
+tp2542
+sVMegan Davies
+p2543
+(Vfemale
 p2544
-(Vfemale
-p2545
-g10
-tp2546
-sVLee Brice
-p2547
-(Vmale
+g3
+tp2545
+sVCoconut Records
+p2546
+(NNtp2547
+sVJosh Ritter
 p2548
+(Vmale
+p2549
 g3
-tp2549
-sVback number
-p2550
-(NNtp2551
-sV\u8607\u6253\u7da0
+tp2550
+sVJosé James
+p2551
+(Vmale
 p2552
-(NNtp2553
-sVRay Charles
+g3
+tp2553
+sVHard-Fi
 p2554
+(NNtp2555
+sVRed House Painters
+p2556
 (Vmale
-p2555
-g10
-tp2556
-sVLil Jon
 p2557
-(Vmale
-p2558
 g3
-tp2559
-sVThe Piano Guys
-p2560
-(NNtp2561
-sVGiusy Ferreri
+tp2558
+sVMitski
+p2559
+(NNtp2560
+sVHinder
+p2561
+(Vmale
 p2562
-(Vfemale
-p2563
-g10
-tp2564
-sVDawin
+g3
+tp2563
+sVSilento
+p2564
+(Vmale
 p2565
+g31
+tp2566
+sVDamien Rice
+p2567
 (Vmale
-p2566
-g372
-tp2567
-sVRea Garvey
 p2568
-(Vmale
-p2569
-g10
-tp2570
-sVFaith No More
-p2571
-(Vmale
+g18
+tp2569
+sVGnash
+p2570
+(NNtp2571
+sVA-Trak
 p2572
-g10
-tp2573
-sV2NE1
-p2574
-(Vfemale
+(Vmale
+p2573
+g18
+tp2574
+sVVenetian Snares
 p2575
-g10
-tp2576
-sV\u661f\u91ce\u6e90
-p2577
-(NNtp2578
-sVSteve Aoki
+(Vmale
+p2576
+g3
+tp2577
+sVPriyanka Chopra
+p2578
+(Vfemale
 p2579
+g1260
+tp2580
+sVMAN WITH A MISSION
+p2581
 (Vmale
-p2580
-g3
-tp2581
-sVSheppard
 p2582
-(Vmale
-p2583
-g10
-tp2584
-sVLabrinth
-p2585
-(Vmale
+g31
+tp2583
+sVKiasmos
+p2584
+(NNtp2585
+sVFalco
 p2586
+(Vmale
+p2587
 g3
-tp2587
-sVLata Mangeshkar
-p2588
-(Vfemale
+tp2588
+sVLisa Gerrard
 p2589
-g10
-tp2590
-sVMoby
-p2591
-(Vmale
+(Vfemale
+p2590
+g3
+tp2591
+sVElectric Light Orchestra
 p2592
-g10
-tp2593
-sV\uc18c\ub140\uc2dc\ub300
-p2594
-(NNtp2595
-sVKid Cudi
+(Vmale
+p2593
+g31
+tp2594
+sVGrace
+p2595
+(Vfemale
 p2596
+g31
+tp2597
+sVElectric Guest
+p2598
 (Vmale
-p2597
-g10
-tp2598
-sVAndrés Cepeda
 p2599
+g3
+tp2600
+sVEverlast
+p2601
 (Vmale
-p2600
-g152
-tp2601
-sVJulie Bergan
 p2602
-(Vfemale
-p2603
-g152
-tp2604
-sVGalantis
-p2605
-(NNtp2606
-sVChris Malinchak
+g3
+tp2603
+sVEazy-E
+p2604
+(NNtp2605
+sVTodd Rundgren
+p2606
+(Vmale
 p2607
+g3
+tp2608
+sVBob Dylan
+p2609
 (Vmale
-p2608
-g10
-tp2609
-sVWale
 p2610
-(Vmale
-p2611
-g10
-tp2612
-sVAnna Naklab
+g18
+tp2611
+sVMs. Lauryn Hill
+p2612
+(Vfemale
 p2613
-(Vfemale
-p2614
-g372
-tp2615
-sVCéline Dion
-p2616
-(Vfemale
+g11
+tp2614
+sVBig Black Delta
+p2615
+(NNtp2616
+sVJanet Jackson
 p2617
-g3
-tp2618
-sVFoster the People
-p2619
-(NNtp2620
-sVStevie Wonder
+(Vfemale
+p2618
+g18
+tp2619
+sV\u0414\u0438\u043c\u0430 \u0411\u0438\u043b\u0430\u043d
+p2620
+(Vmale
 p2621
+g185
+tp2622
+sVOscar Peterson
+p2623
 (Vmale
-p2622
-g3
-tp2623
-sVGül\u015fen
 p2624
-(Vfemale
-p2625
-g10
-tp2626
-sVJennifer Rostock
+g11
+tp2625
+sVJames Bay
+p2626
+(Vmale
 p2627
-(Vfemale
-p2628
-g46
-tp2629
-sVVasco Rossi
+g200
+tp2628
+sVRobert Johnson
+p2629
+(Vmale
 p2630
+g3
+tp2631
+sVPoison
+p2632
 (Vmale
-p2631
-g10
-tp2632
-sVKANA-BOON
 p2633
-(NNtp2634
-sVSimply Red
+g3
+tp2634
+sVSt. South
 p2635
-(Vmale
+(Vfemale
 p2636
-g10
+g11
 tp2637
-sVM.I.A.
+sVGlasser
 p2638
 (Vfemale
 p2639
-g10
+g3
 tp2640
-sVMychael Danna
+sVMaddie & Tae
 p2641
-(Vmale
+(Vfemale
 p2642
-g10
+g1260
 tp2643
-sVIce Cube
+sVNico & Vinz
 p2644
 (Vmale
 p2645
-g10
+g1881
 tp2646
-sVLa Fouine
+sVAlestorm
 p2647
 (Vmale
 p2648
-g10
+g3
 tp2649
-sVLeftfield
+sVLindemann
 p2650
+(NNtp2651
+sVAt the Gates
+p2652
 (Vmale
-p2651
-g10
-tp2652
-sVSeinabo Sey
 p2653
-(Vfemale
-p2654
 g3
-tp2655
-sVSkylar Grey
+tp2654
+sVAuryn
+p2655
+(Vfemale
 p2656
-(Vfemale
-p2657
-g10
-tp2658
-sVThe XX
-p2659
-(Vboth
+g185
+tp2657
+sVMild
+p2658
+(NNtp2659
+sVAndy Grammer
 p2660
-g3
-tp2661
-sVAWOLNATION
-p2662
 (Vmale
+p2661
+g18
+tp2662
+sVAdna
 p2663
-g10
-tp2664
-sVAmy Macdonald
-p2665
 (Vfemale
+p2664
+g3
+tp2665
+sVMando Diao
 p2666
-g10
-tp2667
-sVStone Sour
-p2668
 (Vmale
+p2667
+g3
+tp2668
+sVArctic Monkeys
 p2669
-g10
-tp2670
-sVEvanescence
-p2671
-(Vboth
+(Vmale
+p2670
+g18
+tp2671
+sVTravie McCoy
 p2672
-g3
-tp2673
-sVLUNA SEA
-p2674
 (Vmale
+p2673
+g31
+tp2674
+sVAnselmo Ralph
 p2675
-g10
-tp2676
-sVNick Jonas
-p2677
 (Vmale
+p2676
+g185
+tp2677
+sVCam'ron
 p2678
-g25
-tp2679
-sVKendji Girac
-p2680
 (Vmale
+p2679
+g3
+tp2680
+sVAndy Shauf
 p2681
-g3
-tp2682
-sVOtto Knows
-p2683
 (Vmale
+p2682
+g3
+tp2683
+sVJamie Lawson
 p2684
-g3
-tp2685
-sVAnitta
-p2686
-(Vfemale
+(Vmale
+p2685
+g31
+tp2686
+sVYoung Guns
 p2687
-g3
-tp2688
-sVRöyksopp
-p2689
 (Vmale
+p2688
+g3
+tp2689
+sVEinstürzende Neubauten
 p2690
+(Vmale
+p2691
 g3
-tp2691
-sVKelsea Ballerini
-p2692
-(Vfemale
+tp2692
+sVBrolin
 p2693
-g10
-tp2694
-sVSia
-p2695
-(Vfemale
+(Vmale
+p2694
+g3
+tp2695
+sVSheppard
 p2696
-g25
-tp2697
-sVJessica Mauboy
-p2698
-(Vfemale
+(Vmale
+p2697
+g31
+tp2698
+sVRohff
 p2699
-g10
-tp2700
-sVBrad Paisley
-p2701
 (Vmale
+p2700
+g31
+tp2701
+sVAgalloch
 p2702
-g10
-tp2703
-sVTrans-Siberian Orchestra
+(NNtp2703
+sVLive
 p2704
-(NNtp2705
-sVLa Arrolladora Banda El Limón
-p2706
-(Vfemale
+(Vmale
+p2705
+g3
+tp2706
+sVFeed Me
 p2707
-g289
-tp2708
-sVKry\u0161tof
-p2709
 (Vmale
+p2708
+g3
+tp2709
+sVVangelis
 p2710
-g10
-tp2711
-sVKleerup
-p2712
 (Vmale
+p2711
+g3
+tp2712
+sVDr. John
 p2713
-g10
-tp2714
-sVMapei
+(NNtp2714
+sV\u0410\u0433\u0430\u0442\u0430 \u041a\u0440\u0438\u0441\u0442\u0438
 p2715
-(Vfemale
-p2716
-g10
-tp2717
-sVRob Thomas
-p2718
-(Vmale
+(NNtp2716
+sVLe Tigre
+p2717
+(NNtp2718
+sVLindstrøm
 p2719
-g3
-tp2720
-sVBruno Mars
-p2721
 (Vmale
+p2720
+g3
+tp2721
+sVJohn Williams
 p2722
-g3
-tp2723
-sVTYDOLLA$IGN
-p2724
 (Vmale
+p2723
+g31
+tp2724
+sVBobby Darin
 p2725
-g372
-tp2726
-sVSunshine
-p2727
-(NNtp2728
-sVM83
-p2729
-(Vboth
+(Vmale
+p2726
+g3
+tp2727
+sVCasseurs Flowters
+p2728
+(NNtp2729
+sVSam Amidon
 p2730
-g3
-tp2731
-sVBlake Shelton
-p2732
 (Vmale
+p2731
+g3
+tp2732
+sVRuth B
 p2733
-g3
-tp2734
-sVCalvin Harris
-p2735
-(Vmale
+(Vfemale
+p2734
+g11
+tp2735
+sVJúníus Meyvant
 p2736
-g25
-tp2737
-sVJustin Bieber
-p2738
 (Vmale
+p2737
+g31
+tp2738
+sVBORGEOUS
 p2739
-g25
-tp2740
-sVSean Paul
-p2741
 (Vmale
+p2740
+g31
+tp2741
+sVHidden Orchestra
 p2742
-g10
-tp2743
-sV2greendollars
+(NNtp2743
+sVRam Jam
 p2744
-(NNtp2745
-sVNetsky
-p2746
 (Vmale
+p2745
+g136
+tp2746
+sVJohn Cale
 p2747
+(Vmale
+p2748
 g3
-tp2748
-sVFleetwood Mac
-p2749
-(Vboth
+tp2749
+sVJulia Sheer
 p2750
+(Vfemale
+p2751
 g3
-tp2751
-sVP!nk
-p2752
-(NNtp2753
-sVLoreen
+tp2752
+sVThe Moody Blues
+p2753
+(Vmale
 p2754
-(Vfemale
-p2755
 g3
-tp2756
-sVArmin van Buuren
+tp2755
+sVWesley Safadão
+p2756
+(Vmale
 p2757
+g185
+tp2758
+sVYelawolf
+p2759
 (Vmale
-p2758
-g25
-tp2759
-sVU2
 p2760
-(Vmale
-p2761
 g3
-tp2762
-sVLarry Hernandez
+tp2761
+sVSteve Mason
+p2762
+(Vmale
 p2763
-(Vmale
-p2764
-g10
-tp2765
-sVGusttavo Lima
+g3
+tp2764
+sVElle King
+p2765
+(Vfemale
 p2766
-(Vmale
-p2767
-g10
-tp2768
-sVEagles of Death Metal
-p2769
-(Vmale
+g18
+tp2767
+sVSirenia
+p2768
+(NNtp2769
+sVThree 6 Mafia
 p2770
+(Vboth
+p2771
 g3
-tp2771
-sVDJ Khaled
-p2772
-(Vmale
+tp2772
+sVSigma
 p2773
-g3
-tp2774
-sVCheek
-p2775
 (Vmale
+p2774
+g200
+tp2775
+sVOddisee
 p2776
-g10
-tp2777
-sVBaauer
-p2778
 (Vmale
+p2777
+g3
+tp2778
+sVCigarettes After Sex
 p2779
-g10
-tp2780
-sVLady Gaga
+(NNtp2780
+sVKarmin
 p2781
-(Vfemale
+(Vboth
 p2782
-g3
+g31
 tp2783
-sVDengaz
+sVEnrique Iglesias
 p2784
-(NNtp2785
-sVFuture
-p2786
 (Vmale
+p2785
+g200
+tp2786
+sVNERVO
 p2787
+(Vfemale
+p2788
 g3
-tp2788
-sVMeek Mill
-p2789
-(Vmale
+tp2789
+sVBillie Eilish
 p2790
-g3
-tp2791
-sVDef Leppard
-p2792
-(Vmale
+(Vfemale
+p2791
+g11
+tp2792
+sVMat Zo
 p2793
-g3
-tp2794
-sVAnssi Kela
-p2795
 (Vmale
+p2794
+g3
+tp2795
+sVModern Baseball
 p2796
-g10
-tp2797
-sVJeremih
-p2798
 (Vmale
+p2797
+g3
+tp2798
+sVLily & Madeleine
 p2799
+(Vfemale
+p2800
 g3
-tp2800
-sVBlack Coffee
-p2801
-(Vmale
+tp2801
+sVJames Horner
 p2802
-g10
-tp2803
-sVJanelle Monáe
-p2804
-(Vfemale
-p2805
-g152
-tp2806
-sVLykke Li
-p2807
-(Vfemale
-p2808
-g3
-tp2809
-sVAriane Moffatt
-p2810
-(Vfemale
-p2811
-g10
-tp2812
-sVTyga
-p2813
 (Vmale
-p2814
-g10
-tp2815
-sVCarrie Underwood
-p2816
-(Vfemale
-p2817
+p2803
 g3
-tp2818
-sVLos Inquietos del Norte
+tp2804
+sVTurnover
+p2805
+(Vmale
+p2806
+g3
+tp2807
+sVK.I.Z.
+p2808
+(NNtp2809
+sVRío Roma
+p2810
+(NNtp2811
+sVGilli
+p2812
+(Vmale
+p2813
+g31
+tp2814
+sVATB
+p2815
+(Vmale
+p2816
+g3
+tp2817
+sVSaint Etienne
+p2818
+(Vboth
 p2819
-(NNtp2820
-sVSergey Lazarev
+g3
+tp2820
+sVAsia
 p2821
 (Vmale
 p2822
-g10
+g3
 tp2823
-sVSly & The Family Stone
+sVThe Ghost Inside
 p2824
-(Vboth
+(Vmale
 p2825
-g10
+g3
 tp2826
-sVAccept
+sVSam Feldt
 p2827
 (Vmale
 p2828
-g10
+g471
 tp2829
-sVKadebostany
+sVJessica Mauboy
 p2830
-(NNtp2831
-sVIggy Azalea
-p2832
 (Vfemale
+p2831
+g31
+tp2832
+sVStars
 p2833
-g3
-tp2834
-sVLunchmoney Lewis
+(NNtp2834
+sVAkira Yamaoka
 p2835
 (Vmale
 p2836
-g372
-tp2837
-sVMNEK
-p2838
-(Vmale
-p2839
 g3
-tp2840
-sV\ubc31\uc544\uc5f0
+tp2837
+sVHüsker Dü
+p2838
+(NNtp2839
+sVCom Truise
+p2840
+(Vmale
 p2841
+g3
+tp2842
+sVRise Against
+p2843
 (Vmale
-p2842
-g152
-tp2843
-sVIron Maiden
 p2844
+g18
+tp2845
+sVJohn Denver
+p2846
 (Vmale
-p2845
-g10
-tp2846
-sVScandal
 p2847
-(Vboth
-p2848
-g10
-tp2849
-sVR.City
+g31
+tp2848
+sVHozier
+p2849
+(Vmale
 p2850
-(NNtp2851
-sVThe Cranberries
+g200
+tp2851
+sVRobin Schulz
 p2852
-(Vboth
+(Vmale
 p2853
-g10
+g200
 tp2854
-sVColeman Hell
+sVSukhwinder Singh
 p2855
 (Vmale
 p2856
-g10
+g31
 tp2857
+sV\u661f\u91ce\u6e90
+p2858
+(NNtp2859
+sVRick James
+p2860
+(Vmale
+p2861
+g3
+tp2862
+sVElton John
+p2863
+(Vmale
+p2864
+g31
+tp2865
+sVBig & Rich
+p2866
+(Vmale
+p2867
+g31
+tp2868
+sVCHVRCHES
+p2869
+(Vboth
+p2870
+g18
+tp2871
+sVRichard Clayderman
+p2872
+(Vmale
+p2873
+g31
+tp2874
+sVBlackstreet
+p2875
+(Vmale
+p2876
+g3
+tp2877
+sVApashe
+p2878
+(Vmale
+p2879
+g31
+tp2880
+sVDevo
+p2881
+(Vmale
+p2882
+g3
+tp2883
+sVMichael Kiwanuka
+p2884
+(Vmale
+p2885
+g3
+tp2886
+sVJain
+p2887
+(NNtp2888
+sVSandra Lyng
+p2889
+(Vfemale
+p2890
+g1260
+tp2891
+sVThe Arcs
+p2892
+(NNtp2893
+sVDJ Antoine
+p2894
+(Vmale
+p2895
+g18
+tp2896
+sVAtmosphere
+p2897
+(Vmale
+p2898
+g3
+tp2899
+sVLove
+p2900
+(NNtp2901
+sVThe Specials
+p2902
+(Vmale
+p2903
+g3
+tp2904
+sVClean Bandit
+p2905
+(NNtp2906
+sVMujuice
+p2907
+(Vmale
+p2908
+g3
+tp2909
+sVHardwell
+p2910
+(Vmale
+p2911
+g18
+tp2912
+sVTy Segall
+p2913
+(Vmale
+p2914
+g3
+tp2915
+sVJason Derülo
+p2916
+(Vmale
+p2917
+g1183
+tp2918
+sVJovanotti
+p2919
+(Vmale
+p2920
+g18
+tp2921
+sVMiguel Bosé
+p2922
+(Vmale
+p2923
+g31
+tp2924
+sVBritney Spears
+p2925
+(Vfemale
+p2926
+g18
+tp2927
+sVCali
+p2928
+(Vmale
+p2929
+g31
+tp2930
+sVCyndi Lauper
+p2931
+(Vfemale
+p2932
+g200
+tp2933
+sVThe Cat Empire
+p2934
+(NNtp2935
+sVMotrip
+p2936
+(Vmale
+p2937
+g18
+tp2938
+sVMacy Gray
+p2939
+(Vfemale
+p2940
+g3
+tp2941
+sVThe Mountain Goats
+p2942
+(Vmale
+p2943
+g31
+tp2944
+sVCoolio
+p2945
+(Vmale
+p2946
+g3
+tp2947
+sVRich Homie Quan
+p2948
+(Vmale
+p2949
+g136
+tp2950
+sVKongsted
+p2951
+(NNtp2952
+sVDelain
+p2953
+(NNtp2954
+sVThe Lovin' Spoonful
+p2955
+(Vmale
+p2956
+g3
+tp2957
+sVDexter Gordon
+p2958
+(Vmale
+p2959
+g3
+tp2960
+sVRefused
+p2961
+(Vmale
+p2962
+g3
+tp2963
+sVNatalie Prass
+p2964
+(Vfemale
+p2965
+g3
+tp2966
+sVPrince Royce
+p2967
+(Vmale
+p2968
+g200
+tp2969
+sVExodus
+p2970
+(Vmale
+p2971
+g3
+tp2972
+sVJoe Bonamassa
+p2973
+(Vmale
+p2974
+g31
+tp2975
+sVBirds of Tokyo
+p2976
+(NNtp2977
+sVMac Tyer
+p2978
+(Vmale
+p2979
+g31
+tp2980
+sVAqua
+p2981
+(Vboth
+p2982
+g3
+tp2983
+sVCeeLo Green
+p2984
+(Vmale
+p2985
+g11
+tp2986
+sVthe GazettE
+p2987
+(Vmale
+p2988
+g31
+tp2989
+sVNatalie La Rose
+p2990
+(Vfemale
+p2991
+g136
+tp2992
+sVJulian Casablancas
+p2993
+(Vmale
+p2994
+g3
+tp2995
+sVTrust
+p2996
+(NNtp2997
+sVKC and The Sunshine Band
+p2998
+(NNtp2999
+sVThe Radio Dept.
+p3000
+(Vmale
+p3001
+g3
+tp3002
+sVOlivia Newton-John
+p3003
+(Vfemale
+p3004
+g471
+tp3005
+sVConnan Mockasin
+p3006
+(Vmale
+p3007
+g3
+tp3008
+sVTosca
+p3009
+(Vmale
+p3010
+g3
+tp3011
+sVZoé
+p3012
+(Vfemale
+p3013
+g3
+tp3014
+sVBlonde
+p3015
+(NNtp3016
+sVL'Aupaire
+p3017
+(NNtp3018
+sVAdam Lambert
+p3019
+(Vmale
+p3020
+g200
+tp3021
+sVLaidback Luke
+p3022
+(Vmale
+p3023
+g31
+tp3024
+sVSwanky Tunes
+p3025
+(NNtp3026
+sV65daysofstatic
+p3027
+(Vmale
+p3028
+g3
+tp3029
+sVNicki Minaj
+p3030
+(Vfemale
+p3031
+g18
+tp3032
+sVCarly Rae Jepsen
+p3033
+(Vfemale
+p3034
+g200
+tp3035
+sVJames Taylor
+p3036
+(Vmale
+p3037
+g31
+tp3038
+sVKelly Clarkson
+p3039
+(Vfemale
+p3040
+g18
+tp3041
+sVAnna Ternheim
+p3042
+(Vfemale
+p3043
+g3
+tp3044
+sVMinus the Bear
+p3045
+(Vmale
+p3046
+g3
+tp3047
+sV\u6771\u65b9\u795e\u8d77
+p3048
+(NNtp3049
+sVDave Brubeck
+p3050
+(Vmale
+p3051
+g3
+tp3052
+sVStephen
+p3053
+(Vmale
+p3054
+g136
+tp3055
+sVGal Costa
+p3056
+(Vfemale
+p3057
+g3
+tp3058
+sVBachman-Turner Overdrive
+p3059
+(NNtp3060
+sVM|O|O|N
+p3061
+(NNtp3062
+sVKishi Bashi
+p3063
+(Vmale
+p3064
+g3
+tp3065
+sVWidowspeak
+p3066
+(Vboth
+p3067
+g3
+tp3068
+sVTake That
+p3069
+(Vmale
+p3070
+g31
+tp3071
+sVJosef Salvat
+p3072
+(Vmale
+p3073
+g18
+tp3074
+sVMadvillain
+p3075
+(Vmale
+p3076
+g3
+tp3077
+sVMoonspell
+p3078
+(Vmale
+p3079
+g3
+tp3080
+sVKaytranada
+p3081
+(Vmale
+p3082
+g3
+tp3083
+sVMustafa Ceceli
+p3084
+(Vmale
+p3085
+g31
+tp3086
+sVActive Child
+p3087
+(Vmale
+p3088
+g3
+tp3089
+sVDamian Marley
+p3090
+(Vmale
+p3091
+g3
+tp3092
+sVFats Domino
+p3093
+(Vmale
+p3094
+g31
+tp3095
+sVCats on Trees
+p3096
+(Vboth
+p3097
+g31
+tp3098
+sV\u738b\u529b\u5b8f
+p3099
+(Vmale
+p3100
+g185
+tp3101
+sVConrad Sewell
+p3102
+(Vmale
+p3103
+g3
+tp3104
+sVRKCB
+p3105
+(NNtp3106
+sVLukas Graham
+p3107
+(Vmale
+p3108
+g200
+tp3109
+sVFilous
+p3110
+(Vmale
+p3111
+g185
+tp3112
+sVAnirudh Ravichander
+p3113
+(Vmale
+p3114
+g18
+tp3115
+sVPatrick O'Hearn
+p3116
+(Vmale
+p3117
+g3
+tp3118
+sVSinéad O'Connor
+p3119
+(Vfemale
+p3120
+g185
+tp3121
+sVRun River North
+p3122
+(Vboth
+p3123
+g3
+tp3124
+sVYellow Claw
+p3125
+(NNtp3126
+sVMidlake
+p3127
+(Vmale
+p3128
+g3
+tp3129
+sVJónsi & Alex
+p3130
+(Vmale
+p3131
+g3
+tp3132
+sVJulieta Venegas
+p3133
+(Vfemale
+p3134
+g31
+tp3135
+sVPat Benatar
+p3136
+(Vfemale
+p3137
+g3
+tp3138
+sVFrancesco De Gregori
+p3139
+(Vmale
+p3140
+g31
+tp3141
+sVEros Ramazzotti
+p3142
+(Vmale
+p3143
+g31
+tp3144
+sVSébastien Tellier
+p3145
+(Vmale
+p3146
+g3
+tp3147
+sVWill Smith
+p3148
+(Vmale
+p3149
+g3
+tp3150
+sVCaliban
+p3151
+(Vmale
+p3152
+g3
+tp3153
+sVThe Troggs
+p3154
+(Vmale
+p3155
+g3
+tp3156
+sV\u9ea5\u6d5a\u9f8d
+p3157
+(Vmale
+p3158
+g185
+tp3159
+sVBlossoms
+p3160
+(NNtp3161
+sVClem Leek
+p3162
+(NNtp3163
+sVBoney M.
+p3164
+(Vboth
+p3165
+g3
+tp3166
+sVTiësto
+p3167
+(Vmale
+p3168
+g200
+tp3169
+sVAustin Basham
+p3170
+(Vmale
+p3171
+g11
+tp3172
+sVHercules and Love Affair
+p3173
+(NNtp3174
+sVThe Magnetic Fields
+p3175
+(NNtp3176
+sVNeil Diamond
+p3177
+(Vmale
+p3178
+g31
+tp3179
+sVThe Presets
+p3180
+(Vmale
+p3181
+g3
+tp3182
+sVImran Khan
+p3183
+(Vmale
+p3184
+g31
+tp3185
+sVBerlin
+p3186
+(Vboth
+p3187
+g3
+tp3188
+sVPritam
+p3189
+(Vmale
+p3190
+g31
+tp3191
+sVSmall Black
+p3192
+(Vmale
+p3193
+g3
+tp3194
+sVPhaeleh
+p3195
+(Vmale
+p3196
+g3
+tp3197
+sVBrett Eldredge
+p3198
+(Vmale
+p3199
+g31
+tp3200
+sVFidlar
+p3201
+(NNtp3202
+sVPublic Service Broadcasting
+p3203
+(Vmale
+p3204
+g3
+tp3205
+sVGregory Porter
+p3206
+(Vmale
+p3207
+g3
+tp3208
+sVSuicidal Tendencies
+p3209
+(Vmale
+p3210
+g3
+tp3211
+sVChris Rea
+p3212
+(Vmale
+p3213
+g31
+tp3214
+sVDerek Minor
+p3215
+(Vmale
+p3216
+g18
+tp3217
+sVChristina Aguilera
+p3218
+(Vfemale
+p3219
+g31
+tp3220
+sVPrefuse 73
+p3221
+(Vmale
+p3222
+g11
+tp3223
+sVDeichkind
+p3224
+(Vmale
+p3225
+g3
+tp3226
+sVBurl Ives
+p3227
+(Vmale
+p3228
+g31
+tp3229
+sVT.I.
+p3230
+(Vmale
+p3231
+g31
+tp3232
+sVUlrich Schnauss
+p3233
+(Vmale
+p3234
+g3
+tp3235
+sVMachine Head
+p3236
+(Vmale
+p3237
+g3
+tp3238
+sVPlan B
+p3239
+(Vmale
+p3240
+g18
+tp3241
+sVCarter Burwell
+p3242
+(Vmale
+p3243
+g3
+tp3244
+sVNiki & the Dove
+p3245
+(Vfemale
+p3246
+g136
+tp3247
+sVNe-Yo
+p3248
+(Vmale
+p3249
+g185
+tp3250
+sVShuggie Otis
+p3251
+(Vmale
+p3252
+g3
+tp3253
+sVKeith Kenniff
+p3254
+(Vmale
+p3255
+g3
+tp3256
+sVKelvin Jones
+p3257
+(Vmale
+p3258
+g3
+tp3259
+sVJess Glynne
+p3260
+(Vfemale
+p3261
+g200
+tp3262
+sVTaeyeon
+p3263
+(NNtp3264
+sVWiz Khalifa
+p3265
+(Vmale
+p3266
+g200
+tp3267
+sVSilverchair
+p3268
+(Vmale
+p3269
+g3
+tp3270
+sVJohn Mayer
+p3271
+(Vmale
+p3272
+g31
+tp3273
+sVJulio Iglesias
+p3274
+(Vmale
+p3275
+g31
+tp3276
+sVCássia Eller
+p3277
+(Vfemale
+p3278
+g11
+tp3279
+sVMKTO
+p3280
+(Vmale
+p3281
+g3
+tp3282
+sVClaptone
+p3283
+(Vother
+p3284
+g31
+tp3285
+sVAnthony Hamilton
+p3286
+(Vmale
+p3287
+g3
+tp3288
+sVDeath
+p3289
+(NNtp3290
+sVRobert Miles
+p3291
+(Vmale
+p3292
+g3
+tp3293
+sVIyeoka
+p3294
+(NNtp3295
+sVhurts
+p3296
+(Vmale
+p3297
+g18
+tp3298
+sVNeurosis
+p3299
+(Vmale
+p3300
+g3
+tp3301
+sVMax Frost
+p3302
+(Vmale
+p3303
+g3
+tp3304
+sVBruce Springsteen
+p3305
+(Vmale
+p3306
+g18
+tp3307
+sVVérité
+p3308
+(Vfemale
+p3309
+g11
+tp3310
+sVRobert Palmer
+p3311
+(Vmale
+p3312
+g3
+tp3313
+sVLemâitre
+p3314
+(NNtp3315
+sVStone Sour
+p3316
+(Vmale
+p3317
+g31
+tp3318
+sVGorgon City
+p3319
+(Vmale
+p3320
+g18
+tp3321
+sVPain
+p3322
+(Vmale
+p3323
+g3
+tp3324
+sVHoundmouth
+p3325
+(Vboth
+p3326
+g3
+tp3327
+sVHeaven Shall Burn
+p3328
+(NNtp3329
+sVTyphoon
+p3330
+(NNtp3331
+sVGang Starr
+p3332
+(Vmale
+p3333
+g3
+tp3334
+sVPaulina Rubio
+p3335
+(Vfemale
+p3336
+g31
+tp3337
+sVStormzy
+p3338
+(NNtp3339
+sVThe Monkees
+p3340
+(Vmale
+p3341
+g3
+tp3342
+sVJMSN
+p3343
+(Vmale
+p3344
+g3
+tp3345
+sVThe Raveonettes
+p3346
+(Vboth
+p3347
+g3
+tp3348
+sVIzzy Bizu
+p3349
+(Vfemale
+p3350
+g11
+tp3351
+sVMaître Gims
+p3352
+(Vmale
+p3353
+g200
+tp3354
+sVKano
+p3355
+(Vmale
+p3356
+g3
+tp3357
+sVKatie Melua
+p3358
+(Vfemale
+p3359
+g31
+tp3360
+sVGiuseppe Verdi
+p3361
+(Vmale
+p3362
+g3
+tp3363
+sVThe Gathering
+p3364
+(NNtp3365
+sVOther Lives
+p3366
+(NNtp3367
+sVCold War Kids
+p3368
+(Vmale
+p3369
+g31
+tp3370
+sVCashmere Cat
+p3371
+(Vmale
+p3372
+g3
+tp3373
+sVCrash Test Dummies
+p3374
+(Vmale
+p3375
+g3
+tp3376
+sVFugazi
+p3377
+(Vmale
+p3378
+g3
+tp3379
+sVFrank Ocean
+p3380
+(Vmale
+p3381
+g31
+tp3382
+sVAllie X
+p3383
+(Vfemale
+p3384
+g3
+tp3385
+sVDVBBS
+p3386
+(Vmale
+p3387
+g3
+tp3388
+sVOur Last Night
+p3389
+(Vmale
+p3390
+g3
+tp3391
+sVDigable Planets
+p3392
+(Vboth
+p3393
+g3
+tp3394
+sVCitizen Cope
+p3395
+(Vmale
+p3396
+g3
+tp3397
+sVCash Cash
+p3398
+(Vmale
+p3399
+g11
+tp3400
+sVAllah-Las
+p3401
+(Vmale
+p3402
+g3
+tp3403
+sVRae Sremmurd
+p3404
+(Vfemale
+p3405
+g1260
+tp3406
+sVUFO
+p3407
+(Vmale
+p3408
+g3
+tp3409
+sVwill.i.am
+p3410
+(Vmale
+p3411
+g3
+tp3412
+sVLewis Del Mar
+p3413
+(Vmale
+p3414
+g136
+tp3415
+sVConverge
+p3416
+(Vmale
+p3417
+g3
+tp3418
+sVGojira
+p3419
+(Vmale
+p3420
+g3
+tp3421
+sVLaurel
+p3422
+(Vfemale
+p3423
+g3
+tp3424
+sV\u0411\u0430\u0441\u0442\u0430
+p3425
+(Vmale
+p3426
+g185
+tp3427
+sVTall Heights
+p3428
+(NNtp3429
+sVTa-ku
+p3430
+(Vmale
+p3431
+g3
+tp3432
+sVAntti Tuisku
+p3433
+(Vmale
+p3434
+g18
+tp3435
+sVTennis
+p3436
+(NNtp3437
+sVFela Kuti
+p3438
+(Vmale
+p3439
+g3
+tp3440
+sVParquet Courts
+p3441
+(Vmale
+p3442
+g3
+tp3443
+sVFrank Sinatra
+p3444
+(Vmale
+p3445
+g18
+tp3446
+sVThe Guess Who
+p3447
+(Vmale
+p3448
+g3
+tp3449
+sVBlind Pilot
+p3450
+(Vmale
+p3451
+g3
+tp3452
+sVPierce The Veil
+p3453
+(Vmale
+p3454
+g3
+tp3455
+sVCage the Elephant
+p3456
+(Vmale
+p3457
+g18
+tp3458
+sVDr. Dre
+p3459
+(Vmale
+p3460
+g18
+tp3461
+sVMaybeshewill
+p3462
+(NNtp3463
+sVStereolab
+p3464
+(Vboth
+p3465
+g3
+tp3466
+sVThe Jam
+p3467
+(Vmale
+p3468
+g3
+tp3469
+sVMuna
+p3470
+(Vfemale
+p3471
+g136
+tp3472
+sVLanks
+p3473
+(NNtp3474
+sVThe Knack
+p3475
+(Vmale
+p3476
+g3
+tp3477
+sVToots and The Maytals
+p3478
+(NNtp3479
+sVFather John Misty
+p3480
+(Vmale
+p3481
+g31
+tp3482
+sVOwl City
+p3483
+(Vmale
+p3484
+g31
+tp3485
+sVKeaton Henson
+p3486
+(Vmale
+p3487
+g3
+tp3488
+sVDash Berlin
+p3489
+(NNtp3490
+sVDotan
+p3491
+(Vmale
+p3492
+g31
+tp3493
+sVSupercombo
+p3494
+(NNtp3495
+sVFrank Turner
+p3496
+(Vmale
+p3497
+g3
+tp3498
+sVBill Evans Trio
+p3499
+(Vmale
+p3500
+g3
+tp3501
+sVThe Brian Jonestown Massacre
+p3502
+(Vmale
+p3503
+g3
+tp3504
+sVLights & Motion
+p3505
+(NNtp3506
+sVBanks
+p3507
+(Vfemale
+p3508
+g31
+tp3509
+sVStill Corners
+p3510
+(Vboth
+p3511
+g3
+tp3512
+sVDream
+p3513
+(NNtp3514
+sVPhilip George
+p3515
+(Vmale
+p3516
+g31
+tp3517
+sVKaskade
+p3518
+(Vmale
+p3519
+g31
+tp3520
+sVMumford and Sons
+p3521
+(NNtp3522
+sVSelena Gomez & The Scene
+p3523
+(Vfemale
+p3524
+g1260
+tp3525
+sVSDP
+p3526
+(NNtp3527
+sVDragonForce
+p3528
+(Vmale
+p3529
+g3
+tp3530
+sVVelvet Revolver
+p3531
+(Vmale
+p3532
+g3
+tp3533
+sVUgly Kid Joe
+p3534
+(Vmale
+p3535
+g3
+tp3536
+sVJason Aldean
+p3537
+(Vmale
+p3538
+g18
+tp3539
+sVMayhem
+p3540
+(Vmale
+p3541
+g3
+tp3542
+sVglades
+p3543
+(NNtp3544
+sVSanni
+p3545
+(Vfemale
+p3546
+g31
+tp3547
+sVToby Keith
+p3548
+(Vmale
+p3549
+g31
+tp3550
+sVCheat Codes
+p3551
+(NNtp3552
+sVCrystal Kay
+p3553
+(Vfemale
+p3554
+g31
+tp3555
+sVStefanie Heinzmann
+p3556
+(Vfemale
+p3557
+g31
+tp3558
+sVRichard Marx
+p3559
+(Vmale
+p3560
+g3
+tp3561
+sVThe New Pornographers
+p3562
+(Vboth
+p3563
+g3
+tp3564
+sVÁsgeir
+p3565
+(Vmale
+p3566
+g3
+tp3567
+sVOmnium Gatherum
+p3568
+(NNtp3569
+sVMaurice Ravel
+p3570
+(Vmale
+p3571
+g3
+tp3572
+sV99 Souls
+p3573
+(NNtp3574
+sVWho Is Fancy
+p3575
+(Vmale
+p3576
+g11
+tp3577
+sVNoisia
+p3578
+(NNtp3579
+sVPaul McCartney
+p3580
+(Vmale
+p3581
+g18
+tp3582
+sVGeorge Fitzgerald
+p3583
+(Vmale
+p3584
+g3
+tp3585
+sVLuther Vandross
+p3586
+(Vmale
+p3587
+g3
+tp3588
+sVJeezy
+p3589
+(Vmale
+p3590
+g31
+tp3591
+sVBigbang
+p3592
+(Vmale
+p3593
+g3
+tp3594
+sVREO Speedwagon
+p3595
+(Vmale
+p3596
+g3
+tp3597
+sVCoil
+p3598
+(Vmale
+p3599
+g3
+tp3600
+sVKoop
+p3601
+(Vmale
+p3602
+g3
+tp3603
+sVGOT7
+p3604
+(Vmale
+p3605
+g18
+tp3606
+sVBig Star
+p3607
+(Vmale
+p3608
+g3
+tp3609
+sVDarkside
+p3610
+(NNtp3611
+sVHoodie Allen
+p3612
+(Vmale
+p3613
+g3
+tp3614
+sVGin Blossoms
+p3615
+(Vmale
+p3616
+g3
+tp3617
+sVM. Ward
+p3618
+(Vmale
+p3619
+g3
+tp3620
+sVShaggy
+p3621
+(Vmale
+p3622
+g18
+tp3623
+sVPotato
+p3624
+(NNtp3625
+sVSpandau Ballet
+p3626
+(Vmale
+p3627
+g3
+tp3628
+sVYou Me at Six
+p3629
+(Vmale
+p3630
+g3
+tp3631
+sVRuPaul
+p3632
+(Vmale
+p3633
+g3
+tp3634
+sVDrake
+p3635
+(Vmale
+p3636
+g200
+tp3637
+sVPerfume
+p3638
+(NNtp3639
+sVEstopa
+p3640
+(NNtp3641
+sVSteve Reich
+p3642
+(Vmale
+p3643
+g11
+tp3644
+sVThe Struts
+p3645
+(NNtp3646
+sVCelldweller
+p3647
+(Vmale
+p3648
+g3
+tp3649
+sVMGMT
+p3650
+(Vmale
+p3651
+g31
+tp3652
+sVEchoes
+p3653
+(NNtp3654
+sVJVG
+p3655
+(NNtp3656
+sVExample
+p3657
+(Vmale
+p3658
+g3
+tp3659
+sVHop Along
+p3660
+(NNtp3661
+sVJoywave
+p3662
+(NNtp3663
+sV\u041c\u0443\u043c\u0438\u0439 \u0422\u0440\u043e\u043b\u043b\u044c
+p3664
+(NNtp3665
+sVNegramaro
+p3666
+(Vmale
+p3667
+g31
+tp3668
+sVThe Black Crowes
+p3669
+(Vmale
+p3670
+g3
+tp3671
+sVThe Byrds
+p3672
+(Vmale
+p3673
+g3
+tp3674
+sVTurisas
+p3675
+(NNtp3676
+sVEscape the Fate
+p3677
+(Vmale
+p3678
+g3
+tp3679
+sVDavid Guetta
+p3680
+(Vmale
+p3681
+g200
+tp3682
+sVThe Divine Comedy
+p3683
+(Vmale
+p3684
+g3
+tp3685
+sVRaleigh Ritchie
+p3686
+(Vmale
+p3687
+g3
+tp3688
+sVThe Sword
+p3689
+(Vmale
+p3690
+g3
+tp3691
+sVThe Moth & the Flame
+p3692
+(NNtp3693
+sVSoda Stereo
+p3694
+(Vmale
+p3695
+g3
+tp3696
+sVMartin Tungevaag
+p3697
+(Vmale
+p3698
+g31
+tp3699
+sVChris Cornell
+p3700
+(Vmale
+p3701
+g18
+tp3702
+sVTyga
+p3703
+(Vmale
+p3704
+g31
+tp3705
+sVBryan Adams
+p3706
+(Vmale
+p3707
+g18
+tp3708
+sVSixpence None the Richer
+p3709
+(Vboth
+p3710
+g3
+tp3711
+sVBig Gigantic
+p3712
+(Vmale
+p3713
+g3
+tp3714
+sVMount Eerie
+p3715
+(Vmale
+p3716
+g3
+tp3717
+sVMaluma
+p3718
+(Vmale
+p3719
+g471
+tp3720
+sVThe BossHoss
+p3721
+(Vmale
+p3722
+g31
+tp3723
+sVLissie
+p3724
+(Vfemale
+p3725
+g3
+tp3726
+sVMew
+p3727
+(Vmale
+p3728
+g3
+tp3729
+sVAlka Yagnik
+p3730
+(Vfemale
+p3731
+g31
+tp3732
+sVEiffel 65
+p3733
+(Vmale
+p3734
+g3
+tp3735
+sVListenbee
+p3736
+(NNtp3737
+sVMachinedrum
+p3738
+(NNtp3739
+sVAlexisonfire
+p3740
+(Vmale
+p3741
+g3
+tp3742
+sVJoe Satriani
+p3743
+(Vmale
+p3744
+g3
+tp3745
+sVExtreme
+p3746
+(Vmale
+p3747
+g3
+tp3748
+sVWashed Out
+p3749
+(Vmale
+p3750
+g31
+tp3751
+sVOxxxymiron
+p3752
+(Vmale
+p3753
+g3
+tp3754
+sVEva Simons
+p3755
+(Vfemale
+p3756
+g18
+tp3757
+sVManá
+p3758
+(Vmale
+p3759
+g18
+tp3760
+sVEd Sheeran
+p3761
+(Vmale
+p3762
+g200
+tp3763
+sVBlock B
+p3764
+(NNtp3765
+sVThe Go! Team
+p3766
+(Vboth
+p3767
+g3
+tp3768
+sVRichard Wagner
+p3769
+(Vmale
+p3770
+g11
+tp3771
+sVRY X
+p3772
+(Vmale
+p3773
+g31
+tp3774
+sVAnti-Flag
+p3775
+(NNtp3776
+sVLenka
+p3777
+(Vfemale
+p3778
+g3
+tp3779
+sVLes Cowboys Fringants
+p3780
+(Vmale
+p3781
+g1260
+tp3782
+sVMatisyahu
+p3783
+(Vmale
+p3784
+g3
+tp3785
+sVPublic Image Ltd.
+p3786
+(Vmale
+p3787
+g3
+tp3788
+sVKollegah
+p3789
+(Vmale
+p3790
+g18
+tp3791
+sVSam Smith
+p3792
+(Vmale
+p3793
+g200
+tp3794
+sVAs I Lay Dying
+p3795
+(Vmale
+p3796
+g3
+tp3797
+sVMat Kearney
+p3798
+(Vmale
+p3799
+g3
+tp3800
+sVCloud Nothings
+p3801
+(Vmale
+p3802
+g3
+tp3803
+sV*NSYNC
+p3804
+(Vmale
+p3805
+g3
+tp3806
+sVCivil Twilight
+p3807
+(Vmale
+p3808
+g31
+tp3809
+sVElvis Costello
+p3810
+(Vmale
+p3811
+g31
+tp3812
+sV\u5b87\u591a\u7530\u30d2\u30ab\u30eb
+p3813
+(Vfemale
+p3814
+g11
+tp3815
+sVThe Royal Concept
+p3816
+(NNtp3817
+sVRedman
+p3818
+(Vmale
+p3819
+g31
+tp3820
+sVGlee Cast
+p3821
+(NNtp3822
+sVBone Thugs-N-Harmony
+p3823
+(NNtp3824
+sVDarkthrone
+p3825
+(Vmale
+p3826
+g3
+tp3827
+sVJul
+p3828
+(Vmale
+p3829
+g31
+tp3830
+sVSaxon
+p3831
+(Vmale
+p3832
+g3
+tp3833
+sVFlux Pavilion
+p3834
+(Vmale
+p3835
+g3
+tp3836
+sVThe Rasmus
+p3837
+(Vmale
+p3838
+g3
+tp3839
+sVMSTRKRFT
+p3840
+(Vmale
+p3841
+g3
+tp3842
+sVThe Cult
+p3843
+(Vmale
+p3844
+g3
+tp3845
+sVMagic!
+p3846
+(Vmale
+p3847
+g18
+tp3848
+sVWeen
+p3849
+(Vmale
+p3850
+g3
+tp3851
+sVMika Singh
+p3852
+(Vfemale
+p3853
+g31
+tp3854
+sVFear Factory
+p3855
+(Vmale
+p3856
+g3
+tp3857
+sV\u8607\u6253\u7da0
+p3858
+(NNtp3859
+sVLil Jon
+p3860
+(Vmale
+p3861
+g18
+tp3862
+sVJoachim Pastor
+p3863
+(Vmale
+p3864
+g3
+tp3865
+sVBuena Vista Social Club
+p3866
+(Vmale
+p3867
+g3
+tp3868
+sVWaxahatchee
+p3869
+(Vfemale
+p3870
+g3
+tp3871
+sVAlpine
+p3872
+(Vboth
+p3873
+g3
+tp3874
+sVGiusy Ferreri
+p3875
+(Vfemale
+p3876
+g31
+tp3877
+sVThe Undertones
+p3878
+(Vmale
+p3879
+g3
+tp3880
+sVFeint
+p3881
+(Vmale
+p3882
+g3
+tp3883
+sVMarc Anthony
+p3884
+(Vmale
+p3885
+g18
+tp3886
+sVAlcest
+p3887
+(Vmale
+p3888
+g3
+tp3889
+sVSteve Aoki
+p3890
+(Vmale
+p3891
+g18
+tp3892
+sVBlood Red Shoes
+p3893
+(NNtp3894
+sVLiars
+p3895
+(Vmale
+p3896
+g3
+tp3897
+sVMulatu Astatke
+p3898
+(Vmale
+p3899
+g3
+tp3900
+sVJohannes Brahms
+p3901
+(Vmale
+p3902
+g3
+tp3903
+sVThe Pogues
+p3904
+(Vmale
+p3905
+g3
+tp3906
+sVDimmu Borgir
+p3907
+(Vmale
+p3908
+g3
+tp3909
+sVGilberto Gil
+p3910
+(Vmale
+p3911
+g3
+tp3912
+sVFoster the People
+p3913
+(NNtp3914
+sVKacy Hill
+p3915
+(Vfemale
+p3916
+g3
+tp3917
+sVTélépopmusik
+p3918
+(Vmale
+p3919
+g3
+tp3920
+sVVasco Rossi
+p3921
+(Vmale
+p3922
+g31
+tp3923
+sVKANA-BOON
+p3924
+(NNtp3925
+sVAndrew W.K.
+p3926
+(Vmale
+p3927
+g3
+tp3928
+sVM.I.A.
+p3929
+(Vfemale
+p3930
+g31
+tp3931
+sVFjordne
+p3932
+(NNtp3933
+sVLa Fouine
+p3934
+(Vmale
+p3935
+g31
+tp3936
+sVMott the Hoople
+p3937
+(Vmale
+p3938
+g3
+tp3939
+sVAWOLNATION
+p3940
+(Vmale
+p3941
+g31
+tp3942
+sVDeath from Above 1979
+p3943
+(Vmale
+p3944
+g3
+tp3945
+sVCharlie Parker
+p3946
+(Vmale
+p3947
+g3
+tp3948
+sVSerge Gainsbourg
+p3949
+(Vmale
+p3950
+g3
+tp3951
+sVThao & The Get Down Stay Down
+p3952
+(Vfemale
+p3953
+g136
+tp3954
+sVFleur East
+p3955
+(Vfemale
+p3956
+g11
+tp3957
+sVOtto Knows
+p3958
+(Vmale
+p3959
+g18
+tp3960
+sVZola Jesus
+p3961
+(Vfemale
+p3962
+g3
+tp3963
+sVThe Clientele
+p3964
+(Vboth
+p3965
+g3
+tp3966
+sVCarcass
+p3967
+(Vmale
+p3968
+g3
+tp3969
+sVBruno Mars
+p3970
+(Vmale
+p3971
+g18
+tp3972
+sVTYDOLLA$IGN
+p3973
+(Vmale
+p3974
+g471
+tp3975
+sVAlison Wonderland
+p3976
+(Vfemale
+p3977
+g3
+tp3978
+sVBlake Shelton
+p3979
+(Vmale
+p3980
+g18
+tp3981
+sVEsbjörn Svensson Trio
+p3982
+(NNtp3983
+sV2greendollars
+p3984
+(NNtp3985
+sVVulfpeck
+p3986
+(NNtp3987
+sVArmin van Buuren
+p3988
+(Vmale
+p3989
+g200
+tp3990
+sVPhoebe Ryan
+p3991
+(Vfemale
+p3992
+g11
+tp3993
+sVGusttavo Lima
+p3994
+(Vmale
+p3995
+g31
+tp3996
+sVBeth Orton
+p3997
+(Vfemale
+p3998
+g3
+tp3999
+sVEagles of Death Metal
+p4000
+(Vmale
+p4001
+g18
+tp4002
+sVCheek
+p4003
+(Vmale
+p4004
+g31
+tp4005
+sVTiziano Ferro
+p4006
+(Vmale
+p4007
+g18
+tp4008
+sVMeek Mill
+p4009
+(Vmale
+p4010
+g18
+tp4011
+sVJeremih
+p4012
+(Vmale
+p4013
+g18
+tp4014
+sVJanelle Monáe
+p4015
+(Vfemale
+p4016
+g185
+tp4017
+sVDerek and the Dominos
+p4018
+(Vmale
+p4019
+g136
+tp4020
+sVXYLØ
+p4021
+(NNtp4022
+sVJ. Tillman
+p4023
+(Vmale
+p4024
+g3
+tp4025
+sVSly & The Family Stone
+p4026
+(Vboth
+p4027
+g31
+tp4028
+sVX JAPAN
+p4029
+(Vmale
+p4030
+g31
+tp4031
+sVLunchmoney Lewis
+p4032
+(Vmale
+p4033
+g471
+tp4034
+sVPortico Quartet
+p4035
+(Vmale
+p4036
+g3
+tp4037
+sVThe Echelon Effect
+p4038
+(NNtp4039
+sVThe Milk Carton Kids
+p4040
+(Vmale
+p4041
+g3
+tp4042
+sVGipsy Kings
+p4043
+(Vmale
+p4044
+g3
+tp4045
+sVDion
+p4046
+(Vmale
+p4047
+g3
+tp4048
+sVCommodores
+p4049
+(Vmale
+p4050
+g3
+tp4051
+sVDave Gahan
+p4052
+(Vmale
+p4053
+g31
+tp4054
+sVJohn Frusciante
+p4055
+(Vmale
+p4056
+g3
+tp4057
+sVYppah
+p4058
+(Vmale
+p4059
+g3
+tp4060
+sVFunda Arar
+p4061
+(Vfemale
+p4062
+g31
+tp4063
+sVBrett Dennen
+p4064
+(Vmale
+p4065
+g3
+tp4066
+sVTim Buckley
+p4067
+(Vmale
+p4068
+g3
+tp4069
+sVRasmus Seebach
+p4070
+(Vmale
+p4071
+g18
+tp4072
+sVJai Wolf
+p4073
+(NNtp4074
+sVThe Rembrandts
+p4075
+(Vmale
+p4076
+g3
+tp4077
+sVMelody Gardot
+p4078
+(Vfemale
+p4079
+g3
+tp4080
+sVThe Vamps
+p4081
+(NNtp4082
+sVAngus & Julia Stone
+p4083
+(Vmale
+p4084
+g1260
+tp4085
+sV+44
+p4086
+(NNtp4087
+sVCathedrals
+p4088
+(NNtp4089
+sVMcFly
+p4090
+(Vmale
+p4091
+g3
+tp4092
+sVThe Spinners
+p4093
+(Vmale
+p4094
+g3
+tp4095
+sVJulien Baker
+p4096
+(Vmale
+p4097
+g136
+tp4098
+sVThe Platters
+p4099
+(Vboth
+p4100
+g3
+tp4101
+sVSister Sledge
+p4102
+(Vfemale
+p4103
+g3
+tp4104
+sVThee Oh Sees
+p4105
+(Vmale
+p4106
+g3
+tp4107
+sVKing Gizzard & The Lizard Wizard
+p4108
+(Vmale
+p4109
+g136
+tp4110
+sVHenrique & Juliano
+p4111
+(Vmale
+p4112
+g1881
+tp4113
+sVChase Rice
+p4114
+(Vmale
+p4115
+g31
+tp4116
+sVHelene Fischer
+p4117
+(Vfemale
+p4118
+g31
+tp4119
+sVLemon Jelly
+p4120
+(Vmale
+p4121
+g3
+tp4122
+sVLaura Pausini
+p4123
+(Vfemale
+p4124
+g18
+tp4125
+sVPepe Aguilar
+p4126
+(Vmale
+p4127
+g31
+tp4128
+sVChoc Quib Town
+p4129
+(Vboth
+p4130
+g31
+tp4131
+sVTeflon Brothers
+p4132
+(NNtp4133
+sVKatatonia
+p4134
+(Vmale
+p4135
+g3
+tp4136
+sVJohn Lee Hooker
+p4137
+(Vmale
+p4138
+g3
+tp4139
+sVJauz
+p4140
+(Vmale
+p4141
+g185
+tp4142
+sVTei Shi
+p4143
+(Vmale
+p4144
+g3
+tp4145
+sVAlkaline Trio
+p4146
+(Vmale
+p4147
+g3
+tp4148
+sVGogol Bordello
+p4149
+(Vboth
+p4150
+g31
+tp4151
+sVFightstar
+p4152
+(Vmale
+p4153
+g3
+tp4154
+sVKrewella
+p4155
+(Vboth
+p4156
+g3
+tp4157
+sVThe Righteous Brothers
+p4158
+(Vmale
+p4159
+g3
+tp4160
+sVWalk Off the Earth
+p4161
+(Vboth
+p4162
+g3
+tp4163
+sVPinkshinyultrablast
+p4164
+(NNtp4165
+sVJens Lekman
+p4166
+(Vmale
+p4167
+g3
+tp4168
+sVUrge Overkill
+p4169
+(Vmale
+p4170
+g3
+tp4171
+sVManuel Medrano
+p4172
+(Vmale
+p4173
+g1260
+tp4174
+sVLowercase Noises
+p4175
+(Vmale
+p4176
+g3
+tp4177
+sVKing Crimson
+p4178
+(Vmale
+p4179
+g3
+tp4180
+sVDum Dum Girls
+p4181
+(Vfemale
+p4182
+g3
+tp4183
+sVBlack Stone Cherry
+p4184
+(Vmale
+p4185
+g3
+tp4186
+sV\u8521\u5065\u96c5
+p4187
+(NNtp4188
+sVDJ Polique
+p4189
+(Vmale
+p4190
+g31
+tp4191
+sVMajid Jordan
+p4192
+(Vmale
+p4193
+g3
+tp4194
+sVThrice
+p4195
+(Vmale
+p4196
+g3
+tp4197
+sVZeds Dead
+p4198
+(Vmale
+p4199
+g3
+tp4200
+sVSPYAIR
+p4201
+(NNtp4202
+sVFugees
+p4203
+(Vboth
+p4204
+g31
+tp4205
+sVDescendents
+p4206
+(Vmale
+p4207
+g3
+tp4208
+sVGolden Earring
+p4209
+(Vmale
+p4210
+g3
+tp4211
+sVParson James
+p4212
+(Vmale
+p4213
+g3
+tp4214
+sVEnigma
+p4215
+(Vmale
+p4216
+g3
+tp4217
+sVThe Handsome Family
+p4218
+(Vboth
+p4219
+g3
+tp4220
+sVLimp Bizkit
+p4221
+(Vmale
+p4222
+g31
+tp4223
+sVLamb of God
+p4224
+(Vmale
+p4225
+g31
+tp4226
+sVBo Diddley
+p4227
+(Vmale
+p4228
+g3
+tp4229
+sVBruno & Marrone
+p4230
+(Vmale
+p4231
+g31
+tp4232
+sVLIGABUE
+p4233
+(Vmale
+p4234
+g31
+tp4235
+sVRush
+p4236
+(Vmale
+p4237
+g18
+tp4238
+sVThe Lemonheads
+p4239
+(Vmale
+p4240
+g3
+tp4241
+sVMissy Elliott
+p4242
+(Vfemale
+p4243
+g18
+tp4244
+sVThe Turtles
+p4245
+(Vmale
+p4246
+g3
+tp4247
+sVTwo Steps from Hell
+p4248
+(Vboth
+p4249
+g3
+tp4250
+sVFinntroll
+p4251
+(NNtp4252
+sVThe Shoes
+p4253
+(Vmale
+p4254
+g3
+tp4255
+sVDmitri Shostakovich
+p4256
+(NNtp4257
+sV\u7530\u99a5\u7504
+p4258
+(Vfemale
+p4259
+g185
+tp4260
+sVR3hab
+p4261
+(Vmale
+p4262
+g18
+tp4263
+sViLoveMakonnen
+p4264
+(Vmale
+p4265
+g11
+tp4266
+sVTube & Berger
+p4267
+(NNtp4268
+sVPetit biscuit
+p4269
+(NNtp4270
+sVClark
+p4271
+(Vmale
+p4272
+g3
+tp4273
+sVEmpress Of
+p4274
+(Vfemale
+p4275
+g3
+tp4276
+sVMarama
+p4277
+(NNtp4278
+sVEdvard Grieg
+p4279
+(Vmale
+p4280
+g3
+tp4281
+sVBlack M
+p4282
+(Vmale
+p4283
+g18
+tp4284
+sVGoldfinger
+p4285
+(Vmale
+p4286
+g3
+tp4287
+sVThe Bangles
+p4288
+(NNtp4289
+sVThe Red Jumpsuit Apparatus
+p4290
+(Vmale
+p4291
+g3
+tp4292
+sVtobyMac
+p4293
+(Vmale
+p4294
+g31
+tp4295
+sVDead or Alive
+p4296
+(NNtp4297
+sVGlasperlenspiel
+p4298
+(Vboth
+p4299
+g18
+tp4300
+sVThe J. Geils Band
+p4301
+(NNtp4302
+sVDvicio
+p4303
+(NNtp4304
+sVTwenty One Pilots
+p4305
+(Vmale
+p4306
+g18
+tp4307
+sVDimitri Vegas & Like Mike
+p4308
+(Vmale
+p4309
+g136
+tp4310
+sVDucktails
+p4311
+(Vmale
+p4312
+g3
+tp4313
+sVJ.Ax
+p4314
+(NNtp4315
+sVPhildel
+p4316
+(NNtp4317
+sVYazoo
+p4318
+(NNtp4319
+sVN*E*R*D
+p4320
+(Vmale
+p4321
+g3
+tp4322
+sVPaty Cantú
+p4323
+(Vfemale
+p4324
+g31
+tp4325
+sVFat Freddy's Drop
+p4326
+(NNtp4327
+sVSEKAI NO OWARI
+p4328
+(NNtp4329
+sVUs The Duo
+p4330
+(NNtp4331
+sVJa Rule
+p4332
+(Vmale
+p4333
+g3
+tp4334
+sVAfter the Burial
+p4335
+(Vmale
+p4336
+g3
+tp4337
+sVDexys Midnight Runners
+p4338
+(Vmale
+p4339
+g3
+tp4340
+sVThe Yardbirds
+p4341
+(Vmale
+p4342
+g3
+tp4343
+sVWyclef Jean
+p4344
+(Vmale
+p4345
+g3
+tp4346
+sVSilbermond
+p4347
+(NNtp4348
+sVJunkie XL
+p4349
+(Vmale
+p4350
+g3
+tp4351
+sVShania Twain
+p4352
+(Vfemale
+p4353
+g31
+tp4354
+sVThe Cribs
+p4355
+(Vmale
+p4356
+g3
+tp4357
+sVUrban Cone
+p4358
+(NNtp4359
+sVSebastian Ingrosso
+p4360
+(Vmale
+p4361
+g31
+tp4362
+sVJay Hardway
+p4363
+(Vmale
+p4364
+g31
+tp4365
+sVThe Growlers
+p4366
+(NNtp4367
+sVPablo Nouvelle
+p4368
+(Vmale
+p4369
+g3
+tp4370
+sVOneohtrix Point Never
+p4371
+(Vmale
+p4372
+g3
+tp4373
+sVNew Politics
+p4374
+(Vmale
+p4375
+g3
+tp4376
+sVMarvin Gaye
+p4377
+(Vmale
+p4378
+g18
+tp4379
+sVDisclosure
+p4380
+(Vmale
+p4381
+g200
+tp4382
+sVBig Data
+p4383
+(Vmale
+p4384
+g3
+tp4385
+sVPatrick Watson
+p4386
+(Vmale
+p4387
+g3
+tp4388
+sVAndreya Triana
+p4389
+(Vfemale
+p4390
+g3
+tp4391
+sVAntony and the Johnsons
+p4392
+(Vboth
+p4393
+g3
+tp4394
+sVRöyksopp & Robyn
+p4395
+(NNtp4396
+sVBring Me the Horizon
+p4397
+(Vmale
+p4398
+g18
+tp4399
+sVLa Dispute
+p4400
+(Vmale
+p4401
+g3
+tp4402
+sVSevyn Streeter
+p4403
+(Vfemale
+p4404
+g31
+tp4405
+sVMuddy Waters
+p4406
+(Vmale
+p4407
+g3
+tp4408
+sVBuzzcocks
+p4409
+(Vmale
+p4410
+g3
+tp4411
+sVSweet California
+p4412
+(NNtp4413
+sVYiruma
+p4414
+(Vmale
+p4415
+g3
+tp4416
+sVBasement
+p4417
+(NNtp4418
+sVThom Yorke
+p4419
+(Vmale
+p4420
+g3
+tp4421
+sVColdplay
+p4422
+(Vmale
+p4423
+g200
+tp4424
+sVJackson Browne
+p4425
+(Vmale
+p4426
+g3
+tp4427
+sVGusGus
+p4428
+(Vmale
+p4429
+g3
+tp4430
+sVBig Boi
+p4431
+(Vmale
+p4432
+g3
+tp4433
+sVLusine
+p4434
+(Vmale
+p4435
+g3
+tp4436
+sVGucci Mane
+p4437
+(Vmale
+p4438
+g3
+tp4439
+sVAlbert Hammond, Jr.
+p4440
+(Vmale
+p4441
+g3
+tp4442
+sVParliament
+p4443
+(Vmale
+p4444
+g3
+tp4445
+sVMotorama
+p4446
+(NNtp4447
+sVAsaf Avidan
+p4448
+(Vmale
+p4449
+g31
+tp4450
+sVMadcon
+p4451
+(Vmale
+p4452
+g200
+tp4453
+sVKeith Urban
+p4454
+(Vmale
+p4455
+g18
+tp4456
+sVFrances
+p4457
+(Vfemale
+p4458
+g136
+tp4459
+sVAaliyah
+p4460
+(Vfemale
+p4461
+g3
+tp4462
+sVDarren Korb
+p4463
+(Vmale
+p4464
+g3
+tp4465
+sVLauryn Hill
+p4466
+(Vfemale
+p4467
+g3
+tp4468
+sVDesire
+p4469
+(NNtp4470
+sVTelevision
+p4471
+(Vmale
+p4472
+g3
+tp4473
+sVGLAY
+p4474
+(NNtp4475
+sVIsis
+p4476
+(Vmale
+p4477
+g3
+tp4478
+sVChevelle
+p4479
+(Vmale
+p4480
+g3
+tp4481
+sVJapandroids
+p4482
+(Vmale
+p4483
+g3
+tp4484
+sVJay Rock
+p4485
+(Vmale
+p4486
+g3
+tp4487
+sVLondon Philharmonic Orchestra
+p4488
+(NNtp4489
+sVFat Joe
+p4490
+(Vmale
+p4491
+g3
+tp4492
+sVYolanda Be Cool
+p4493
+(Vmale
+p4494
+g31
+tp4495
+sVThe Gift
+p4496
+(NNtp4497
+sVBlue Swede
+p4498
+(NNtp4499
+sVSophie
+p4500
+(Vfemale
+p4501
+g31
+tp4502
+sVKodomo
+p4503
+(Vmale
+p4504
+g3
+tp4505
+sVCraft Spells
+p4506
+(Vboth
+p4507
+g3
+tp4508
+sVJames Hersey
+p4509
+(Vmale
+p4510
+g3
+tp4511
+sVThe Fratellis
+p4512
+(Vmale
+p4513
+g31
+tp4514
+sVLucinda Williams
+p4515
+(Vfemale
+p4516
+g3
+tp4517
+sVSweet
+p4518
+(Vmale
+p4519
+g3
+tp4520
+sVSkindred
+p4521
+(Vmale
+p4522
+g3
+tp4523
+sVNero
+p4524
+(Vboth
+p4525
+g31
+tp4526
+sVSeal
+p4527
+(Vmale
+p4528
+g31
+tp4529
+sVSNBRN
+p4530
+(Vmale
+p4531
+g11
+tp4532
+sVSonu Nigam
+p4533
+(Vmale
+p4534
+g31
+tp4535
+sVTroyBoi
+p4536
+(NNtp4537
+sVGhostpoet
+p4538
+(Vmale
+p4539
+g3
+tp4540
+sVDon Henley
+p4541
+(Vmale
+p4542
+g31
+tp4543
+sVStratovarius
+p4544
+(Vmale
+p4545
+g3
+tp4546
+sVRod Stewart
+p4547
+(Vmale
+p4548
+g18
+tp4549
+sVTokyo Police Club
+p4550
+(Vmale
+p4551
+g3
+tp4552
+sVAqualung
+p4553
+(Vmale
+p4554
+g3
+tp4555
+sVTwin Peaks
+p4556
+(NNtp4557
+sVNONONO
+p4558
+(Vboth
+p4559
+g3
+tp4560
+sV257ers
+p4561
+(Vmale
+p4562
+g31
+tp4563
+sVOkkervil River
+p4564
+(Vmale
+p4565
+g3
+tp4566
+sVTexas
+p4567
+(Vboth
+p4568
+g3
+tp4569
+sVJason Mraz
+p4570
+(Vmale
+p4571
+g18
+tp4572
+sVSir Sly
+p4573
+(Vmale
+p4574
+g3
+tp4575
+sVAyreon
+p4576
+(NNtp4577
+sVRamin Djawadi
+p4578
+(Vmale
+p4579
+g3
+tp4580
+sVEnya
+p4581
+(Vfemale
+p4582
+g18
+tp4583
+sVArijit Singh
+p4584
+(Vmale
+p4585
+g31
+tp4586
+sVGiorgio Moroder
+p4587
+(Vmale
+p4588
+g31
+tp4589
+sVBetty Who
+p4590
+(Vfemale
+p4591
+g3
+tp4592
+sVJosh Groban
+p4593
+(Vmale
+p4594
+g31
+tp4595
+sVDiary of Dreams
+p4596
+(NNtp4597
+sVDead by April
+p4598
+(NNtp4599
+sVTalk Talk
+p4600
+(Vmale
+p4601
+g3
+tp4602
+sVThe Five Stairsteps
+p4603
+(Vmale
+p4604
+g3
+tp4605
+sVMalú
+p4606
+(Vfemale
+p4607
+g18
+tp4608
+sVBas
+p4609
+(Vmale
+p4610
+g3
+tp4611
+sVTaylor McFerrin
+p4612
+(Vmale
+p4613
+g3
+tp4614
+sVThe Everly Brothers
+p4615
+(NNtp4616
+sVBorn Ruffians
+p4617
+(Vmale
+p4618
+g3
+tp4619
+sVDomo Genesis
+p4620
+(Vmale
+p4621
+g3
+tp4622
+sVBlack Lips
+p4623
+(Vmale
+p4624
+g3
+tp4625
+sVRun\u2013D.M.C.
+p4626
+(NNtp4627
+sVDixie Chicks
+p4628
+(Vfemale
+p4629
+g3
+tp4630
+sVWardruna
+p4631
+(NNtp4632
+sVCalibre 50
+p4633
+(Vmale
+p4634
+g18
+tp4635
+sV\u897f\u91ce\u30ab\u30ca
+p4636
+(Vfemale
+p4637
+g471
+tp4638
+sVGrateful Dead
+p4639
+(Vmale
+p4640
+g3
+tp4641
+sVDanny Elfman
+p4642
+(Vmale
+p4643
+g3
+tp4644
+sVSkid Row
+p4645
+(NNtp4646
+sVCharlie Puth
+p4647
+(Vmale
+p4648
+g200
+tp4649
+sVWaka Flocka Flame
+p4650
+(Vmale
+p4651
+g3
+tp4652
+sVIron Maiden
+p4653
+(Vmale
+p4654
+g31
+tp4655
+sVSergio Dalma
+p4656
+(Vmale
+p4657
+g31
+tp4658
+sVFoy Vance
+p4659
+(Vmale
+p4660
+g3
+tp4661
+sVDavid Byrne
+p4662
+(Vmale
+p4663
+g3
+tp4664
+sVWes Montgomery
+p4665
+(Vmale
+p4666
+g3
+tp4667
+sVParachute
+p4668
+(Vmale
+p4669
+g3
+tp4670
+sVBaby K
+p4671
+(Vfemale
+p4672
+g31
+tp4673
+sVLéon
+p4674
+(Vmale
+p4675
+g136
+tp4676
+sVJacques Brel
+p4677
+(Vmale
+p4678
+g3
+tp4679
+sVIsaac Hayes
+p4680
+(Vmale
+p4681
+g3
+tp4682
+sVSilverstein
+p4683
+(Vmale
+p4684
+g3
+tp4685
+sVSara Bareilles
+p4686
+(Vfemale
+p4687
+g31
+tp4688
+sVHillsong Worship
+p4689
+(NNtp4690
+sVHowlin' Wolf
+p4691
+(Vmale
+p4692
+g3
+tp4693
+sVThe Marvelettes
+p4694
+(Vfemale
+p4695
+g3
+tp4696
+sV10 Years
+p4697
+(Vmale
+p4698
+g3
+tp4699
+sVAlex Clare
+p4700
+(Vmale
+p4701
+g3
+tp4702
+sVJoan Baez
+p4703
+(Vfemale
+p4704
+g11
+tp4705
+sVThe White Stripes
+p4706
+(Vboth
+p4707
+g31
+tp4708
+sVHnny
+p4709
+(Vmale
+p4710
+g3
+tp4711
+sVAnberlin
+p4712
+(Vmale
+p4713
+g3
+tp4714
+sVThomas Newman
+p4715
+(Vmale
+p4716
+g3
+tp4717
+sVBlack Flag
+p4718
+(Vboth
+p4719
+g3
+tp4720
+sVFlight Facilities
+p4721
+(NNtp4722
+sVBT
+p4723
+(Vmale
+p4724
+g3
+tp4725
+sVFrankie Valli
+p4726
+(Vmale
+p4727
+g3
+tp4728
+sVBryan Ferry
+p4729
+(Vmale
+p4730
+g3
+tp4731
+sVYuck
+p4732
+(Vboth
+p4733
+g3
+tp4734
+sVDavid Gilmour
+p4735
+(Vmale
+p4736
+g3
+tp4737
+sVRudimental
+p4738
+(Vmale
+p4739
+g200
+tp4740
+sVOmi
+p4741
+(Vmale
+p4742
+g1183
+tp4743
+sVJohann Pachelbel
+p4744
+(Vmale
+p4745
+g3
+tp4746
+sVPeking Duk
+p4747
+(NNtp4748
+sVNoir Désir
+p4749
+(Vmale
+p4750
+g3
+tp4751
+sVNelly
+p4752
+(Vmale
+p4753
+g18
+tp4754
+sVGryffin
+p4755
+(Vmale
+p4756
+g3
+tp4757
+sVBeta Radio
+p4758
+(NNtp4759
+sVEmika
+p4760
+(Vfemale
+p4761
+g3
+tp4762
+sVHow to Dress Well
+p4763
+(Vmale
+p4764
+g3
+tp4765
+sVWstrn
+p4766
+(NNtp4767
+sVVance Joy
+p4768
+(Vmale
+p4769
+g200
+tp4770
+sVSneaker Pimps
+p4771
+(Vboth
+p4772
+g3
+tp4773
+sVAmason
+p4774
+(NNtp4775
+sVEllie Goulding
+p4776
+(Vfemale
+p4777
+g200
+tp4778
+sVEstelle
+p4779
+(Vfemale
+p4780
+g3
+tp4781
+sVblessthefall
+p4782
+(NNtp4783
+sVThe Black Dahlia Murder
+p4784
+(Vmale
+p4785
+g3
+tp4786
+sVGotan Project
+p4787
+(NNtp4788
+sVVaults
+p4789
+(NNtp4790
+sVFujiya & Miyagi
+p4791
+(Vmale
+p4792
+g3
+tp4793
+sVChristina Perri
+p4794
+(Vfemale
+p4795
+g18
+tp4796
+sVPete Yorn
+p4797
+(Vmale
+p4798
+g3
+tp4799
+sVTurbonegro
+p4800
+(Vmale
+p4801
+g3
+tp4802
+sVDej Loaf
+p4803
+(Vfemale
+p4804
+g3
+tp4805
+sVStone Temple Pilots
+p4806
+(Vmale
+p4807
+g18
+tp4808
+sVDorian
+p4809
+(Vmale
+p4810
+g31
+tp4811
+sVM. Pokora
+p4812
+(Vmale
+p4813
+g31
+tp4814
+sVInna
+p4815
+(Vfemale
+p4816
+g18
+tp4817
+sVDavid Gray
+p4818
+(Vmale
+p4819
+g3
+tp4820
+sVPantha du Prince
+p4821
+(Vmale
+p4822
+g3
+tp4823
+sVStromae
+p4824
+(Vmale
+p4825
+g18
+tp4826
+sVGirls Aloud
+p4827
+(Vfemale
+p4828
+g3
+tp4829
+sVJohn Dahlbäck
+p4830
+(Vmale
+p4831
+g3
+tp4832
+sVJohn Talabot
+p4833
+(Vmale
+p4834
+g3
+tp4835
+sVMr. Probz
+p4836
+(Vmale
+p4837
+g18
+tp4838
+sVToni Braxton
+p4839
+(Vfemale
+p4840
+g3
+tp4841
+sVThe Dave Brubeck Quartet
+p4842
+(Vmale
+p4843
+g3
+tp4844
+sVLittle Richard
+p4845
+(Vmale
+p4846
+g3
+tp4847
+sVWarren G
+p4848
+(Vmale
+p4849
+g3
+tp4850
+sVGente De Zona
+p4851
+(NNtp4852
+sV...And You Will Know Us by the Trail of Dead
+p4853
+(Vmale
+p4854
+g3
+tp4855
+sVLapsley
+p4856
+(Vfemale
+p4857
+g31
+tp4858
+sVVera Blue
+p4859
+(Vfemale
+p4860
+g136
+tp4861
+sVEmma Louise
+p4862
+(Vfemale
+p4863
+g31
+tp4864
+sVHÆLOS
+p4865
+(NNtp4866
+sVJónsi
+p4867
+(NNtp4868
+sVAnohni
+p4869
+(Vfemale
+p4870
+g11
+tp4871
+sVDawid Podsiad\u0142o
+p4872
+(Vmale
+p4873
+g11
+tp4874
+sVAlan Jackson
+p4875
+(Vmale
+p4876
+g18
+tp4877
+sVReik
+p4878
+(Vmale
+p4879
+g31
+tp4880
+sVTravi$ Scott
+p4881
+(Vmale
+p4882
+g31
+tp4883
+sVRichard Hawley
+p4884
+(Vmale
+p4885
+g3
+tp4886
+sVGTA
+p4887
+(Vmale
+p4888
+g31
+tp4889
+sVGuts
+p4890
+(Vmale
+p4891
+g3
+tp4892
+sVJean-Michel Blais
+p4893
+(Vfemale
+p4894
+g11
+tp4895
+sVFetty Wap
+p4896
+(Vmale
+p4897
+g18
+tp4898
+sVMarco Antonio Solís
+p4899
+(Vmale
+p4900
+g185
+tp4901
+sVThe Horrors
+p4902
+(Vmale
+p4903
+g3
+tp4904
+sVHaloo Helsinki!
+p4905
+(NNtp4906
+sVRancid
+p4907
+(Vmale
+p4908
+g3
+tp4909
+sVEdwin Starr
+p4910
+(Vmale
+p4911
+g3
+tp4912
+sVTimeflies
+p4913
+(Vmale
+p4914
+g3
+tp4915
+sVJacques Dutronc
+p4916
+(Vmale
+p4917
+g3
+tp4918
+sV\u5742\u672c\u9f8d\u4e00
+p4919
+(Vmale
+p4920
+g11
+tp4921
+sVThe Airborne Toxic Event
+p4922
+(Vboth
+p4923
+g3
+tp4924
+sVMohit Chauhan
+p4925
+(Vmale
+p4926
+g31
+tp4927
+sVFine Young Cannibals
+p4928
+(Vmale
+p4929
+g3
+tp4930
+sVJ. Cole
+p4931
+(Vmale
+p4932
+g18
+tp4933
+sVThe Foundations
+p4934
+(Vmale
+p4935
+g3
+tp4936
+sVThe Borns
+p4937
+(NNtp4938
+sVDiana Krall
+p4939
+(Vfemale
+p4940
+g31
+tp4941
+sVCharles Bradley
+p4942
+(Vmale
+p4943
+g3
+tp4944
+sVDark Tranquillity
+p4945
+(Vmale
+p4946
+g3
+tp4947
+sVThe Outfield
+p4948
+(Vmale
+p4949
+g3
+tp4950
+sVBoys Noize
+p4951
+(Vmale
+p4952
+g3
+tp4953
+sVAne Brun
+p4954
+(Vfemale
+p4955
+g3
+tp4956
+sVFranz Liszt
+p4957
+(Vmale
+p4958
+g3
+tp4959
+sVNaughty By Nature
+p4960
+(Vmale
+p4961
+g3
+tp4962
+sVDeee-Lite
+p4963
+(NNtp4964
+sVStevie Nicks
+p4965
+(Vfemale
+p4966
+g3
+tp4967
+sVArcade Fire
+p4968
+(Vboth
+p4969
+g31
+tp4970
+sVPeace
+p4971
+(Vmale
+p4972
+g3
+tp4973
+sVLily Allen
+p4974
+(Vfemale
+p4975
+g31
+tp4976
+sVMobb Deep
+p4977
+(Vmale
+p4978
+g3
+tp4979
+sVJ.J. Cale
+p4980
+(Vmale
+p4981
+g3
+tp4982
+sVBag Raiders
+p4983
+(Vmale
+p4984
+g3
+tp4985
+sVDanger Mouse
+p4986
+(Vmale
+p4987
+g3
+tp4988
+sVThe Oh Hellos
+p4989
+(NNtp4990
+sVNekfeu
+p4991
+(Vmale
+p4992
+g18
+tp4993
+sVLittle May
+p4994
+(NNtp4995
+sVOdessa
+p4996
+(NNtp4997
+sVParov Stelar
+p4998
+(Vmale
+p4999
+g31
+tp5000
+sVSarah Jarosz
+p5001
+(Vfemale
+p5002
+g3
+tp5003
+sVMiles Davis
+p5004
+(Vmale
+p5005
+g31
+tp5006
+sVChicane
+p5007
+(Vmale
+p5008
+g3
+tp5009
+sVSolange
+p5010
+(Vfemale
+p5011
+g3
+tp5012
+sVWe Are Scientists
+p5013
+(Vmale
+p5014
+g3
+tp5015
+sVThe Acid
+p5016
+(NNtp5017
+sVHot Chocolate
+p5018
+(NNtp5019
+sVBuilt to Spill
+p5020
+(Vmale
+p5021
+g3
+tp5022
+sVBlackmill
+p5023
+(Vmale
+p5024
+g3
+tp5025
+sVSoulja Boy
+p5026
+(Vmale
+p5027
+g3
+tp5028
+sVA.R. Rahman
+p5029
+(Vmale
+p5030
+g18
+tp5031
+sVThe Wanted
+p5032
+(Vmale
+p5033
+g3
+tp5034
+sVMark Knopfler
+p5035
+(Vmale
+p5036
+g3
+tp5037
+sVAlfredo Olivas
+p5038
+(Vmale
+p5039
+g31
+tp5040
+sVYoung Jeezy
+p5041
+(Vmale
+p5042
+g3
+tp5043
+sVSleeping with Sirens
+p5044
+(Vmale
+p5045
+g3
+tp5046
+sVThe Ataris
+p5047
+(Vmale
+p5048
+g3
+tp5049
+sVBlockhead
+p5050
+(Vmale
+p5051
+g3
+tp5052
+sVKelela
+p5053
+(Vfemale
+p5054
+g3
+tp5055
+sVSavoir Adore
+p5056
+(NNtp5057
+sVMr. Scruff
+p5058
+(Vmale
+p5059
+g11
+tp5060
+sVCommon
+p5061
+(Vmale
+p5062
+g3
+tp5063
+sVAlexandre Desplat
+p5064
+(Vmale
+p5065
+g3
+tp5066
+sVTracy Chapman
+p5067
+(Vfemale
+p5068
+g31
+tp5069
+sVVoz De Mando
+p5070
+(NNtp5071
+sVMabel Matiz
+p5072
+(Vmale
+p5073
+g185
+tp5074
+sVPerfume Genius
+p5075
+(Vmale
+p5076
+g3
+tp5077
+sVSunny Day Real Estate
+p5078
+(Vmale
+p5079
+g3
+tp5080
+sVT-Pain
+p5081
+(Vmale
+p5082
+g11
+tp5083
+sVEdwyn Collins
+p5084
+(Vmale
+p5085
+g3
+tp5086
+sVBroods
+p5087
+(Vboth
+p5088
+g31
+tp5089
+sVAnne-Marie
+p5090
+(Vfemale
+p5091
+g136
+tp5092
+sVSixx:A.M.
+p5093
+(Vmale
+p5094
+g3
+tp5095
+sVLiving Colour
+p5096
+(Vmale
+p5097
+g3
+tp5098
+sVBon Jovi
+p5099
+(Vmale
+p5100
+g18
+tp5101
+sVSerebro
+p5102
+(Vfemale
+p5103
+g18
+tp5104
+sVJaakko Eino Kalevi
+p5105
+(Vmale
+p5106
+g3
+tp5107
+sVMatoma
+p5108
+(Vmale
+p5109
+g185
+tp5110
+sVBorgore
+p5111
+(Vmale
+p5112
+g3
+tp5113
+sVAlbin Lee Meldau
+p5114
+(Vmale
+p5115
+g11
+tp5116
+sVEverclear
+p5117
+(Vmale
+p5118
+g3
+tp5119
+sVBen Folds
+p5120
+(Vmale
+p5121
+g3
+tp5122
+sVPharrell Williams
+p5123
+(Vmale
+p5124
+g200
+tp5125
+sVJunip
+p5126
+(Vmale
+p5127
+g3
+tp5128
+sVFountains of Wayne
+p5129
+(Vmale
+p5130
+g3
+tp5131
+sV\u4e45\u77f3\u8b72
+p5132
+(Vmale
+p5133
+g11
+tp5134
+sVReykon
+p5135
+(NNtp5136
+sVEL VY
+p5137
+(NNtp5138
+sVAkcent
+p5139
+(Vmale
+p5140
+g31
+tp5141
+sVRomeo Santos
+p5142
+(Vmale
+p5143
+g18
+tp5144
+sVCole Swindell
+p5145
+(Vmale
+p5146
+g31
+tp5147
+sVFallulah
+p5148
+(Vfemale
+p5149
+g3
+tp5150
+sVVeronica Maggio
+p5151
+(Vfemale
+p5152
+g3
+tp5153
+sVLuke Sital-Singh
+p5154
+(Vmale
+p5155
+g3
+tp5156
+sVC2C
+p5157
+(NNtp5158
+sVTraffic
+p5159
+(Vmale
+p5160
+g31
+tp5161
+sVStarship
+p5162
+(NNtp5163
+sVJeremy Soule
+p5164
+(Vmale
+p5165
+g3
+tp5166
+sVSpiritualized
+p5167
+(Vmale
+p5168
+g3
+tp5169
+sVFall Out Boy
+p5170
+(Vmale
+p5171
+g200
+tp5172
+sVAnouk
+p5173
+(Vfemale
+p5174
+g31
+tp5175
+sV\u6c6a\u5cf0
+p5176
+(NNtp5177
+sVCharles Mingus
+p5178
+(Vmale
+p5179
+g11
+tp5180
+sVVolcano Choir
+p5181
+(Vmale
+p5182
+g3
+tp5183
+sVAKB48
+p5184
+(NNtp5185
+sVGenerationals
+p5186
+(Vmale
+p5187
+g3
+tp5188
+sVJustin Moore
+p5189
+(Vmale
+p5190
+g31
+tp5191
+sVKylesa
+p5192
+(Vboth
+p5193
+g3
+tp5194
+sVPassenger
+p5195
+(Vmale
+p5196
+g18
+tp5197
+sVTemples
+p5198
+(Vmale
+p5199
+g3
+tp5200
+sVMr. Big
+p5201
+(NNtp5202
+sVsZa
+p5203
+(Vfemale
+p5204
+g3
+tp5205
+sVAquilo
+p5206
+(NNtp5207
+sVDaddy Yankee
+p5208
+(Vmale
+p5209
+g200
+tp5210
+sVStars of the Lid
+p5211
+(NNtp5212
+sVPanama Wedding
+p5213
+(NNtp5214
+sVRadiohead
+p5215
+(Vmale
+p5216
+g31
+tp5217
+sVThe Jezabels
+p5218
+(Vboth
+p5219
+g3
+tp5220
+sVSleigh Bells
+p5221
+(Vboth
+p5222
+g3
+tp5223
+sVCamille Saint-Saëns
+p5224
+(Vmale
+p5225
+g3
+tp5226
+sVJulion Alvarez y Su Norteno Banda
+p5227
+(NNtp5228
+sVThe Cramps
+p5229
+(Vboth
+p5230
+g3
+tp5231
+sVJuice Newton
+p5232
+(Vfemale
+p5233
+g3
+tp5234
+sVKaty Perry
+p5235
+(Vfemale
+p5236
+g200
+tp5237
+sV311
+p5238
+(Vmale
+p5239
+g3
+tp5240
+sVSusie Suh
+p5241
+(Vfemale
+p5242
+g3
+tp5243
+sVManu Chao
+p5244
+(Vmale
+p5245
+g3
+tp5246
+sVLaura Branigan
+p5247
+(Vfemale
+p5248
+g3
+tp5249
+sVThe World Is a Beautiful Place & I Am No Longer Afraid to Die
+p5250
+(Vboth
+p5251
+g3
+tp5252
+sVFranz Schubert
+p5253
+(Vmale
+p5254
+g3
+tp5255
+sVBig Wild
+p5256
+(NNtp5257
+sVThe Kite String Tangle
+p5258
+(NNtp5259
+sVElliot Moss
+p5260
+(Vmale
+p5261
+g3
+tp5262
+sVVNV Nation
+p5263
+(Vmale
+p5264
+g3
+tp5265
+sVGuns N' Roses
+p5266
+(Vmale
+p5267
+g18
+tp5268
+sVWhat So Not
+p5269
+(NNtp5270
+sVSleater-Kinney
+p5271
+(NNtp5272
+sVCali & El Dandee
+p5273
+(NNtp5274
+sVAstrid S
+p5275
+(Vfemale
+p5276
+g136
+tp5277
+sVUsher
+p5278
+(Vmale
+p5279
+g31
+tp5280
+sVSenses Fail
+p5281
+(Vmale
+p5282
+g3
+tp5283
+sVNathaniel Rateliff
+p5284
+(Vmale
+p5285
+g18
+tp5286
+sVI am Oak
+p5287
+(Vboth
+p5288
+g3
+tp5289
+sVKing
+p5290
+(Vmale
+p5291
+g136
+tp5292
+sVLa Sera
+p5293
+(Vfemale
+p5294
+g3
+tp5295
+sVKlangkarussell
+p5296
+(Vmale
+p5297
+g31
+tp5298
+sVMother Mother
+p5299
+(NNtp5300
+sVCosmic Gate
+p5301
+(NNtp5302
+sVLMFAO
+p5303
+(Vmale
+p5304
+g31
+tp5305
+sVBJ The Chicago Kid
+p5306
+(Vmale
+p5307
+g3
+tp5308
+sVAlan Silvestri
+p5309
+(Vmale
+p5310
+g3
+tp5311
+sVLust for Youth
+p5312
+(Vmale
+p5313
+g3
+tp5314
+sVR. Kelly
+p5315
+(Vmale
+p5316
+g31
+tp5317
+sVGesaffelstein
+p5318
+(Vmale
+p5319
+g3
+tp5320
+sVYoungblood Hawke
+p5321
+(Vboth
+p5322
+g3
+tp5323
+sVWye Oak
+p5324
+(NNtp5325
+sVBondax
+p5326
+(Vmale
+p5327
+g3
+tp5328
+sVKacey Musgraves
+p5329
+(Vfemale
+p5330
+g3
+tp5331
+sVThe Distillers
+p5332
+(Vboth
+p5333
+g3
+tp5334
+sVChic
+p5335
+(Vboth
+p5336
+g3
+tp5337
+sVLouis Armstrong
+p5338
+(Vmale
+p5339
+g31
+tp5340
+sVNeil Young
+p5341
+(Vmale
+p5342
+g18
+tp5343
+sVRilo Kiley
+p5344
+(Vboth
+p5345
+g3
+tp5346
+sVGarth Brooks
+p5347
+(Vmale
+p5348
+g31
+tp5349
+sVBenjamin Clementine
+p5350
+(Vmale
+p5351
+g3
+tp5352
+sVJason Isbell
+p5353
+(Vmale
+p5354
+g3
+tp5355
+sVTobias Jesso Jr.
+p5356
+(Vmale
+p5357
+g3
+tp5358
+sVRyan Hemsworth
+p5359
+(Vmale
+p5360
+g3
+tp5361
+sVDirty Projectors
+p5362
+(Vmale
+p5363
+g3
+tp5364
+sVLL Cool J
+p5365
+(Vmale
+p5366
+g3
+tp5367
+sVCassadee Pope
+p5368
+(Vfemale
+p5369
+g31
+tp5370
+sVfun.
+p5371
+(Vmale
+p5372
+g18
+tp5373
+sVShamir
+p5374
+(Vmale
+p5375
+g3
+tp5376
+sVWar
+p5377
+(Vmale
+p5378
+g3
+tp5379
+sVPablo Alboran
+p5380
+(Vmale
+p5381
+g18
+tp5382
+sVErasure
+p5383
+(Vmale
+p5384
+g3
+tp5385
+sVPercy Sledge
+p5386
+(Vmale
+p5387
+g3
+tp5388
+sVGary Clark Jr.
+p5389
+(Vmale
+p5390
+g3
+tp5391
+sVGabriel Fauré
+p5392
+(Vmale
+p5393
+g11
+tp5394
+sVTim Hecker
+p5395
+(Vmale
+p5396
+g3
+tp5397
+sVHedley
+p5398
+(Vmale
+p5399
+g31
+tp5400
+sVTrain
+p5401
+(Vmale
+p5402
+g31
+tp5403
+sVVök
+p5404
+(NNtp5405
+sVMayday Parade
+p5406
+(Vmale
+p5407
+g3
+tp5408
+sVPorches
+p5409
+(Vmale
+p5410
+g3
+tp5411
+sVMike Oldfield
+p5412
+(Vmale
+p5413
+g3
+tp5414
+sVThe Thermals
+p5415
+(Vboth
+p5416
+g3
+tp5417
+sVDaughter
+p5418
+(Vboth
+p5419
+g31
+tp5420
+sVTokio Hotel
+p5421
+(Vmale
+p5422
+g3
+tp5423
+sVDave Matthews Band
+p5424
+(Vmale
+p5425
+g3
+tp5426
+sVKula Shaker
+p5427
+(Vmale
+p5428
+g3
+tp5429
+sVAndrea Bocelli
+p5430
+(Vmale
+p5431
+g18
+tp5432
+sVAndreas Gabalier
+p5433
+(Vmale
+p5434
+g31
+tp5435
+sVBattles
+p5436
+(Vmale
+p5437
+g3
+tp5438
+sVThe Pretenders
+p5439
+(NNtp5440
+sVRoberto Tapia
+p5441
+(Vmale
+p5442
+g31
+tp5443
+sVAnna Meredith
+p5444
+(Vfemale
+p5445
+g3
+tp5446
+sVStatic-X
+p5447
+(NNtp5448
+sVMiles Kane
+p5449
+(Vmale
+p5450
+g3
+tp5451
+sVFelix Mendelssohn
+p5452
+(Vmale
+p5453
+g3
+tp5454
+sVDomenico Scarlatti
+p5455
+(Vmale
+p5456
+g3
+tp5457
+sVBassnectar
+p5458
+(Vmale
+p5459
+g3
+tp5460
+sVJaymes Young
+p5461
+(Vmale
+p5462
+g3
+tp5463
+sVThelonious Monk
+p5464
+(Vmale
+p5465
+g31
+tp5466
+sVAnamanaguchi
+p5467
+(Vmale
+p5468
+g3
+tp5469
+sVSteve Winwood
+p5470
+(Vmale
+p5471
+g3
+tp5472
+sVThe Damned
+p5473
+(Vmale
+p5474
+g3
+tp5475
+sVYo Gotti
+p5476
+(Vmale
+p5477
+g31
+tp5478
+sVCollege
+p5479
+(Vmale
+p5480
+g11
+tp5481
+sVThomas Rhett
+p5482
+(Vmale
+p5483
+g471
+tp5484
+sVThe Notwist
+p5485
+(Vmale
+p5486
+g3
+tp5487
+sVThe Whitest Boy Alive
+p5488
+(NNtp5489
+sVFoals
+p5490
+(Vmale
+p5491
+g31
+tp5492
+sVWankelmut
+p5493
+(Vmale
+p5494
+g3
+tp5495
+sVSwim Deep
+p5496
+(NNtp5497
+sVGui Boratto
+p5498
+(Vmale
+p5499
+g3
+tp5500
+sVAlela Diane
+p5501
+(Vfemale
+p5502
+g3
+tp5503
+sVDead Kennedys
+p5504
+(Vmale
+p5505
+g3
+tp5506
+sVPablo López
+p5507
+(Vmale
+p5508
+g18
+tp5509
+sVAydilge
+p5510
+(Vfemale
+p5511
+g31
+tp5512
+sVEagles
+p5513
+(Vmale
+p5514
+g31
+tp5515
+sVVitamin String Quartet
+p5516
+(NNtp5517
+sVCee Lo Green
+p5518
+(Vmale
+p5519
+g200
+tp5520
+sV\uc2f8\uc774
+p5521
+(NNtp5522
+sVKurt Vile
+p5523
+(Vmale
+p5524
+g31
+tp5525
+sVErik Hassle
+p5526
+(Vmale
+p5527
+g3
+tp5528
+sVRobert Plant
+p5529
+(Vmale
+p5530
+g3
+tp5531
+sVCharli XCX
+p5532
+(Vfemale
+p5533
+g18
+tp5534
+sVChastity Belt
+p5535
+(Vfemale
+p5536
+g3
+tp5537
+sVThe Wallflowers
+p5538
+(Vmale
+p5539
+g3
+tp5540
+sVCaptain Beefheart & His Magic Band
+p5541
+(NNtp5542
+sVDemi Lovato
+p5543
+(Vfemale
+p5544
+g200
+tp5545
+sVJorge Ben
+p5546
+(Vmale
+p5547
+g3
+tp5548
+sVTwo Door Cinema Club
+p5549
+(Vmale
+p5550
+g31
+tp5551
+sVMono
+p5552
+(NNtp5553
+sVJoep Beving
+p5554
+(NNtp5555
+sVBig Brother & The Holding Company
+p5556
+(Vboth
+p5557
+g3
+tp5558
+sVSugar Ray
+p5559
+(Vmale
+p5560
+g3
+tp5561
+sVCrown the Empire
+p5562
+(NNtp5563
+sVAll We Are
+p5564
+(NNtp5565
+sVDan Deacon
+p5566
+(Vmale
+p5567
+g3
+tp5568
+sVHundred Waters
+p5569
+(Vboth
+p5570
+g3
+tp5571
+sVLilly Wood & The Prick
+p5572
+(Vboth
+p5573
+g31
+tp5574
+sVSaliva
+p5575
+(Vmale
+p5576
+g3
+tp5577
+sVJennifer Lopez
+p5578
+(Vfemale
+p5579
+g31
+tp5580
+sVMessage To Bears
+p5581
+(NNtp5582
+sVAmanda Palmer
+p5583
+(Vfemale
+p5584
+g3
+tp5585
+sVCesare Cremonini
+p5586
+(Vmale
+p5587
+g18
+tp5588
+sVBleached
+p5589
+(Vfemale
+p5590
+g3
+tp5591
+sVSturgill Simpson
+p5592
+(Vmale
+p5593
+g3
+tp5594
+sVArthur Russell
+p5595
+(Vmale
+p5596
+g3
+tp5597
+sVTech N9ne
+p5598
+(Vmale
+p5599
+g31
+tp5600
+sVDean Martin
+p5601
+(Vmale
+p5602
+g31
+tp5603
+sVAlvvays
+p5604
+(NNtp5605
+sVMatt Corby
+p5606
+(Vmale
+p5607
+g3
+tp5608
+sVLeona Lewis
+p5609
+(Vfemale
+p5610
+g18
+tp5611
+sVTiago Iorc
+p5612
+(Vmale
+p5613
+g3
+tp5614
+sVCamel
+p5615
+(Vmale
+p5616
+g3
+tp5617
+sVAdelitas Way
+p5618
+(Vmale
+p5619
+g3
+tp5620
+sVElectric Wizard
+p5621
+(Vmale
+p5622
+g3
+tp5623
+sVt.A.T.u.
+p5624
+(Vfemale
+p5625
+g3
+tp5626
+sVAgir
+p5627
+(Vmale
+p5628
+g185
+tp5629
+sVMen Without Hats
+p5630
+(Vmale
+p5631
+g3
+tp5632
+sVOh Land
+p5633
+(Vfemale
+p5634
+g3
+tp5635
+sVMiriam Bryant
+p5636
+(Vfemale
+p5637
+g18
+tp5638
+sVSleepmakeswaves
+p5639
+(Vmale
+p5640
+g3
+tp5641
+sVCLMD
+p5642
+(NNtp5643
+sVNatalia Lafourcade
+p5644
+(Vfemale
+p5645
+g31
+tp5646
+sVPennywise
+p5647
+(Vmale
+p5648
+g3
+tp5649
+sVWisin
+p5650
+(Vmale
+p5651
+g18
+tp5652
+sVWe Were Promised Jetpacks
+p5653
+(Vmale
+p5654
+g3
+tp5655
+sVMethod Man
+p5656
+(Vmale
+p5657
+g3
+tp5658
+sVBad Suns
+p5659
+(Vmale
+p5660
+g3
+tp5661
+sVMiami Horror
+p5662
+(Vmale
+p5663
+g3
+tp5664
+sVChris Tomlin
+p5665
+(Vmale
+p5666
+g31
+tp5667
+sVÉdith Piaf
+p5668
+(Vfemale
+p5669
+g3
+tp5670
+sVTony Bennett
+p5671
+(Vmale
+p5672
+g31
+tp5673
+sVMarianas Trench
+p5674
+(NNtp5675
+sVSunrise Avenue
+p5676
+(Vmale
+p5677
+g3
+tp5678
+sVSunflower Bean
+p5679
+(NNtp5680
+sVBasto!
+p5681
+(Vmale
+p5682
+g31
+tp5683
+sVJai Paul
+p5684
+(Vmale
+p5685
+g11
+tp5686
+sVChristopher
+p5687
+(Vmale
+p5688
+g31
+tp5689
+sVQuasimoto
+p5690
+(Vmale
+p5691
+g3
+tp5692
+sVHenry Mancini
+p5693
+(Vmale
+p5694
+g3
+tp5695
+sVTory Lanez
+p5696
+(Vmale
+p5697
+g3
+tp5698
+sVWild Beasts
+p5699
+(Vmale
+p5700
+g3
+tp5701
+sVHatebreed
+p5702
+(Vmale
+p5703
+g3
+tp5704
+sVIll Niño
+p5705
+(NNtp5706
+sVBoys Like Girls
+p5707
+(Vmale
+p5708
+g3
+tp5709
+sVRomare
+p5710
+(Vmale
+p5711
+g3
+tp5712
+sVStereophonics
+p5713
+(Vmale
+p5714
+g31
+tp5715
+sVTortoise
+p5716
+(Vmale
+p5717
+g3
+tp5718
+sVKorpiklaani
+p5719
+(Vmale
+p5720
+g3
+tp5721
+sVAvantasia
+p5722
+(NNtp5723
+sVRival Sons
+p5724
+(Vmale
+p5725
+g3
+tp5726
+sVJamie Lidell
+p5727
+(Vmale
+p5728
+g3
+tp5729
+sVBigBang
+p5730
+(Vmale
+p5731
+g200
+tp5732
+sVHarry Gregson-Williams
+p5733
+(Vmale
+p5734
+g136
+tp5735
+sVSabina Ddumba
+p5736
+(Vfemale
+p5737
+g31
+tp5738
+sVCarpenter Brut
+p5739
+(NNtp5740
+sVAlex G
+p5741
+(Vmale
+p5742
+g3
+tp5743
+sVAsh
+p5744
+(NNtp5745
+sVFranz Ferdinand
+p5746
+(Vmale
+p5747
+g31
+tp5748
+sVDawes
+p5749
+(Vmale
+p5750
+g3
+tp5751
+sVBlack Label Society
+p5752
+(Vmale
+p5753
+g3
+tp5754
+sVSocial Distortion
+p5755
+(Vmale
+p5756
+g3
+tp5757
+sV::M\u2206DE::IN::HEIGHTS::
+p5758
+(NNtp5759
+sVMacklemore
+p5760
+(Vmale
+p5761
+g18
+tp5762
+sVJames Morrison
+p5763
+(Vmale
+p5764
+g31
+tp5765
+sV\u690d\u677e\u4f38\u592b
+p5766
+(Vmale
+p5767
+g11
+tp5768
+sVImagine Dragons
+p5769
+(Vmale
+p5770
+g200
+tp5771
+sVBones
+p5772
+(NNtp5773
+sVCanned Heat
+p5774
+(Vmale
+p5775
+g3
+tp5776
+sVDaft Punk
+p5777
+(Vmale
+p5778
+g18
+tp5779
+sVJasmine Thompson
+p5780
+(Vfemale
+p5781
+g18
+tp5782
+sVLera Lynn
+p5783
+(Vfemale
+p5784
+g3
+tp5785
+sVKRS-One
+p5786
+(Vmale
+p5787
+g11
+tp5788
+sVEvenings
+p5789
+(Vmale
+p5790
+g3
+tp5791
+sVShinedown
+p5792
+(Vmale
+p5793
+g18
+tp5794
+sVAmos Lee
+p5795
+(Vmale
+p5796
+g3
+tp5797
+sVMichel Teló
+p5798
+(Vmale
+p5799
+g18
+tp5800
+sVDamon Albarn
+p5801
+(Vmale
+p5802
+g3
+tp5803
+sVJuan Magan
+p5804
+(Vmale
+p5805
+g18
+tp5806
+sVBonnie Raitt
+p5807
+(Vfemale
+p5808
+g3
+tp5809
+sVYou+Me
+p5810
+(NNtp5811
+sVThe Amity Affliction
+p5812
+(NNtp5813
+sVTiga
+p5814
+(Vmale
+p5815
+g3
+tp5816
+sVO.T. Genasis
+p5817
+(Vmale
+p5818
+g31
+tp5819
+sVCobra Starship
+p5820
+(Vmale
+p5821
+g3
+tp5822
+sVFrans
+p5823
+(Vmale
+p5824
+g3
+tp5825
+sVSea Wolf
+p5826
+(Vmale
+p5827
+g3
+tp5828
+sVOneRepublic
+p5829
+(Vmale
+p5830
+g18
+tp5831
+sVU2
+p5832
+(Vmale
+p5833
+g18
+tp5834
+sVCharlie Brown JR.
+p5835
+(Vmale
+p5836
+g3
+tp5837
+sV\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba
+p5838
+(NNtp5839
+sVClarice Falcão
+p5840
+(NNtp5841
+sVProtomartyr
+p5842
+(Vmale
+p5843
+g3
+tp5844
+sVGrand Funk Railroad
+p5845
+(Vmale
+p5846
+g3
+tp5847
+sVLed Zeppelin
+p5848
+(Vmale
+p5849
+g18
+tp5850
+sVImany
+p5851
+(Vfemale
+p5852
+g18
+tp5853
+sVApparat
+p5854
+(Vmale
+p5855
+g3
+tp5856
+sVJohn Grant
+p5857
+(Vmale
+p5858
+g31
+tp5859
+sVHighly Suspect
+p5860
+(NNtp5861
+sVBomba Estéreo
+p5862
+(NNtp5863
+sVBlackbear
+p5864
+(NNtp5865
+sVThe Proclaimers
+p5866
+(Vmale
+p5867
+g3
+tp5868
+sVCascada
+p5869
+(Vboth
+p5870
+g3
+tp5871
+sVBoa
+p5872
+(Vfemale
+p5873
+g3
+tp5874
+sVPlacebo
+p5875
+(Vmale
+p5876
+g31
+tp5877
+sVChet Faker
+p5878
+(Vmale
+p5879
+g31
+tp5880
+sVGrace Mitchell
+p5881
+(Vfemale
+p5882
+g136
+tp5883
+sVLe Youth
+p5884
+(Vmale
+p5885
+g3
+tp5886
+sVAlkilados
+p5887
+(NNtp5888
+sVKeys N Krates
+p5889
+(NNtp5890
+sVPink Floyd
+p5891
+(Vmale
+p5892
+g31
+tp5893
+sVRoberta Flack
+p5894
+(Vfemale
+p5895
+g3
+tp5896
+sVPowerwolf
+p5897
+(NNtp5898
+sVDorothy
+p5899
+(Vfemale
+p5900
+g136
+tp5901
+sVPond
+p5902
+(NNtp5903
+sVLea Rue
+p5904
+(Vfemale
+p5905
+g136
+tp5906
+sVIAMX
+p5907
+(Vmale
+p5908
+g3
+tp5909
+sVLenny Kravitz
+p5910
+(Vmale
+p5911
+g31
+tp5912
+sVAnastacia
+p5913
+(Vfemale
+p5914
+g3
+tp5915
+sVLa Femme
+p5916
+(Vfemale
+p5917
+g136
+tp5918
+sVEgoist
+p5919
+(Vmale
+p5920
+g31
+tp5921
+sVCharly Black
+p5922
+(Vmale
+p5923
+g31
+tp5924
+sVBilly Ocean
+p5925
+(Vmale
+p5926
+g3
+tp5927
+sVDon Omar
+p5928
+(Vmale
+p5929
+g31
+tp5930
+sVDaniel Powter
+p5931
+(Vmale
+p5932
+g3
+tp5933
+sVLumen
+p5934
+(NNtp5935
+sVJane's Addiction
+p5936
+(Vmale
+p5937
+g3
+tp5938
+sVK. Michelle
+p5939
+(Vfemale
+p5940
+g31
+tp5941
+sVB1A4
+p5942
+(NNtp5943
+sVLA Priest
+p5944
+(Vmale
+p5945
+g3
+tp5946
+sVEluvium
+p5947
+(Vmale
+p5948
+g3
+tp5949
+sVBilly Bragg
+p5950
+(Vmale
+p5951
+g3
+tp5952
+sVGuided by Voices
+p5953
+(Vmale
+p5954
+g3
+tp5955
+sVLee Brice
+p5956
+(Vmale
+p5957
+g18
+tp5958
+sVback number
+p5959
+(NNtp5960
+sVMajical Cloudz
+p5961
+(Vmale
+p5962
+g3
+tp5963
+sVChuckie
+p5964
+(Vmale
+p5965
+g31
+tp5966
+sVComa
+p5967
+(NNtp5968
+sVMako
+p5969
+(NNtp5970
+sVAnderson .Paak
+p5971
+(Vmale
+p5972
+g3
+tp5973
+sVPeggy Lee
+p5974
+(Vfemale
+p5975
+g3
+tp5976
+sVMorphine
+p5977
+(Vmale
+p5978
+g3
+tp5979
+sVAutoerotique
+p5980
+(NNtp5981
+sVRea Garvey
+p5982
+(Vmale
+p5983
+g31
+tp5984
+sVFaith No More
+p5985
+(Vmale
+p5986
+g31
+tp5987
+sVThe Books
+p5988
+(Vmale
+p5989
+g3
+tp5990
+sVFilter
+p5991
+(Vmale
+p5992
+g3
+tp5993
+sVMoby
+p5994
+(Vmale
+p5995
+g31
+tp5996
+sV\uc18c\ub140\uc2dc\ub300
+p5997
+(NNtp5998
+sVLogic
+p5999
+(NNtp6000
+sVAndrés Cepeda
+p6001
+(Vmale
+p6002
+g185
+tp6003
+sVJulie Bergan
+p6004
+(Vfemale
+p6005
+g185
+tp6006
+sVWolfgang Amadeus Mozart
+p6007
+(Vmale
+p6008
+g31
+tp6009
+sVChris Malinchak
+p6010
+(Vmale
+p6011
+g31
+tp6012
+sVAnna Naklab
+p6013
+(Vfemale
+p6014
+g471
+tp6015
+sVLoreen
+p6016
+(Vfemale
+p6017
+g18
+tp6018
+sVFranz Joseph Haydn
+p6019
+(Vmale
+p6020
+g3
+tp6021
+sVStevie Wonder
+p6022
+(Vmale
+p6023
+g18
+tp6024
+sVFlosstradamus
+p6025
+(Vmale
+p6026
+g3
+tp6027
+sVJenny Lewis
+p6028
+(Vfemale
+p6029
+g3
+tp6030
+sVPetite Noir
+p6031
+(Vmale
+p6032
+g3
+tp6033
+sVBlack Veil Brides
+p6034
+(Vmale
+p6035
+g3
+tp6036
+sVRick Astley
+p6037
+(Vmale
+p6038
+g3
+tp6039
+sVMarissa Nadler
+p6040
+(Vfemale
+p6041
+g3
+tp6042
+sVAyokAy
+p6043
+(NNtp6044
+sVThe XX
+p6045
+(Vboth
+p6046
+g18
+tp6047
+sVOrbital
+p6048
+(Vmale
+p6049
+g3
+tp6050
+sVJon Bellion
+p6051
+(Vmale
+p6052
+g3
+tp6053
+sVEva Cassidy
+p6054
+(Vfemale
+p6055
+g3
+tp6056
+sVLUNA SEA
+p6057
+(Vmale
+p6058
+g31
+tp6059
+sVEpic45
+p6060
+(Vmale
+p6061
+g3
+tp6062
+sVNick Jonas
+p6063
+(Vmale
+p6064
+g200
+tp6065
+sVKelsea Ballerini
+p6066
+(Vfemale
+p6067
+g31
+tp6068
+sVSemisonic
+p6069
+(Vmale
+p6070
+g3
+tp6071
+sVBrad Paisley
+p6072
+(Vmale
+p6073
+g31
+tp6074
+sVIn the Valley Below
+p6075
+(NNtp6076
+sVTove Lo
+p6077
+(Vfemale
+p6078
+g18
+tp6079
+sVBeach Fossils
+p6080
+(Vboth
+p6081
+g3
+tp6082
+sVKry\u0161tof
+p6083
+(Vmale
+p6084
+g31
+tp6085
+sVTodd Terje
+p6086
+(Vmale
+p6087
+g3
+tp6088
+sVSpin Doctors
+p6089
+(Vmale
+p6090
+g3
+tp6091
+sVMr. Mister
+p6092
+(Vmale
+p6093
+g3
+tp6094
+sVOl' Dirty Bastard
+p6095
+(Vmale
+p6096
+g3
+tp6097
+sVHave a Nice Life
+p6098
+(NNtp6099
+sVChumbawamba
+p6100
+(Vboth
+p6101
+g3
+tp6102
+sVJohnnyswim
+p6103
+(Vboth
+p6104
+g3
+tp6105
+sVAxwell
+p6106
+(Vmale
+p6107
+g11
+tp6108
+sVNetsky
+p6109
+(Vmale
+p6110
+g18
+tp6111
+sVFleetwood Mac
+p6112
+(Vboth
+p6113
+g18
+tp6114
+sVP!nk
+p6115
+(NNtp6116
+sVSqueeze
+p6117
+(Vmale
+p6118
+g3
+tp6119
+sVSean Kingston
+p6120
+(Vmale
+p6121
+g3
+tp6122
+sVParmalee
+p6123
+(NNtp6124
+sVMudvayne
+p6125
+(Vmale
+p6126
+g3
+tp6127
+sVBaauer
+p6128
+(Vmale
+p6129
+g31
+tp6130
+sVMr. Little Jeans
+p6131
+(Vfemale
+p6132
+g3
+tp6133
+sVShawn Hook
+p6134
+(Vmale
+p6135
+g3
+tp6136
+sVCar Seat Headrest
+p6137
+(Vmale
+p6138
+g3
+tp6139
+sVSALES
+p6140
+(NNtp6141
+sVGeorge Benson
+p6142
+(Vmale
+p6143
+g3
+tp6144
+sVAriane Moffatt
+p6145
+(Vfemale
+p6146
+g31
+tp6147
+sVStyx
+p6148
+(Vmale
+p6149
+g3
+tp6150
+sVLos Inquietos del Norte
+p6151
+(NNtp6152
+sVShakey Graves
+p6153
+(NNtp6154
+sVAccept
+p6155
+(Vmale
+p6156
+g31
+tp6157
+sVRandy Newman
+p6158
+(Vmale
+p6159
+g3
+tp6160
+sVThe Bird and the Bee
+p6161
+(Vboth
+p6162
+g3
+tp6163
+sVModeselektor
+p6164
+(Vmale
+p6165
+g3
+tp6166
+sV\ubc31\uc544\uc5f0
+p6167
+(Vmale
+p6168
+g185
+tp6169
+sVDiego Torres
+p6170
+(Vmale
+p6171
+g31
+tp6172
+sVKaaris
+p6173
+(Vmale
+p6174
+g31
+tp6175
+sVColeman Hell
+p6176
+(Vmale
+p6177
+g31
+tp6178
+sVBeatsteaks
+p6179
+(Vmale
+p6180
+g3
+tp6181
+sVThe Corrs
+p6182
+(Vboth
+p6183
+g3
+tp6184
+sVCapital Cities
+p6185
+(Vmale
+p6186
+g18
+tp6187
+sVMåns Zelmerlöw
+p6188
+(Vmale
+p6189
+g18
+tp6190
+sVDaniela Andrade
+p6191
+(Vfemale
+p6192
+g3
+tp6193
+sVAvicii
+p6194
+(Vmale
+p6195
+g200
+tp6196
+sVJoss Stone
+p6197
+(Vfemale
+p6198
+g3
+tp6199
+sVThe Weeknd
+p6200
+(Vmale
+p6201
+g200
+tp6202
+sVDillon Francis
+p6203
+(Vmale
+p6204
+g18
+tp6205
+sVWild Child
+p6206
+(NNtp6207
+sVGavin James
+p6208
+(Vmale
+p6209
+g31
+tp6210
+sVJoan Jett
+p6211
+(Vfemale
+p6212
+g3
+tp6213
+sVGary Moore
+p6214
+(Vmale
+p6215
+g3
+tp6216
+sVThe Wonder Years
+p6217
+(Vmale
+p6218
+g3
+tp6219
+sVJay Sean
+p6220
+(Vmale
+p6221
+g3
+tp6222
+sVG-Eazy
+p6223
+(Vmale
+p6224
+g18
+tp6225
+sVRazorlight
+p6226
+(Vmale
+p6227
+g3
+tp6228
+sVRoberto Carlos
+p6229
+(Vmale
+p6230
+g31
+tp6231
+sVOscar and the Wolf
+p6232
+(Vmale
+p6233
+g1260
+tp6234
+sVTeddybears
+p6235
+(Vmale
+p6236
+g3
+tp6237
+sVEminem
+p6238
+(Vmale
+p6239
+g200
+tp6240
+sVJuju
+p6241
+(NNtp6242
+sVDiplo
+p6243
+(Vmale
+p6244
+g200
+tp6245
+sVDarius Rucker
+p6246
+(Vmale
+p6247
+g31
+tp6248
+sVMarlon Roudette
+p6249
+(Vmale
+p6250
+g31
+tp6251
+sVDaniel Johnston
+p6252
+(Vmale
+p6253
+g3
+tp6254
+sVTan Bionica
+p6255
+(NNtp6256
+sVRhodes
+p6257
+(NNtp6258
+sVOs Mutantes
+p6259
+(Vboth
+p6260
+g3
+tp6261
+sVThree Days Grace
+p6262
+(Vmale
+p6263
+g18
+tp6264
+sVThe Beatles
+p6265
+(Vmale
+p6266
+g18
+tp6267
+sVAriana Grande
+p6268
+(Vfemale
+p6269
+g200
+tp6270
+sVRiton
+p6271
+(Vmale
+p6272
+g11
+tp6273
+sVAntônio Carlos Jobim
+p6274
+(Vmale
+p6275
+g11
+tp6276
+sVEDX
+p6277
+(Vmale
+p6278
+g3
+tp6279
+sVJoJo
+p6280
+(Vfemale
+p6281
+g31
+tp6282
+sVCriolo
+p6283
+(Vmale
+p6284
+g3
+tp6285
+sV4minute
+p6286
+(NNtp6287
+sVXavier Rudd
+p6288
+(Vmale
+p6289
+g3
+tp6290
+sVWire
+p6291
+(NNtp6292
+sVThe Sonics
+p6293
+(Vmale
+p6294
+g3
+tp6295
+sVIs Tropical
+p6296
+(Vmale
+p6297
+g3
+tp6298
+sVRóisín Murphy
+p6299
+(Vfemale
+p6300
+g3
+tp6301
+sVFoxygen
+p6302
+(Vmale
+p6303
+g3
+tp6304
+sVBlind Melon
+p6305
+(Vmale
+p6306
+g3
+tp6307
+sVEXILE
+p6308
+(Vmale
+p6309
+g18
+tp6310
+sV10cc
+p6311
+(Vmale
+p6312
+g3
+tp6313
+sVNicky Jam
+p6314
+(Vmale
+p6315
+g200
+tp6316
+sVBeyoncé
+p6317
+(Vfemale
+p6318
+g18
+tp6319
+sVAlabama Shakes
+p6320
+(Vboth
+p6321
+g18
+tp6322
+sVBoyz II Men
+p6323
+(Vmale
+p6324
+g3
+tp6325
+sVKATO
+p6326
+(Vfemale
+p6327
+g31
+tp6328
+sVCrazy Town
+p6329
+(NNtp6330
+sVLos Campesinos!
+p6331
+(Vboth
+p6332
+g3
+tp6333
+sVTinashe
+p6334
+(Vmale
+p6335
+g31
+tp6336
+sVHilltop Hoods
+p6337
+(NNtp6338
+sVThe Dead Weather
+p6339
+(Vboth
+p6340
+g31
+tp6341
+sVKlaus Badelt
+p6342
+(Vmale
+p6343
+g3
+tp6344
+sVCamera Obscura
+p6345
+(Vboth
+p6346
+g3
+tp6347
+sVJamie Cullum
+p6348
+(Vmale
+p6349
+g3
+tp6350
+sVGriz
+p6351
+(Vmale
+p6352
+g3
+tp6353
+sVThe Cure
+p6354
+(Vmale
+p6355
+g31
+tp6356
+sVSnow Patrol
+p6357
+(Vmale
+p6358
+g31
+tp6359
+sVRelient K
+p6360
+(Vmale
+p6361
+g3
+tp6362
+sVThe Alan Parsons Project
+p6363
+(NNtp6364
+sVUltravox
+p6365
+(Vmale
+p6366
+g3
+tp6367
+sVCarla Bruni
+p6368
+(Vfemale
+p6369
+g3
+tp6370
+sVPoets of the Fall
+p6371
+(Vmale
+p6372
+g3
+tp6373
+sVAu Revoir Simone
+p6374
+(Vfemale
+p6375
+g3
+tp6376
+sVHermitude
+p6377
+(NNtp6378
+sVSophie Ellis-Bextor
+p6379
+(Vfemale
+p6380
+g136
+tp6381
+sVMetallica
+p6382
+(Vmale
+p6383
+g18
+tp6384
+sVAmorphis
+p6385
+(Vmale
+p6386
+g3
+tp6387
+sV\u0401\u043b\u043a\u0430
+p6388
+(NNtp6389
+sVJesse & Joy
+p6390
+(Vmale
+p6391
+g1881
+tp6392
+sVBehemoth
+p6393
+(Vmale
+p6394
+g3
+tp6395
+sVJewel
+p6396
+(Vfemale
+p6397
+g3
+tp6398
+sVCassius
+p6399
+(Vmale
+p6400
+g3
+tp6401
+sVMeghan Trainor
+p6402
+(Vfemale
+p6403
+g200
+tp6404
+sVPeter Tosh
+p6405
+(Vmale
+p6406
+g3
+tp6407
+sVSt. Germain
+p6408
+(Vmale
+p6409
+g3
+tp6410
+sVUncle Acid & the Deadbeats
+p6411
+(NNtp6412
+sVPitbull
+p6413
+(Vmale
+p6414
+g200
+tp6415
+sVGhost Loft
+p6416
+(Vmale
+p6417
+g3
+tp6418
+sVDJ Mustard
+p6419
+(Vmale
+p6420
+g3
+tp6421
+sVDVSN
+p6422
+(NNtp6423
+sVSelah Sue
+p6424
+(Vfemale
+p6425
+g3
+tp6426
+sV\u0421\u043f\u043b\u0438\u043d
+p6427
+(NNtp6428
+sVLethal Bizzle
+p6429
+(Vmale
+p6430
+g31
+tp6431
+sVErlend Øye
+p6432
+(Vmale
+p6433
+g3
+tp6434
+sVD.A.M.A.
+p6435
+(NNtp6436
+sVThe Buggles
+p6437
+(NNtp6438
+sVLeague of Legends
+p6439
+(NNtp6440
+sVEagle-Eye Cherry
+p6441
+(Vmale
+p6442
+g11
+tp6443
+sVJames Arthur
+p6444
+(Vmale
+p6445
+g31
+tp6446
+sVNate Ruess
+p6447
+(Vmale
+p6448
+g31
+tp6449
+sVMarina Kaye
+p6450
+(Vfemale
+p6451
+g471
+tp6452
+sVFerry Corsten
+p6453
+(Vmale
+p6454
+g3
+tp6455
+sVSebastiAn
+p6456
+(Vmale
+p6457
+g185
+tp6458
+sVGloria Gaynor
+p6459
+(Vfemale
+p6460
+g11
+tp6461
+sVPuddle of Mudd
+p6462
+(Vmale
+p6463
+g3
+tp6464
+sVA Place to Bury Strangers
+p6465
+(Vmale
+p6466
+g3
+tp6467
+sVAnnie Lennox
+p6468
+(Vfemale
+p6469
+g31
+tp6470
+sVDiana Ross
+p6471
+(Vfemale
+p6472
+g3
+tp6473
+sVHinds
+p6474
+(NNtp6475
+sVGardiner Sisters
+p6476
+(NNtp6477
+sVNico
+p6478
+(Vmale
+p6479
+g11
+tp6480
+sVCarlos Vives
+p6481
+(Vmale
+p6482
+g18
+tp6483
+sVJustin Timberlake
+p6484
+(Vmale
+p6485
+g18
+tp6486
+sVSak Noel
+p6487
+(Vmale
+p6488
+g31
+tp6489
+sVBrian Fallon
+p6490
+(Vmale
+p6491
+g3
+tp6492
+sVBen Lee
+p6493
+(Vmale
+p6494
+g3
+tp6495
+sVLena
+p6496
+(Vfemale
+p6497
+g471
+tp6498
+sVBelinda Carlisle
+p6499
+(Vfemale
+p6500
+g3
+tp6501
+sVMelendi
+p6502
+(Vmale
+p6503
+g31
+tp6504
+sVChrome Sparks
+p6505
+(Vmale
+p6506
+g3
+tp6507
+sVAkon
+p6508
+(Vmale
+p6509
+g18
+tp6510
+sVKarol Conka
+p6511
+(Vfemale
+p6512
+g11
+tp6513
+sVEisbrecher
+p6514
+(NNtp6515
+sVCéline Dion
+p6516
+(Vfemale
+p6517
+g18
+tp6518
+sVTove Styrke
+p6519
+(Vfemale
+p6520
+g3
+tp6521
+sVRodrigo Amarante
+p6522
+(Vmale
+p6523
+g3
+tp6524
+sVRameses B
+p6525
+(Vmale
+p6526
+g11
+tp6527
+sVKilling Joke
+p6528
+(Vmale
+p6529
+g3
+tp6530
+sVWhite Town
+p6531
+(Vmale
+p6532
+g3
+tp6533
+sVSorriso Maroto
+p6534
+(Vmale
+p6535
+g31
+tp6536
+sVFlorence + The Machine
+p6537
+(Vfemale
+p6538
+g200
+tp6539
+sVLagwagon
+p6540
+(Vmale
+p6541
+g3
+tp6542
+sVDjango Reinhardt
+p6543
+(Vmale
+p6544
+g3
+tp6545
+sVGregory Alan Isakov
+p6546
+(Vmale
+p6547
+g3
+tp6548
+sVGhostface Killah
+p6549
+(Vmale
+p6550
+g3
+tp6551
+sVThe 69 Eyes
+p6552
+(NNtp6553
+sVDance With The Dead
+p6554
+(NNtp6555
+sVYelaWolf
+p6556
+(Vmale
+p6557
+g31
+tp6558
+sVKim Carnes
+p6559
+(Vfemale
+p6560
+g3
+tp6561
+sVWhoMadeWho
+p6562
+(NNtp6563
+sVShaan
+p6564
+(Vmale
+p6565
+g31
+tp6566
+sVMaria Mena
+p6567
+(Vfemale
+p6568
+g31
+tp6569
+sVRobert DeLong
+p6570
+(Vmale
+p6571
+g3
+tp6572
+sVNicky Romero
+p6573
+(Vmale
+p6574
+g3
+tp6575
+sVSeafret
+p6576
+(NNtp6577
+sVTitle Fight
+p6578
+(Vmale
+p6579
+g3
+tp6580
+sVThe Notorious B.I.G.
+p6581
+(Vmale
+p6582
+g18
+tp6583
+sVMadeon
+p6584
+(Vmale
+p6585
+g31
+tp6586
+sVSleeping at Last
+p6587
+(Vmale
+p6588
+g3
+tp6589
+sV\u5f35\u656c\u8ed2
+p6590
+(Vmale
+p6591
+g185
+tp6592
+sVHoly Other
+p6593
+(Vmale
+p6594
+g3
+tp6595
+sVThe Word Alive
+p6596
+(Vmale
+p6597
+g3
+tp6598
+sVYG
+p6599
+(Vmale
+p6600
+g3
+tp6601
+sVThe Police
+p6602
+(Vmale
+p6603
+g31
+tp6604
+sVThe Stranglers
+p6605
+(Vmale
+p6606
+g3
+tp6607
+sVDead Can Dance
+p6608
+(Vboth
+p6609
+g3
+tp6610
+sVBad Brains
+p6611
+(Vmale
+p6612
+g3
+tp6613
+sVDallas Smith
+p6614
+(Vmale
+p6615
+g31
+tp6616
+sVJulianna Barwick
+p6617
+(Vfemale
+p6618
+g3
+tp6619
+sVMarcus Marr
+p6620
+(Vmale
+p6621
+g3
+tp6622
+sVAfrojack
+p6623
+(Vmale
+p6624
+g18
+tp6625
+sV2Cellos
+p6626
+(Vmale
+p6627
+g31
+tp6628
+sVFar East Movement
+p6629
+(Vmale
+p6630
+g3
+tp6631
+sVDanny Saucedo
+p6632
+(Vmale
+p6633
+g18
+tp6634
+sVThe Vines
+p6635
+(Vmale
+p6636
+g3
+tp6637
+sVEVE 6
+p6638
+(Vmale
+p6639
+g3
+tp6640
+sVDasoul
+p6641
+(Vmale
+p6642
+g31
+tp6643
+sVTaking Back Sunday
+p6644
+(Vmale
+p6645
+g3
+tp6646
+sVGuster
+p6647
+(Vmale
+p6648
+g3
+tp6649
+sVPaul Oakenfold
+p6650
+(Vmale
+p6651
+g3
+tp6652
+sVThe Ramones
+p6653
+(Vmale
+p6654
+g18
+tp6655
+sVTen Walls
+p6656
+(Vmale
+p6657
+g31
+tp6658
+sVScott Walker
+p6659
+(Vmale
+p6660
+g3
+tp6661
+sVCradle of Filth
+p6662
+(Vmale
+p6663
+g3
+tp6664
+sVGhost
+p6665
+(NNtp6666
+sVMoguai
+p6667
+(NNtp6668
+sVRotting Christ
+p6669
+(NNtp6670
+sVSynapson
+p6671
+(NNtp6672
+sVHudson Mohawke
+p6673
+(Vmale
+p6674
+g3
+tp6675
+sVBlue Foundation
+p6676
+(NNtp6677
+sV\u90a3\u82f1
+p6678
+(Vfemale
+p6679
+g185
+tp6680
+sVSander van Doorn
+p6681
+(Vmale
+p6682
+g31
+tp6683
+sVVicetone
+p6684
+(NNtp6685
+sVSG Lewis
+p6686
+(Vmale
+p6687
+g3
+tp6688
+sVTesseracT
+p6689
+(Vmale
+p6690
+g3
+tp6691
+sVX Ambassadors
+p6692
+(NNtp6693
+sVNEEDTOBREATHE
+p6694
+(Vmale
+p6695
+g3
+tp6696
+sVKimbra
+p6697
+(Vfemale
+p6698
+g3
+tp6699
+sVOne Direction
+p6700
+(Vmale
+p6701
+g200
+tp6702
+sVProtest the Hero
+p6703
+(Vmale
+p6704
+g3
+tp6705
+sVIsbells
+p6706
+(Vmale
+p6707
+g3
+tp6708
+sVShawn Mendes
+p6709
+(Vmale
+p6710
+g200
+tp6711
+sVClap Your Hands Say Yeah
+p6712
+(Vmale
+p6713
+g3
+tp6714
+sV5 Seconds of Summer
+p6715
+(Vmale
+p6716
+g3
+tp6717
+sVStreetlight Manifesto
+p6718
+(Vmale
+p6719
+g3
+tp6720
+sVBuckethead
+p6721
+(Vmale
+p6722
+g3
+tp6723
+sVBlue October
+p6724
+(Vmale
+p6725
+g3
+tp6726
+sVGonzales
+p6727
+(NNtp6728
+sVPentatonix
+p6729
+(NNtp6730
+sVMikky Ekko
+p6731
+(Vmale
+p6732
+g3
+tp6733
+sVHoly Ghost!
+p6734
+(Vmale
+p6735
+g3
+tp6736
+sVNick Mulvey
+p6737
+(Vmale
+p6738
+g3
+tp6739
+sVHellberg
+p6740
+(NNtp6741
+sVTina Arena
+p6742
+(Vfemale
+p6743
+g31
+tp6744
+sVSevendust
+p6745
+(Vmale
+p6746
+g3
+tp6747
+sVJoanna Newsom
+p6748
+(Vfemale
+p6749
+g3
+tp6750
+sVKate Boy
+p6751
+(Vboth
+p6752
+g3
+tp6753
+sVRAC
+p6754
+(Vmale
+p6755
+g3
+tp6756
+sVSarah Connor
+p6757
+(Vfemale
+p6758
+g18
+tp6759
+sVChris Stapleton
+p6760
+(Vmale
+p6761
+g31
+tp6762
+sVQuantic
+p6763
+(Vmale
+p6764
+g3
+tp6765
+sVPenguin Prison
+p6766
+(Vmale
+p6767
+g3
+tp6768
+sVSoprano
+p6769
+(Vmale
+p6770
+g18
+tp6771
+sVBette Midler
+p6772
+(Vfemale
+p6773
+g31
+tp6774
+sVThe Pointer Sisters
+p6775
+(Vfemale
+p6776
+g3
+tp6777
+sVTonight Alive
+p6778
+(Vboth
+p6779
+g3
+tp6780
+sVDeorro
+p6781
+(Vmale
+p6782
+g18
+tp6783
+sVMike Posner
+p6784
+(Vmale
+p6785
+g18
+tp6786
+sVU137
+p6787
+(NNtp6788
+sVMylène Farmer
+p6789
+(Vfemale
+p6790
+g18
+tp6791
+sVSergei Rachmaninoff
+p6792
+(Vmale
+p6793
+g11
+tp6794
+sVPhilipp Dittberner
+p6795
+(Vmale
+p6796
+g185
+tp6797
+sVCam
+p6798
+(Vmale
+p6799
+g1260
+tp6800
+sVFloating Points
+p6801
+(Vmale
+p6802
+g3
+tp6803
+sVSeu Jorge
+p6804
+(Vmale
+p6805
+g3
+tp6806
+sVDelta Goodrem
+p6807
+(Vfemale
+p6808
+g31
+tp6809
+sVRobin
+p6810
+(NNtp6811
+sVRae Morris
+p6812
+(Vmale
+p6813
+g3
+tp6814
+sVLondon Grammar
+p6815
+(Vboth
+p6816
+g31
+tp6817
+sVMoodymann
+p6818
+(Vmale
+p6819
+g3
+tp6820
+sVChristine and the Queens
+p6821
+(Vfemale
+p6822
+g200
+tp6823
+sVMarlena Shaw
+p6824
+(Vfemale
+p6825
+g3
+tp6826
+sVKollektiv Turmstrasse
+p6827
+(NNtp6828
+sVChayanne
+p6829
+(Vmale
+p6830
+g31
+tp6831
+sVSkank
+p6832
+(NNtp6833
+sVInsomnium
+p6834
+(NNtp6835
+sVSparklehorse
+p6836
+(Vmale
+p6837
+g3
+tp6838
+sVKevin Morby
+p6839
+(Vmale
+p6840
+g3
+tp6841
+sVKing Charles
+p6842
+(Vmale
+p6843
+g3
+tp6844
+sVInner Circle
+p6845
+(NNtp6846
+sVBoyce Avenue
+p6847
+(Vmale
+p6848
+g3
+tp6849
+sVFeder
+p6850
+(NNtp6851
+sVKaren O
+p6852
+(Vfemale
+p6853
+g3
+tp6854
+sVLouane
+p6855
+(Vfemale
+p6856
+g18
+tp6857
+sVUriah Heep
+p6858
+(Vmale
+p6859
+g3
+tp6860
+sVFedez
+p6861
+(Vmale
+p6862
+g18
+tp6863
+sVTeebs
+p6864
+(Vmale
+p6865
+g3
+tp6866
+sVHigh Highs
+p6867
+(NNtp6868
+sVJohnny Flynn
+p6869
+(Vmale
+p6870
+g3
+tp6871
+sVMichael Nyman
+p6872
+(Vmale
+p6873
+g3
+tp6874
+sV\u0410\u043a\u0432\u0430\u0440\u0438\u0443\u043c
+p6875
+(NNtp6876
+sVAtif Aslam
+p6877
+(Vmale
+p6878
+g18
+tp6879
+sVDarkstar
+p6880
+(Vmale
+p6881
+g3
+tp6882
+sVThe Subways
+p6883
+(Vboth
+p6884
+g3
+tp6885
+sVO.S.T.R.
+p6886
+(Vmale
+p6887
+g11
+tp6888
+sVsjowgren
+p6889
+(NNtp6890
+sVModern Talking
+p6891
+(Vmale
+p6892
+g3
+tp6893
+sVBelle and Sebastian
+p6894
+(Vboth
+p6895
+g31
+tp6896
+sVSarah Vaughan
+p6897
+(Vfemale
+p6898
+g3
+tp6899
+sVChris de Burgh
+p6900
+(Vmale
+p6901
+g3
+tp6902
+sVDenzel Curry
+p6903
+(NNtp6904
+sVEnslaved
+p6905
+(NNtp6906
+sVBastille
+p6907
+(NNtp6908
+sVHilary Duff
+p6909
+(Vfemale
+p6910
+g3
+tp6911
+sVAb-Soul
+p6912
+(Vmale
+p6913
+g3
+tp6914
+sVJohnny Cash
+p6915
+(Vmale
+p6916
+g31
+tp6917
+sVSlow Magic
+p6918
+(Vmale
+p6919
+g3
+tp6920
+sVLanghorne Slim
+p6921
+(Vmale
+p6922
+g3
+tp6923
+sVTheophilus London
+p6924
+(Vmale
+p6925
+g3
+tp6926
+sVHillsong United
+p6927
+(NNtp6928
+sVBenny Goodman
+p6929
+(Vmale
+p6930
+g3
+tp6931
+sVThe Staple Singers
+p6932
+(Vboth
+p6933
+g3
+tp6934
+sVLow Roar
+p6935
+(Vmale
+p6936
+g3
+tp6937
+sVMiguel
+p6938
+(Vmale
+p6939
+g31
+tp6940
+sVDevin Townsend
+p6941
+(Vmale
+p6942
+g3
+tp6943
+sVKakkmaddafakka
+p6944
+(NNtp6945
+sVJames Newton Howard
+p6946
+(Vmale
+p6947
+g31
+tp6948
+sVThe Smashing Pumpkins
+p6949
+(NNtp6950
+sVLacuna Coil
+p6951
+(Vboth
+p6952
+g3
+tp6953
+sVJessie J
+p6954
+(Vfemale
+p6955
+g200
+tp6956
+sVBand of Skulls
+p6957
+(Vboth
+p6958
+g3
+tp6959
+sVJulie London
+p6960
+(Vfemale
+p6961
+g3
+tp6962
+sVAndreas Bourani
+p6963
+(Vmale
+p6964
+g18
+tp6965
+sVNautilus Pompilius
+p6966
+(NNtp6967
+sVThe Script
+p6968
+(Vmale
+p6969
+g31
+tp6970
+sVToploader
+p6971
+(Vmale
+p6972
+g3
+tp6973
+sVAlien Ant Farm
+p6974
+(Vmale
+p6975
+g3
+tp6976
+sVNujabes
+p6977
+(Vmale
+p6978
+g3
+tp6979
+sVFelix Jaehn
+p6980
+(Vmale
+p6981
+g200
+tp6982
+sVLamb
+p6983
+(NNtp6984
+sVSymphony X
+p6985
+(NNtp6986
+sVTarja
+p6987
+(Vfemale
+p6988
+g3
+tp6989
+sVGotye
+p6990
+(Vmale
+p6991
+g18
+tp6992
+sVDestroyer
+p6993
+(Vmale
+p6994
+g3
+tp6995
+sVTom Rosenthal
+p6996
+(Vmale
+p6997
+g3
+tp6998
+sVK3
+p6999
+(Vboth
+p7000
+g31
+tp7001
+sVYears & Years
+p7002
+(NNtp7003
+sVCampsite Dream
+p7004
+(NNtp7005
+sVDream Koala
+p7006
+(Vmale
+p7007
+g3
+tp7008
+sVSwitchfoot
+p7009
+(Vmale
+p7010
+g3
+tp7011
+sVLostprophets
+p7012
+(Vmale
+p7013
+g3
+tp7014
+sVWarrant
+p7015
+(Vmale
+p7016
+g3
+tp7017
+sVGigi D'Agostino
+p7018
+(Vmale
+p7019
+g185
+tp7020
+sVVampire Weekend
+p7021
+(Vmale
+p7022
+g31
+tp7023
+sVBoris
+p7024
+(Vmale
+p7025
+g3
+tp7026
+sVDevin Townsend Project
+p7027
+(Vboth
+p7028
+g3
+tp7029
+sVElina Born
+p7030
+(Vfemale
+p7031
+g185
+tp7032
+sVCollective Soul
+p7033
+(Vmale
+p7034
+g3
+tp7035
+sVWild Belle
+p7036
+(Vboth
+p7037
+g3
+tp7038
+sVSonny Alven
+p7039
+(Vmale
+p7040
+g3
+tp7041
+sVCirca Waves
+p7042
+(Vmale
+p7043
+g3
+tp7044
+sVBednarek
+p7045
+(NNtp7046
+sVMatchbox Twenty
+p7047
+(Vmale
+p7048
+g3
+tp7049
+sVPanic! At the Disco
+p7050
+(Vmale
+p7051
+g18
+tp7052
+sVWolf Parade
+p7053
+(Vmale
+p7054
+g3
+tp7055
+sVIllenium
+p7056
+(NNtp7057
+sVOf Mice & Men
+p7058
+(Vmale
+p7059
+g3
+tp7060
+sVWings
+p7061
+(Vboth
+p7062
+g3
+tp7063
+sVTimber Timbre
+p7064
+(Vboth
+p7065
+g3
+tp7066
+sVPaul Weller
+p7067
+(Vmale
+p7068
+g3
+tp7069
+sVDonavon Frankenreiter
+p7070
+(Vmale
+p7071
+g3
+tp7072
+sVVic Mensa
+p7073
+(Vmale
+p7074
+g3
+tp7075
+sVModà
+p7076
+(Vmale
+p7077
+g18
+tp7078
+sVFlorida Georgia Line
+p7079
+(Vmale
+p7080
+g18
+tp7081
+sVTritonal
+p7082
+(NNtp7083
+sVKanye West
+p7084
+(Vmale
+p7085
+g18
+tp7086
+sVCurren$y
+p7087
+(Vmale
+p7088
+g3
+tp7089
+sVA Great Big World
+p7090
+(Vmale
+p7091
+g18
+tp7092
+sVSBTRKT
+p7093
+(Vmale
+p7094
+g31
+tp7095
+sVKK
+p7096
+(NNtp7097
+sVOld Dominion
+p7098
+(NNtp7099
+sVKali Uchis
+p7100
+(Vfemale
+p7101
+g11
+tp7102
+sVBowling for Soup
+p7103
+(Vmale
+p7104
+g3
+tp7105
+sVBOLIER
+p7106
+(Vmale
+p7107
+g11
+tp7108
+sVG.E.M.
+p7109
+(NNtp7110
+sVCornershop
+p7111
+(Vmale
+p7112
+g3
+tp7113
+sVGil Scott-Heron
+p7114
+(Vmale
+p7115
+g136
+tp7116
+sVAAA
+p7117
+(NNtp7118
+sVLaura Mvula
+p7119
+(Vfemale
+p7120
+g3
+tp7121
+sVWestlife
+p7122
+(Vmale
+p7123
+g3
+tp7124
+sVCass McCombs
+p7125
+(Vmale
+p7126
+g3
+tp7127
+sVRyan Adams
+p7128
+(Vmale
+p7129
+g31
+tp7130
+sVDelerium
+p7131
+(Vmale
+p7132
+g3
+tp7133
+sVRita Ora
+p7134
+(Vfemale
+p7135
+g18
+tp7136
+sVEverything But the Girl
+p7137
+(Vboth
+p7138
+g3
+tp7139
+sVPierce Fulton
+p7140
+(NNtp7141
+sVBill Evans
+p7142
+(Vmale
+p7143
+g3
+tp7144
+sVNatalie Cole
+p7145
+(Vfemale
+p7146
+g3
+tp7147
+sVMiranda Lambert
+p7148
+(Vfemale
+p7149
+g3
+tp7150
+sVEwert and The Two Dragons
+p7151
+(NNtp7152
+sVThe Bravery
+p7153
+(Vmale
+p7154
+g3
+tp7155
+sVJohn Legend
+p7156
+(Vmale
+p7157
+g200
+tp7158
+sVShowtek
+p7159
+(Vmale
+p7160
+g3
+tp7161
+sVHow to Destroy Angels
+p7162
+(Vboth
+p7163
+g3
+tp7164
+sVSolomon Burke
+p7165
+(Vmale
+p7166
+g3
+tp7167
+sVHadouken!
+p7168
+(NNtp7169
+sVEric Prydz
+p7170
+(Vmale
+p7171
+g18
+tp7172
+sVBronski Beat
+p7173
+(Vmale
+p7174
+g3
+tp7175
+sVMacklemore & Ryan Lewis
+p7176
+(Vmale
+p7177
+g200
+tp7178
+sVThe Barr Brothers
+p7179
+(NNtp7180
+sVMcCoy Tyner
+p7181
+(Vmale
+p7182
+g3
+tp7183
+sVDinah Washington
+p7184
+(Vfemale
+p7185
+g3
+tp7186
+sVRick Springfield
+p7187
+(Vmale
+p7188
+g3
+tp7189
+sVElectric Six
+p7190
+(Vmale
+p7191
+g3
+tp7192
+sVFuneral for a Friend
+p7193
+(Vmale
+p7194
+g3
+tp7195
+sVGirls' Generation-TTS
+p7196
+(NNtp7197
+sVBig Sean
+p7198
+(Vmale
+p7199
+g18
+tp7200
+sVBishop
+p7201
+(NNtp7202
+sVFleshgod Apocalypse
+p7203
+(Vmale
+p7204
+g3
+tp7205
+sVThe Jacksons
+p7206
+(Vmale
+p7207
+g3
+tp7208
+sVDeafheaven
+p7209
+(Vmale
+p7210
+g31
+tp7211
+sVFababy
+p7212
+(Vmale
+p7213
+g31
+tp7214
+sVZeca Pagodinho
+p7215
+(Vmale
+p7216
+g31
+tp7217
+sVmiwa
+p7218
+(Vfemale
+p7219
+g31
+tp7220
+sVHammerFall
+p7221
+(NNtp7222
+sVPhil Collins
+p7223
+(Vmale
+p7224
+g18
+tp7225
+sVPanda Bear
+p7226
+(Vmale
+p7227
+g3
+tp7228
+sVWilkinson
+p7229
+(Vmale
+p7230
+g3
+tp7231
+sVAction Bronson
+p7232
+(Vmale
+p7233
+g3
+tp7234
+sVWaldeck
+p7235
+(Vmale
+p7236
+g3
+tp7237
+sVLadytron
+p7238
+(Vboth
+p7239
+g3
+tp7240
+sVDe La Soul
+p7241
+(Vmale
+p7242
+g3
+tp7243
+sVDJ Fresh
+p7244
+(Vmale
+p7245
+g3
+tp7246
+sVNathaniel Rateliff & the Night Sweats
+p7247
+(Vmale
+p7248
+g136
+tp7249
+sVThe Sisters of Mercy
+p7250
+(Vboth
+p7251
+g3
+tp7252
+sVBeacon
+p7253
+(NNtp7254
+sVRufus Wainwright
+p7255
+(Vmale
+p7256
+g3
+tp7257
+sVGold Panda
+p7258
+(Vmale
+p7259
+g3
+tp7260
+sVSufjan Stevens
+p7261
+(Vmale
+p7262
+g31
+tp7263
+sVWham!
+p7264
+(Vmale
+p7265
+g18
+tp7266
+sVThe Avett Brothers
+p7267
+(Vmale
+p7268
+g3
+tp7269
+sVLacrim
+p7270
+(Vmale
+p7271
+g31
+tp7272
+sVThe Mighty Mighty Bosstones
+p7273
+(Vmale
+p7274
+g3
+tp7275
+sVAlexandra Stan
+p7276
+(Vfemale
+p7277
+g18
+tp7278
+sVPrimus
+p7279
+(Vmale
+p7280
+g3
+tp7281
+sVDan + Shay
+p7282
+(Vmale
+p7283
+g31
+tp7284
+sVFergie
+p7285
+(Vfemale
+p7286
+g31
+tp7287
+sVImmortal
+p7288
+(NNtp7289
+sVRed Velvet
+p7290
+(NNtp7291
+sVChief Keef
+p7292
+(Vmale
+p7293
+g3
+tp7294
+sVIsrael Kamakawiwo'ole
+p7295
+(Vmale
+p7296
+g3
+tp7297
+sVAt the Drive-In
+p7298
+(NNtp7299
+sVThe Gaslight Anthem
+p7300
+(Vmale
+p7301
+g3
+tp7302
+sVYael Naim
+p7303
+(Vfemale
+p7304
+g136
+tp7305
+sVBastian Baker
+p7306
+(Vmale
+p7307
+g31
+tp7308
+sVJessie Ware
+p7309
+(Vfemale
+p7310
+g31
+tp7311
+sVDJ Snake
+p7312
+(Vmale
+p7313
+g200
+tp7314
+sVTobtok
+p7315
+(NNtp7316
+sVKelly Rowland
+p7317
+(Vfemale
+p7318
+g3
+tp7319
+sVZara Larsson
+p7320
+(Vfemale
+p7321
+g1183
+tp7322
+sVThe Drifters
+p7323
+(Vmale
+p7324
+g3
+tp7325
+sVHalsey
+p7326
+(Vfemale
+p7327
+g200
+tp7328
+sVSlow Club
+p7329
+(Vboth
+p7330
+g3
+tp7331
+sVC\u0153ur de Pirate
+p7332
+(Vfemale
+p7333
+g11
+tp7334
+sVChef'Special
+p7335
+(Vmale
+p7336
+g3
+tp7337
+sVtoe
+p7338
+(NNtp7339
+sVSatyricon
+p7340
+(Vmale
+p7341
+g3
+tp7342
+sVJoan Sebastian
+p7343
+(Vmale
+p7344
+g31
+tp7345
+sVZoe
+p7346
+(Vfemale
+p7347
+g31
+tp7348
+sVAoife O'Donovan
+p7349
+(Vfemale
+p7350
+g3
+tp7351
+sVFedde Le Grand
+p7352
+(Vmale
+p7353
+g3
+tp7354
+sVSheryl Crow
+p7355
+(Vfemale
+p7356
+g31
+tp7357
+sVElvis Presley
+p7358
+(Vmale
+p7359
+g18
+tp7360
+sVRachel Platten
+p7361
+(Vfemale
+p7362
+g200
+tp7363
+sVRupert Holmes
+p7364
+(Vmale
+p7365
+g3
+tp7366
+sVAurora
+p7367
+(Vfemale
+p7368
+g1881
+tp7369
+sVBuddy Guy
+p7370
+(Vmale
+p7371
+g3
+tp7372
+sVEzra Furman
+p7373
+(Vmale
+p7374
+g136
+tp7375
+sVIced Earth
+p7376
+(Vmale
+p7377
+g3
+tp7378
+sVDe-Phazz
+p7379
+(NNtp7380
+sVArms and Sleepers
+p7381
+(NNtp7382
+sVJedi Mind Tricks
+p7383
+(Vmale
+p7384
+g3
+tp7385
+sVThe Presidents of the United States of America
+p7386
+(Vmale
+p7387
+g3
+tp7388
+sVMystery Jets
+p7389
+(Vmale
+p7390
+g3
+tp7391
+sVGranger Smith
+p7392
+(Vmale
+p7393
+g31
+tp7394
+sVWe Came As Romans
+p7395
+(Vmale
+p7396
+g3
+tp7397
+sVIslands
+p7398
+(Vmale
+p7399
+g3
+tp7400
+sVJulia Holter
+p7401
+(Vfemale
+p7402
+g31
+tp7403
+sVThe Rapture
+p7404
+(Vmale
+p7405
+g3
+tp7406
+sVThe Jimi Hendrix Experience
+p7407
+(NNtp7408
+sVLost Frequencies
+p7409
+(Vmale
+p7410
+g1183
+tp7411
+sVThe Dillinger Escape Plan
+p7412
+(Vmale
+p7413
+g3
+tp7414
+sVALTJ
+p7415
+(NNtp7416
+sVMartin Solveig
+p7417
+(Vmale
+p7418
+g200
+tp7419
+sVLane 8
+p7420
+(Vmale
+p7421
+g11
+tp7422
+sVRogue Wave
+p7423
+(Vmale
+p7424
+g3
+tp7425
+sVWoods
+p7426
+(Vmale
+p7427
+g3
+tp7428
+sVZaz
+p7429
+(Vfemale
+p7430
+g18
+tp7431
+sVJames Blake
+p7432
+(Vmale
+p7433
+g31
+tp7434
+sVA Tribe Called Quest
+p7435
+(Vmale
+p7436
+g31
+tp7437
+sVShocking Blue
+p7438
+(Vboth
+p7439
+g3
+tp7440
+sVTFBOYS
+p7441
+(NNtp7442
+sVDizzee Rascal
+p7443
+(Vmale
+p7444
+g3
+tp7445
+sVGreat Lake Swimmers
+p7446
+(Vboth
+p7447
+g3
+tp7448
+sVCocoRosie
+p7449
+(Vfemale
+p7450
+g3
+tp7451
+sVTigers Jaw
+p7452
+(NNtp7453
+sVDawn Landes
+p7454
+(Vfemale
+p7455
+g3
+tp7456
+sVD12
+p7457
+(Vmale
+p7458
+g3
+tp7459
+sVCFCF
+p7460
+(Vmale
+p7461
+g3
+tp7462
+sVGirls
+p7463
+(Vmale
+p7464
+g3
+tp7465
+sVThe Bloody Beetroots
+p7466
+(Vmale
+p7467
+g3
+tp7468
+sVWhite Denim
+p7469
+(Vmale
+p7470
+g3
+tp7471
+sVSoft Cell
+p7472
+(Vmale
+p7473
+g3
+tp7474
+sVThe Walkmen
+p7475
+(Vmale
+p7476
+g3
+tp7477
+sVNothing More
+p7478
+(NNtp7479
+sVMr.Children
+p7480
+(NNtp7481
+sVFool's Garden
+p7482
+(NNtp7483
+sVLos Hermanos
+p7484
+(Vmale
+p7485
+g3
+tp7486
+sVKina Grannis
+p7487
+(Vfemale
+p7488
+g3
+tp7489
+sVThe Hollies
+p7490
+(Vmale
+p7491
+g3
+tp7492
+sVDonny Hathaway
+p7493
+(Vmale
+p7494
+g3
+tp7495
+sVIsac Elliot
+p7496
+(NNtp7497
+sVRay Charles
+p7498
+(Vmale
+p7499
+g31
+tp7500
+sVEdward Maya
+p7501
+(Vmale
+p7502
+g31
+tp7503
+sVDay Wave
+p7504
+(Vmale
+p7505
+g11
+tp7506
+sVAlle Farben
+p7507
+(Vmale
+p7508
+g3
+tp7509
+sVSteel Panther
+p7510
+(Vmale
+p7511
+g3
+tp7512
+sVShreya Ghoshal
+p7513
+(Vfemale
+p7514
+g18
+tp7515
+sVWhitney
+p7516
+(Vfemale
+p7517
+g136
+tp7518
+sVMajor Lazer
+p7519
+(Vmale
+p7520
+g200
+tp7521
+sVCoasts
+p7522
+(NNtp7523
+sVBunbury
+p7524
+(Vmale
+p7525
+g31
+tp7526
+sVJack U
+p7527
+(Vmale
+p7528
+g1260
+tp7529
+sVGianna Nannini
+p7530
+(Vfemale
+p7531
+g31
+tp7532
+sVThe Charlatans
+p7533
+(Vmale
+p7534
+g3
+tp7535
+sVRöyksopp
+p7536
+(Vmale
+p7537
+g18
+tp7538
+sVBathory
+p7539
+(Vmale
+p7540
+g3
+tp7541
+sVFabrizio Paterlini
+p7542
+(Vmale
+p7543
+g3
+tp7544
+sVASIAN KUNG-FU GENERATION
+p7545
+(NNtp7546
+sVFritz Kalkbrenner
+p7547
+(Vmale
+p7548
+g31
+tp7549
+sVMichael Bublé
+p7550
+(Vmale
+p7551
+g18
+tp7552
+sVMariah Carey
+p7553
+(Vfemale
+p7554
+g200
+tp7555
+sVIn This Moment
+p7556
+(Vboth
+p7557
+g3
+tp7558
+sVJohnny Hallyday
+p7559
+(Vmale
+p7560
+g31
+tp7561
+sVRusted Root
+p7562
+(Vmale
+p7563
+g3
+tp7564
+sVGerardo Ortiz
+p7565
+(Vmale
+p7566
+g31
+tp7567
+sVSunidhi Chauhan
+p7568
+(Vfemale
+p7569
+g31
+tp7570
+sVSugababes
+p7571
+(Vfemale
+p7572
+g3
+tp7573
+sVLion Babe
+p7574
+(NNtp7575
+sVFréro Delavega
+p7576
+(NNtp7577
+sVCannonball Adderley
+p7578
+(Vmale
+p7579
+g3
+tp7580
+sVSonic Syndicate
+p7581
+(NNtp7582
+sVTherion
+p7583
+(NNtp7584
+sVFuel
+p7585
+(Vmale
+p7586
+g3
+tp7587
+sVTommy Trash
+p7588
+(Vmale
+p7589
+g31
+tp7590
+sVBlue Stahli
+p7591
+(Vmale
+p7592
+g3
+tp7593
+sVTungevaag & Raaban
+p7594
+(NNtp7595
+sVAmaranthe
+p7596
+(NNtp7597
+sVRemmy Valenzuela
+p7598
+(Vmale
+p7599
+g31
+tp7600
+sVSkunk Anansie
+p7601
+(Vboth
+p7602
+g31
+tp7603
+sVKidnap Kid
+p7604
+(Vmale
+p7605
+g3
+tp7606
+sVSun Kil Moon
+p7607
+(Vmale
+p7608
+g3
+tp7609
+sVDope
+p7610
+(Vmale
+p7611
+g3
+tp7612
+sVJamie T
+p7613
+(Vmale
+p7614
+g3
+tp7615
+sVDevilDriver
+p7616
+(Vmale
+p7617
+g3
+tp7618
+sVLuan Santana
+p7619
+(Vmale
+p7620
+g18
+tp7621
+sVDethklok
+p7622
+(Vmale
+p7623
+g3
+tp7624
+sVMiley Cyrus
+p7625
+(Vfemale
+p7626
+g18
+tp7627
+sVThe Maine
+p7628
+(Vmale
+p7629
+g3
+tp7630
+sVKevin Gates
+p7631
+(Vmale
+p7632
+g3
+tp7633
+sVGin Wigmore
+p7634
+(Vfemale
+p7635
+g31
+tp7636
+sVAronChupa
+p7637
+(Vmale
+p7638
+g18
+tp7639
+sVWhite Lung
+p7640
+(Vboth
+p7641
+g3
+tp7642
+sVKirk Franklin
+p7643
+(Vmale
+p7644
+g31
+tp7645
+sVGiraffage
+p7646
+(Vboth
+p7647
+g3
+tp7648
+sVRide
+p7649
+(Vmale
+p7650
+g3
+tp7651
+sVHippie Sabotage
+p7652
+(Vboth
+p7653
+g3
+tp7654
+sVLinkin Park
+p7655
+(Vmale
+p7656
+g31
+tp7657
+sVTroye Sivan
+p7658
+(Vmale
+p7659
+g18
+tp7660
+sVSharon Jones and the Dap-Kings
+p7661
+(Vfemale
+p7662
+g136
+tp7663
+sVLara Fabian
+p7664
+(Vfemale
+p7665
+g31
+tp7666
+sVDance Gavin Dance
+p7667
+(Vmale
+p7668
+g3
+tp7669
+sVMinnie Riperton
+p7670
+(Vfemale
+p7671
+g3
+tp7672
+sVGrimes
+p7673
+(Vfemale
+p7674
+g18
+tp7675
+sVThe American Dollar
+p7676
+(Vmale
+p7677
+g3
+tp7678
+sVlost kings
+p7679
+(NNtp7680
+sVCity and Colour
+p7681
+(Vmale
+p7682
+g31
+tp7683
+sVRoots Manuva
+p7684
+(Vmale
+p7685
+g3
+tp7686
+sV\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434
+p7687
+(NNtp7688
+sVDJ Cam
+p7689
+(Vmale
+p7690
+g3
+tp7691
+sVSquarepusher
+p7692
+(Vmale
+p7693
+g3
+tp7694
+sV\u0410\u0440\u0438\u044f
+p7695
+(NNtp7696
+sVMatt Nathanson
+p7697
+(Vmale
+p7698
+g3
+tp7699
+sVJordin Sparks
+p7700
+(Vfemale
+p7701
+g3
+tp7702
+sVUnderoath
+p7703
+(NNtp7704
+sVMary J. Blige
+p7705
+(Vfemale
+p7706
+g3
+tp7707
+sVMichael Giacchino
+p7708
+(Vmale
+p7709
+g3
+tp7710
+sVThe Calling
+p7711
+(NNtp7712
+sVBob Sinclar
+p7713
+(Vmale
+p7714
+g31
+tp7715
+sVJennifer Rostock
+p7716
+(Vfemale
+p7717
+g1260
+tp7718
+sVJack Johnson
+p7719
+(Vmale
+p7720
+g31
+tp7721
+sVMidnight Oil
+p7722
+(Vmale
+p7723
+g3
+tp7724
+sVZendaya
+p7725
+(Vfemale
+p7726
+g3
+tp7727
+sVCaravan Palace
+p7728
+(NNtp7729
+sVAgainst Me!
+p7730
+(Vboth
+p7731
+g3
+tp7732
+sVNew Order
+p7733
+(Vboth
+p7734
+g31
+tp7735
+sVFakear
+p7736
+(Vmale
+p7737
+g3
+tp7738
+sVFirst Aid Kit
+p7739
+(Vfemale
+p7740
+g18
+tp7741
+sVPegboard Nerds
+p7742
+(NNtp7743
+sVMarcy Playground
+p7744
+(Vmale
+p7745
+g3
+tp7746
+sVImogen Heap
+p7747
+(Vfemale
+p7748
+g3
+tp7749
+sVTeenage Fanclub
+p7750
+(Vmale
+p7751
+g3
+tp7752
+sVDarius
+p7753
+(Vmale
+p7754
+g3
+tp7755
+sVShe Wants Revenge
+p7756
+(Vmale
+p7757
+g3
+tp7758
+sVBlackbird Blackbird
+p7759
+(NNtp7760
+sVHaywyre
+p7761
+(Vmale
+p7762
+g3
+tp7763
+sVAutechre
+p7764
+(Vmale
+p7765
+g3
+tp7766
+sVBakermat
+p7767
+(Vmale
+p7768
+g31
+tp7769
+sVPanama
+p7770
+(Vmale
+p7771
+g3
+tp7772
+sVmewithoutYou
+p7773
+(Vmale
+p7774
+g3
+tp7775
+sVChris Young
+p7776
+(Vmale
+p7777
+g18
+tp7778
+sVTim Maia
+p7779
+(Vmale
+p7780
+g3
+tp7781
+sVJoan Osborne
+p7782
+(Vfemale
+p7783
+g3
+tp7784
+sVCharlotte Gainsbourg
+p7785
+(Vfemale
+p7786
+g3
+tp7787
+sVDef Leppard
+p7788
+(Vmale
+p7789
+g18
+tp7790
+sVPatrick Wolf
+p7791
+(Vmale
+p7792
+g3
+tp7793
+sVHelloween
+p7794
+(Vmale
+p7795
+g3
+tp7796
+sVYandel
+p7797
+(Vmale
+p7798
+g31
+tp7799
+sVJoão Gilberto
+p7800
+(Vmale
+p7801
+g3
+tp7802
+sV\ud0dc\uc5f0
+p7803
+(NNtp7804
+sVJorge & Mateus
+p7805
+(Vmale
+p7806
+g1881
+tp7807
+sVCreed
+p7808
+(Vmale
+p7809
+g3
+tp7810
+sVScars on Broadway
+p7811
+(Vmale
+p7812
+g3
+tp7813
+sV2NE1
+p7814
+(Vfemale
+p7815
+g31
+tp7816
+sVQuintino
+p7817
+(Vmale
+p7818
+g31
+tp7819
+sVThe Game
+p7820
+(NNtp7821
+sVBomfunk MC's
+p7822
+(NNtp7823
+sVTom Misch
+p7824
+(Vmale
+p7825
+g136
+tp7826
+sVIf These Trees Could Talk
+p7827
+(Vmale
+p7828
+g3
+tp7829
+sVGossip
+p7830
+(Vboth
+p7831
+g3
+tp7832
+sVHellogoodbye
+p7833
+(Vmale
+p7834
+g3
+tp7835
+sVHere We Go Magic
+p7836
+(Vboth
+p7837
+g3
+tp7838
+sVSteve Angello
+p7839
+(Vmale
+p7840
+g18
+tp7841
+sVBleachers
+p7842
+(Vboth
+p7843
+g3
+tp7844
+sVJagwar Ma
+p7845
+(Vmale
+p7846
+g3
+tp7847
+sVManowar
+p7848
+(Vmale
+p7849
+g3
+tp7850
+sVDawn Golden
+p7851
+(Vmale
+p7852
+g11
+tp7853
+sVZedd
+p7854
+(Vmale
+p7855
+g200
+tp7856
+sVThem Crooked Vultures
+p7857
+(Vmale
+p7858
+g3
+tp7859
+sVTaio Cruz
+p7860
+(Vmale
+p7861
+g3
+tp7862
+sVGuano Apes
+p7863
+(NNtp7864
+sVIkon
+p7865
+(Vmale
+p7866
+g31
+tp7867
+sVVanessa Carlton
+p7868
+(Vfemale
+p7869
+g3
+tp7870
+sVSteve Jablonsky
+p7871
+(Vmale
+p7872
+g3
+tp7873
+sV\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442
+p7874
+(NNtp7875
+sVMika
+p7876
+(Vmale
+p7877
+g18
+tp7878
+sVGabriel Rios
+p7879
+(Vmale
+p7880
+g3
+tp7881
+sVDan Auerbach
+p7882
+(Vmale
+p7883
+g3
+tp7884
+sVMélanie Laurent
+p7885
+(Vfemale
+p7886
+g3
+tp7887
+sVRodriguez
+p7888
+(Vmale
+p7889
+g3
+tp7890
+sVMeshuggah
+p7891
+(Vmale
+p7892
+g3
+tp7893
+sVRascal Flatts
+p7894
+(Vmale
+p7895
+g31
+tp7896
+sVLianne La Havas
+p7897
+(Vfemale
+p7898
+g31
+tp7899
+sVJana Kramer
+p7900
+(Vfemale
+p7901
+g18
+tp7902
+sVLes soeurs Boulay
+p7903
+(Vmale
+p7904
+g1260
+tp7905
+sVKate Nash
+p7906
+(Vfemale
+p7907
+g3
+tp7908
+sVLipps, Inc.
+p7909
+(Vboth
+p7910
+g3
+tp7911
+sVWalking On Cars
+p7912
+(NNtp7913
+sVDuran Duran
+p7914
+(Vmale
+p7915
+g31
+tp7916
+sVGabrielle Aplin
+p7917
+(Vfemale
+p7918
+g471
+tp7919
+sVMadeleine Peyroux
+p7920
+(Vfemale
+p7921
+g3
+tp7922
+sVJohnny Nash
+p7923
+(Vmale
+p7924
+g3
+tp7925
+sVAlanis Morissette
+p7926
+(Vfemale
+p7927
+g18
+tp7928
+sVCher Lloyd
+p7929
+(Vfemale
+p7930
+g3
+tp7931
+sVDimitri Vegas and Like Mike
+p7932
+(Vmale
+p7933
+g1881
+tp7934
+sVAlina Baraz
+p7935
+(Vfemale
+p7936
+g3
+tp7937
+sVXandria
+p7938
+(NNtp7939
+sVNorman Greenbaum
+p7940
+(Vmale
+p7941
+g3
+tp7942
+sVDJ Koze
+p7943
+(Vmale
+p7944
+g3
+tp7945
+sVMigos
+p7946
+(Vmale
+p7947
+g3
+tp7948
+sVTori Kelly
+p7949
+(Vfemale
+p7950
+g18
+tp7951
+sV\u5468\u6770\u502b
+p7952
+(NNtp7953
+sVDiddy
+p7954
+(Vmale
+p7955
+g3
+tp7956
+sVMaroon 5
+p7957
+(Vmale
+p7958
+g200
+tp7959
+sVShake Shake Go
+p7960
+(NNtp7961
+sVSyn Cole
+p7962
+(Vfemale
+p7963
+g3
+tp7964
+sVThe Japanese House
+p7965
+(NNtp7966
+sVScooter
+p7967
+(Vmale
+p7968
+g31
+tp7969
+sVCaesars
+p7970
+(Vmale
+p7971
+g3
+tp7972
+sVTracey Chattaway
+p7973
+(Vfemale
+p7974
+g136
+tp7975
+sVNeko Case
+p7976
+(Vfemale
+p7977
+g3
+tp7978
+sVSusanne Sundfør
+p7979
+(Vfemale
+p7980
+g200
+tp7981
+sVChinese Man
+p7982
+(Vmale
+p7983
+g3
+tp7984
+sVThe Avalanches
+p7985
+(Vmale
+p7986
+g3
+tp7987
+sVSimian Mobile Disco
+p7988
+(Vmale
+p7989
+g3
+tp7990
+sVChiddy Bang
+p7991
+(Vmale
+p7992
+g3
+tp7993
+sVSavage Garden
+p7994
+(Vmale
+p7995
+g3
+tp7996
+sVArty
+p7997
+(Vmale
+p7998
+g3
+tp7999
+sVAlexi Murdoch
+p8000
+(Vmale
+p8001
+g3
+tp8002
+sVRosie Lowe
+p8003
+(Vfemale
+p8004
+g3
+tp8005
+sVKvelertak
+p8006
+(Vmale
+p8007
+g3
+tp8008
+sVThe Piano Guys
+p8009
+(NNtp8010
+sVDawin
+p8011
+(Vmale
+p8012
+g471
+tp8013
+sV\u041e\u043a\u0435\u0430\u043d \u0415\u043b\u044c\u0437\u0438
+p8014
+(NNtp8015
+sVGlenn Miller
+p8016
+(Vmale
+p8017
+g3
+tp8018
+sVLabrinth
+p8019
+(Vmale
+p8020
+g18
+tp8021
+sVLata Mangeshkar
+p8022
+(Vfemale
+p8023
+g31
+tp8024
+sVEluveitie
+p8025
+(Vboth
+p8026
+g3
+tp8027
+sVSoilwork
+p8028
+(Vmale
+p8029
+g3
+tp8030
+sVThe O'Jays
+p8031
+(Vmale
+p8032
+g3
+tp8033
+sVmúm
+p8034
+(Vmale
+p8035
+g3
+tp8036
+sVWalk Off The Earth
+p8037
+(Vboth
+p8038
+g18
+tp8039
+sVWale
+p8040
+(Vmale
+p8041
+g31
+tp8042
+sVVengaboys
+p8043
+(NNtp8044
+sVCansei de Ser Sexy
+p8045
+(NNtp8046
+sVSimply Red
+p8047
+(Vmale
+p8048
+g31
+tp8049
+sVShankar Mahadevan
+p8050
+(Vmale
+p8051
+g31
+tp8052
+sVCafé Tacvba
+p8053
+(NNtp8054
+sVBrandi Carlile
+p8055
+(Vfemale
+p8056
+g3
+tp8057
+sVSkylar Grey
+p8058
+(Vfemale
+p8059
+g31
+tp8060
+sVParra for Cuva
+p8061
+(Vmale
+p8062
+g3
+tp8063
+sVEvanescence
+p8064
+(Vboth
+p8065
+g18
+tp8066
+sVGareth Emery
+p8067
+(Vmale
+p8068
+g11
+tp8069
+sVKendji Girac
+p8070
+(Vmale
+p8071
+g18
+tp8072
+sVAnitta
+p8073
+(Vfemale
+p8074
+g18
+tp8075
+sVBauhaus
+p8076
+(Vmale
+p8077
+g3
+tp8078
+sVButthole Surfers
+p8079
+(Vmale
+p8080
+g3
+tp8081
+sVBlackalicious
+p8082
+(Vmale
+p8083
+g3
+tp8084
+sVRustie
+p8085
+(Vmale
+p8086
+g3
+tp8087
+sVTrans-Siberian Orchestra
+p8088
+(NNtp8089
+sVKilo Kish
+p8090
+(Vfemale
+p8091
+g11
+tp8092
+sVDonna Summer
+p8093
+(Vfemale
+p8094
+g3
+tp8095
+sVInto It. Over It.
+p8096
+(Vmale
+p8097
+g3
+tp8098
+sVBelly
+p8099
+(NNtp8100
+sVSons Of Maria
+p8101
+(Vmale
+p8102
+g3
+tp8103
+sVPinegrove
+p8104
+(NNtp8105
+sVMapei
+p8106
+(Vfemale
+p8107
+g31
+tp8108
+sVRyn Weaver
+p8109
+(Vfemale
+p8110
+g31
+tp8111
+sVSunshine
+p8112
+(NNtp8113
+sVM83
+p8114
+(Vboth
+p8115
+g18
+tp8116
+sVJackie Wilson
+p8117
+(Vmale
+p8118
+g11
+tp8119
+sVMario
+p8120
+(Vmale
+p8121
+g3
+tp8122
+sVA Winged Victory for the Sullen
+p8123
+(NNtp8124
+sVSean Paul
+p8125
+(Vmale
+p8126
+g31
+tp8127
+sVRationale
+p8128
+(NNtp8129
+sVN.W.A
+p8130
+(Vmale
+p8131
+g31
+tp8132
+sVKindness
+p8133
+(Vmale
+p8134
+g11
+tp8135
+sVKreator
+p8136
+(Vmale
+p8137
+g3
+tp8138
+sVJoshua Radin
+p8139
+(Vmale
+p8140
+g3
+tp8141
+sVDJ Khaled
+p8142
+(Vmale
+p8143
+g18
+tp8144
+sVLady Gaga
+p8145
+(Vfemale
+p8146
+g18
+tp8147
+sVFuture
+p8148
+(Vmale
+p8149
+g18
+tp8150
+sVDagny
+p8151
+(Vfemale
+p8152
+g11
+tp8153
+sVAnssi Kela
+p8154
+(Vmale
+p8155
+g31
+tp8156
+sVTestament
+p8157
+(Vmale
+p8158
+g3
+tp8159
+sVBarenaked Ladies
+p8160
+(Vmale
+p8161
+g3
+tp8162
+sVDoves
+p8163
+(Vmale
+p8164
+g3
+tp8165
+sVTrent Reznor and Atticus Ross
+p8166
+(Vmale
+p8167
+g136
+tp8168
+sVKamasi Washington
+p8169
+(Vmale
+p8170
+g3
+tp8171
+sVSergey Lazarev
+p8172
+(Vmale
+p8173
+g31
+tp8174
+sVSteve Earle
+p8175
+(Vmale
+p8176
+g3
+tp8177
+sVLush
+p8178
+(NNtp8179
+sVDonovan
+p8180
+(Vmale
+p8181
+g3
+tp8182
+sVThe Griswolds
+p8183
+(Vmale
+p8184
+g3
+tp8185
+sVKadebostany
+p8186
+(NNtp8187
+sVThe Dodos
+p8188
+(Vmale
+p8189
+g3
+tp8190
+sVSleep
+p8191
+(NNtp8192
+sVMNEK
+p8193
+(Vmale
+p8194
+g18
+tp8195
+sVA.A. Bondy
+p8196
+(Vmale
+p8197
+g3
+tp8198
+sVVIXX
+p8199
+(NNtp8200
+sVScandal
+p8201
+(Vboth
+p8202
+g31
+tp8203
+sVThe Cranberries
+p8204
+(Vboth
+p8205
+g31
+tp8206
+sVDire Straits
+p8207
+(Vmale
+p8208
+g31
+tp8209
 s.
