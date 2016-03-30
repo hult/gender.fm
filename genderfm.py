@@ -2,10 +2,12 @@ import musicgraph
 import lastfm
 import musicbrainz
 import genderizeio
+import cache
 import time
 import pprint
 import sys
 import os
+import pickle
 
 lastfm_service = lastfm.LastFm(os.getenv('LASTFM_API_KEY'))
 
@@ -15,6 +17,11 @@ gender_providers = [
     genderizeio,
 ]
 
+try:
+    cache = pickle.load(open("cache", "r"))
+except:
+    cache = {}
+
 def top_artists_with_gender(username):
     """Given a last.fm username, return a list of last.fm artist objects
     with a gender added. Gender is taken from the first of
@@ -23,11 +30,10 @@ def top_artists_with_gender(username):
     res = []
     for i, artist in enumerate(lastfm_service.top_artists(username)):
         print i
-        gender, gender_provider = get_gender(artist)
+        gender, gender_provider = get_gender_cached(artist)
         artist['gender'] = gender
         artist['gender_provider'] = gender_provider
         res.append(artist)
-        time.sleep(1.5)
     return res
 
 def get_gender(artist):
@@ -37,9 +43,15 @@ def get_gender(artist):
     """
     for provider in gender_providers:
         gender = provider.gender(artist['name'])
+        print artist['name'], gender, provider.__name__
         if gender is not None:
             break
     return gender, gender is not None and provider.__name__ or None
+
+def get_gender_cached(artist):
+    if artist['name'] in cache:
+        return cache[artist['name']]
+    return get_gender(artist)
 
 def gender_score(gender):
     return {
