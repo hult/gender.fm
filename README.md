@@ -18,5 +18,16 @@ This step is optional.
 
 ## Command-line usage ##
 
-    $ python genderfm.py <last-fm-username>
+    $ python genderfm.py
     0.53242
+
+## Pre-warm the artist gender cache ##
+
+    $ python warm_cache.py
+
+## Start the server ##
+
+    $ python server.py
+
+Then point your browser to `http://localhost:5000/` and log in using
+your Spotify account.
