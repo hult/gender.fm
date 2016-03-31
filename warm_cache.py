@@ -37,7 +37,10 @@ def lastfm(country=None):
             params=params).json()
         for a in r[artists_key]['artist']:
             yield a
+        if r[artists_key]['@attr']['totalPages'] == page:
+            break
         page += 1
+        params['page'] = page
 
 def roundrobin(*iterables):
     "roundrobin('ABC', 'D', 'EF') --> A D E B F C"
@@ -60,8 +63,14 @@ def main():
         gender, gender_provider = genderfm.get_gender(artist)
         cache[artist['name']] = (gender, gender_provider)
 
-        if i > 0 and i % 100 == 0:
-            pickle.dump(cache, open("cache", "w"))
+        if i > 0 and len(cache) % 30 == 0:
+            f = open("cache", "w")
+            pickle.dump(cache, f)
+            f.close()
+
+    f = open("cache", "w")
+    pickle.dump(cache, f)
+    f.close()
 
 if __name__ == '__main__':
     main()
