@@ -9,7 +9,10 @@ class Spotify(object):
 
     def top_artists(self, time_range='medium_term'):
         headers = { 'Authorization': 'Bearer ' + self._access_token }
-        params = {'time_range': time_range}
+        params = {
+            'time_range': time_range,
+            'limit': 50
+        }
         artists = requests.get('%(base_url)s/me/top/artists' % \
             {'base_url': BASE_URL},
             params=params, headers=headers).json()['items']

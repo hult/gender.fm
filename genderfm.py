@@ -1,6 +1,6 @@
 import musicgraph
-import lastfm
 import musicbrainz
+import spotify
 import genderizeio
 import cache
 import time
@@ -8,8 +8,6 @@ import pprint
 import sys
 import os
 import pickle
-
-lastfm_service = lastfm.LastFm(os.getenv('LASTFM_API_KEY'))
 
 gender_providers = [
     musicgraph.MusicGraph(os.getenv('MUSICGRAPH_API_KEY')),
@@ -22,19 +20,16 @@ try:
 except:
     cache = {}
 
-def top_artists_with_gender(username):
-    """Given a last.fm username, return a list of last.fm artist objects
-    with a gender added. Gender is taken from the first of
-    gender_providers that return a non-None response.
+def add_gender(artists):
+    """Given a number of Spotify artists, return them with a gender,
+    and the provider of that gender, added.
     """
-    res = []
-    for i, artist in enumerate(lastfm_service.top_artists(username)):
+    for i, artist in enumerate(artists):
         print i
         gender, gender_provider = get_gender_cached(artist)
         artist['gender'] = gender
         artist['gender_provider'] = gender_provider
-        res.append(artist)
-    return res
+    return artists
 
 def get_gender(artist):
     """Given an artist (a dictionary with a name property), return
@@ -61,17 +56,38 @@ def gender_score(gender):
         'both': 0.5
     }.get(gender)
 
-def main():
-    artists = top_artists_with_gender(sys.argv[1])
+def to_genderfm_artist(artist):
+    desired_image_width = 300
+    res = {
+        "name": artist["name"],
+        "gender": artist["gender"],
+    }
+    images = sorted(artist.get("images", []), key=lambda i: abs(desired_image_width - i["width"]))
+    if len(images) > 0:
+        res["image_url"] = images[0]["url"]
+
+    return res
+
+def genderfm(access_token):
+    spotify_service = spotify.Spotify(access_token)
+    artists = spotify_service.top_artists()
+    artists_with_gender = add_gender(artists)
     total_score = 0.0
     total_affinity = 0
-    for i, artist in enumerate(artists):
+    res = {"artists": [], "score": 0.5}
+    for i, artist in enumerate(artists_with_gender):
         score = gender_score(artist['gender'])
         if score is not None:
             total_score += score * int(artist['affinity'])
             total_affinity += int(artist['affinity'])
         print artist['name'], artist['affinity'], artist['gender_provider'], artist['gender']
-    print total_score / total_affinity
+        res["artists"].append(to_genderfm_artist(artist))
+    res["score"] = total_score / total_affinity
+    return res
+
+def main():
+    import pprint
+    pprint.pprint(genderfm(os.getenv('SPOTIFY_ACCESS_TOKEN')))
 
 if __name__ == '__main__':
     main()
