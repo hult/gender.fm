@@ -70,7 +70,7 @@ def to_genderfm_artist(artist):
 
 def genderfm(access_token):
     spotify_service = spotify.Spotify(access_token)
-    artists = spotify_service.top_artists()
+    artists = spotify_service.top_artists(time_range='long_term')
     artists_with_gender = add_gender(artists)
     total_score = 0.0
     total_affinity = 0
@@ -82,7 +82,7 @@ def genderfm(access_token):
             total_affinity += int(artist['affinity'])
         print artist['name'], artist['affinity'], artist['gender_provider'], artist['gender']
         res["artists"].append(to_genderfm_artist(artist))
-    res["score"] = total_score / total_affinity
+    res["score"] = round((total_score / total_affinity) * 100, 1)
     return res
 
 def main():

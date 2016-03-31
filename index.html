@@ -40,6 +40,19 @@ function info(msg) {
     $("#info").text(msg);
 }
 
+function apiRequest(path, data, callback) {
+    $.ajax(API_BASE + path + '?access_token=' + accessToken, {
+        dataType: 'json',
+        data: data,
+        success: function(r) {
+            callback(r);
+        },
+        error: function(r) {
+            callback(null);
+        }
+    });
+}
+
 $(document).ready(
     function() {
         var args = parseArgs();
@@ -52,7 +65,18 @@ $(document).ready(
             });
         } else if ('access_token' in args) {
             accessToken = args['access_token'];
-            $("#access_token").text(accessToken);
+            apiRequest('/genders', null, function(r) {
+              var description = "You listen to " + r.score + "% women";
+              if (r.score > 50) {
+                description = "You listen to " + (100 - r.score) + "% men";
+              }
+              $("#description").text(description);
+              _.each(r.artists, function(artist) {
+                $("#artists").append($("<li>", { text: artist.name }));
+              });
+              $("#go").hide();
+              $("#results").show();
+            });
         } else {
             $("#go").show();
             $("#go").on('click', function() {
@@ -66,5 +90,8 @@ $(document).ready(
 <body>
   <p id="info"></p>
   <p><a id="go" hidden="true">Login with Spotify</a></p>
-  <p id="access_token"></p>
+  <div id="results" hidden="true">
+    <p id="description">You listen to X% women</p>
+    <ul id="artists"></ul>
+  </div>
 </body>
